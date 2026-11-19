@@ -1,70 +1,128 @@
 {
-  "title": "2.2 Application of Derivative — Hard",
+  "title": "2.2 Application of Derivative",
   "description": "Ten challenging questions on extrema, tangent lines, kinematics, and optimization.",
   "folder": "School/Grade 12/Mathematics/Unit 2/2.2 Application of Derivative",
   "field": "natural",
   "anki": true,
   "difficulty": "hard",
-  "tags": ["mathematics", "grade 12", "unit 2", "calculus", "applications of derivatives", "optimization", "hard"],
+  "tags": [
+    "mathematics",
+    "grade 12",
+    "unit 2",
+    "calculus",
+    "applications of derivatives",
+    "optimization",
+    "hard"
+  ],
   "questions": [
     {
       "id": 1,
       "question": "Where does $f(x) = x^3 - 6x^2 + 9x$ have its local maximum?",
-      "options": ["$x = 1$", "$x = 3$", "$x = 0$", "$x = 2$"],
+      "options": [
+        "$x = 1$",
+        "$x = 3$",
+        "$x = 0$",
+        "$x = 2$"
+      ],
       "correctAnswer": "$x = 1$"
     },
     {
       "id": 2,
       "question": "What is the tangent line to $y = x^3$ at $x = 2$?",
-      "options": ["$y = 12x - 16$", "$y = 12x + 16$", "$y = 6x - 8$", "$y = 12x - 8$"],
+      "options": [
+        "$y = 12x - 16$",
+        "$y = 12x + 16$",
+        "$y = 6x - 8$",
+        "$y = 12x - 8$"
+      ],
       "correctAnswer": "$y = 12x - 16$"
     },
     {
       "id": 3,
       "question": "For $s(t) = t^3 - 6t^2 + 9t$, at which times is the velocity zero?",
-      "options": ["$t = 1$ and $t = 3$", "$t = 0$ and $t = 3$", "$t = 2$ and $t = 3$", "$t = 1$ and $t = 2$"],
+      "options": [
+        "$t = 1$ and $t = 3$",
+        "$t = 0$ and $t = 3$",
+        "$t = 2$ and $t = 3$",
+        "$t = 1$ and $t = 2$"
+      ],
       "correctAnswer": "$t = 1$ and $t = 3$"
     },
     {
       "id": 4,
       "question": "If $s(t) = 2t^3 - 3t^2$, what is the acceleration?",
-      "options": ["$12t - 6$", "$6t^2 - 6t$", "$12t - 3$", "$6t - 6$"],
+      "options": [
+        "$12t - 6$",
+        "$6t^2 - 6t$",
+        "$12t - 3$",
+        "$6t - 6$"
+      ],
       "correctAnswer": "$12t - 6$"
     },
     {
       "id": 5,
       "question": "A rectangular plot is fenced with 100 m of fencing. What is the maximum possible area?",
-      "options": ["625 m²", "500 m²", "600 m²", "2500 m²"],
+      "options": [
+        "625 m²",
+        "500 m²",
+        "600 m²",
+        "2500 m²"
+      ],
       "correctAnswer": "625 m²"
     },
     {
       "id": 6,
       "question": "Where does $f(x) = x^3 - 3x^2 + 4$ have its local minimum?",
-      "options": ["$x = 2$", "$x = 0$", "$x = 1$", "$x = 3$"],
+      "options": [
+        "$x = 2$",
+        "$x = 0$",
+        "$x = 1$",
+        "$x = 3$"
+      ],
       "correctAnswer": "$x = 2$"
     },
     {
       "id": 7,
       "question": "Where is the inflection point of $f(x) = x^3$?",
-      "options": ["$x = 0$", "$x = 1$", "$x = -1$", "$x = 3$"],
+      "options": [
+        "$x = 0$",
+        "$x = 1$",
+        "$x = -1$",
+        "$x = 3$"
+      ],
       "correctAnswer": "$x = 0$"
     },
     {
       "id": 8,
       "question": "If the revenue function is $R(x) = 100x - x^2$, what is the marginal revenue?",
-      "options": ["$100 - 2x$", "$100 - x$", "$100x - 2x$", "$2x - 100$"],
+      "options": [
+        "$100 - 2x$",
+        "$100 - x$",
+        "$100x - 2x$",
+        "$2x - 100$"
+      ],
       "correctAnswer": "$100 - 2x$"
     },
     {
       "id": 9,
       "question": "On which intervals is $f(x) = x^3 - 3x$ increasing?",
-      "options": ["$x < -1$ or $x > 1$", "$-1 < x < 1$", "$x > 0$", "$x < 0$"],
+      "options": [
+        "$x < -1$ or $x > 1$",
+        "$-1 < x < 1$",
+        "$x > 0$",
+        "$x < 0$"
+      ],
       "correctAnswer": "$x < -1$ or $x > 1$"
     },
     {
       "id": 10,
       "question": "What is the local maximum value of $f(x) = x^3 - 3x$ at $x = -1$?",
-      "options": ["2", "-2", "0", "1"],
+      "options": [
+        "2",
+        "-2",
+        "0",
+        "1"
+      ],
       "correctAnswer": "2"
     }
   ]

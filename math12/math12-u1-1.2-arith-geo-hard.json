@@ -1,70 +1,128 @@
 {
-  "title": "1.2 Arithmetic and Geometric Sequences — Hard",
+  "title": "1.2 Arithmetic and Geometric Sequences",
   "description": "Ten challenging questions on sums, term counts, and mixed arithmetic-geometric problems.",
   "folder": "School/Grade 12/Mathematics/Unit 1/1.2 Arithmetic and Geometric Sequences",
   "field": "natural",
   "anki": true,
   "difficulty": "hard",
-  "tags": ["mathematics", "grade 12", "unit 1", "sequences and series", "arithmetic sequence", "geometric sequence", "hard"],
+  "tags": [
+    "mathematics",
+    "grade 12",
+    "unit 1",
+    "sequences and series",
+    "arithmetic sequence",
+    "geometric sequence",
+    "hard"
+  ],
   "questions": [
     {
       "id": 1,
       "question": "An arithmetic sequence has $a_1 = 3$ and $d = 2$. What is the sum of the first 20 terms?",
-      "options": ["440", "420", "460", "400"],
+      "options": [
+        "440",
+        "420",
+        "460",
+        "400"
+      ],
       "correctAnswer": "440"
     },
     {
       "id": 2,
       "question": "A geometric sequence has $a_1 = 2$ and $r = 3$. What is the sum of the first 6 terms?",
-      "options": ["728", "486", "729", "364"],
+      "options": [
+        "728",
+        "486",
+        "729",
+        "364"
+      ],
       "correctAnswer": "728"
     },
     {
       "id": 3,
       "question": "An arithmetic sequence has $a_5 = 17$ and $a_{10} = 37$. What are $a_1$ and $d$?",
-      "options": ["$a_1 = 1, d = 4$", "$a_1 = 3, d = 4$", "$a_1 = 1, d = 3$", "$a_1 = 5, d = 3$"],
+      "options": [
+        "$a_1 = 1, d = 4$",
+        "$a_1 = 3, d = 4$",
+        "$a_1 = 1, d = 3$",
+        "$a_1 = 5, d = 3$"
+      ],
       "correctAnswer": "$a_1 = 1, d = 4$"
     },
     {
       "id": 4,
       "question": "A geometric sequence has $a_1 = 5$ and $a_4 = 40$. What is the sum of the first 5 terms?",
-      "options": ["155", "160", "145", "150"],
+      "options": [
+        "155",
+        "160",
+        "145",
+        "150"
+      ],
       "correctAnswer": "155"
     },
     {
       "id": 5,
       "question": "How many terms are in the arithmetic sequence 3, 7, 11, ..., 99?",
-      "options": ["25", "24", "26", "23"],
+      "options": [
+        "25",
+        "24",
+        "26",
+        "23"
+      ],
       "correctAnswer": "25"
     },
     {
       "id": 6,
       "question": "Three numbers are in arithmetic progression and their sum is 15. What is the middle term?",
-      "options": ["5", "3", "6", "4"],
+      "options": [
+        "5",
+        "3",
+        "6",
+        "4"
+      ],
       "correctAnswer": "5"
     },
     {
       "id": 7,
       "question": "The sum of the first $n$ terms of an arithmetic sequence can be written as ...",
-      "options": ["$S_n = \\frac{n}{2}(a_1 + a_n)$", "$S_n = n(a_1 + a_n)$", "$S_n = \\frac{n}{2}(a_1 - a_n)$", "$S_n = a_1 + a_n$"],
+      "options": [
+        "$S_n = \\frac{n}{2}(a_1 + a_n)$",
+        "$S_n = n(a_1 + a_n)$",
+        "$S_n = \\frac{n}{2}(a_1 - a_n)$",
+        "$S_n = a_1 + a_n$"
+      ],
       "correctAnswer": "$S_n = \\frac{n}{2}(a_1 + a_n)$"
     },
     {
       "id": 8,
       "question": "A geometric sequence has $a_1 = 3$ and $r = -2$. What is $a_5$?",
-      "options": ["48", "-48", "24", "-24"],
+      "options": [
+        "48",
+        "-48",
+        "24",
+        "-24"
+      ],
       "correctAnswer": "48"
     },
     {
       "id": 9,
       "question": "If $a$, $b$, and $c$ are consecutive terms of a geometric sequence, then ...",
-      "options": ["$b^2 = ac$", "$b^2 = a + c$", "$2b = a + c$", "$b = ac$"],
+      "options": [
+        "$b^2 = ac$",
+        "$b^2 = a + c$",
+        "$2b = a + c$",
+        "$b = ac$"
+      ],
       "correctAnswer": "$b^2 = ac$"
     },
     {
       "id": 10,
       "question": "What is the sum of the first 15 positive multiples of 3?",
-      "options": ["360", "345", "375", "330"],
+      "options": [
+        "360",
+        "345",
+        "375",
+        "330"
+      ],
       "correctAnswer": "360"
     }
   ]

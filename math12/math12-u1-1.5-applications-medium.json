@@ -1,70 +1,127 @@
 {
-  "title": "1.5 Applications of Sequence and Series — Medium",
+  "title": "1.5 Applications of Sequence and Series",
   "description": "Ten questions applying arithmetic and geometric models to money, salaries, and population.",
   "folder": "School/Grade 12/Mathematics/Unit 1/1.5 Applications of Sequence and Series",
   "field": "natural",
   "anki": true,
   "difficulty": "medium",
-  "tags": ["mathematics", "grade 12", "unit 1", "sequences and series", "applications", "medium"],
+  "tags": [
+    "mathematics",
+    "grade 12",
+    "unit 1",
+    "sequences and series",
+    "applications",
+    "medium"
+  ],
   "questions": [
     {
       "id": 1,
       "question": "How much does 1000 birr become after 2 years at 10% compound interest per year?",
-      "options": ["1210", "1200", "1100", "1220"],
+      "options": [
+        "1210",
+        "1200",
+        "1100",
+        "1220"
+      ],
       "correctAnswer": "1210"
     },
     {
       "id": 2,
       "question": "A machine worth 5000 birr depreciates by 20% in one year. What is its value after one year?",
-      "options": ["4000", "4500", "4800", "3800"],
+      "options": [
+        "4000",
+        "4500",
+        "4800",
+        "3800"
+      ],
       "correctAnswer": "4000"
     },
     {
       "id": 3,
       "question": "A salary starts at 5000 birr and rises by 500 birr each year. What is the salary in the 5th year?",
-      "options": ["7000", "7500", "6500", "8000"],
+      "options": [
+        "7000",
+        "7500",
+        "6500",
+        "8000"
+      ],
       "correctAnswer": "7000"
     },
     {
       "id": 4,
       "question": "A population of 2000 grows by 5% each year. What is the population after 2 years?",
-      "options": ["2205", "2200", "2100", "2300"],
+      "options": [
+        "2205",
+        "2200",
+        "2100",
+        "2300"
+      ],
       "correctAnswer": "2205"
     },
     {
       "id": 5,
       "question": "A student saves 100 birr every month for 12 months. How much is saved in total?",
-      "options": ["1200", "1100", "1300", "1000"],
+      "options": [
+        "1200",
+        "1100",
+        "1300",
+        "1000"
+      ],
       "correctAnswer": "1200"
     },
     {
       "id": 6,
       "question": "What is the simple interest on 1000 birr at 5% per year for 3 years?",
-      "options": ["150", "50", "300", "1150"],
+      "options": [
+        "150",
+        "50",
+        "300",
+        "1150"
+      ],
       "correctAnswer": "150"
     },
     {
       "id": 7,
       "question": "The compound interest earned is calculated as ...",
-      "options": ["$A - P$", "$P - A$", "$P + A$", "$A \\cdot P$"],
+      "options": [
+        "$A - P$",
+        "$P - A$",
+        "$P + A$",
+        "$A \\cdot P$"
+      ],
       "correctAnswer": "$A - P$"
     },
     {
       "id": 8,
       "question": "The value of an item after $n$ years of depreciation at rate $r$ is ...",
-      "options": ["$P(1-r)^n$", "$P(1+r)^n$", "$P(1+rn)$", "$P - rn$"],
+      "options": [
+        "$P(1-r)^n$",
+        "$P(1+r)^n$",
+        "$P(1+rn)$",
+        "$P - rn$"
+      ],
       "correctAnswer": "$P(1-r)^n$"
     },
     {
       "id": 9,
       "question": "A 10% annual growth rate corresponds to a growth factor of ...",
-      "options": ["1.1", "0.1", "1.01", "0.9"],
+      "options": [
+        "1.1",
+        "0.1",
+        "1.01",
+        "0.9"
+      ],
       "correctAnswer": "1.1"
     },
     {
       "id": 10,
       "question": "A fixed yearly salary increase is best modelled by ...",
-      "options": ["an arithmetic sequence", "a geometric sequence", "a harmonic sequence", "an infinite series"],
+      "options": [
+        "an arithmetic sequence",
+        "a geometric sequence",
+        "a harmonic sequence",
+        "an infinite series"
+      ],
       "correctAnswer": "an arithmetic sequence"
     }
   ]

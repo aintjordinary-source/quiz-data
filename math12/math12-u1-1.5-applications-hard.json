@@ -1,70 +1,127 @@
 {
-  "title": "1.5 Applications of Sequence and Series — Hard",
+  "title": "1.5 Applications of Sequence and Series",
   "description": "Ten challenging applied problems on compound interest, depreciation, population growth, and series totals.",
   "folder": "School/Grade 12/Mathematics/Unit 1/1.5 Applications of Sequence and Series",
   "field": "natural",
   "anki": true,
   "difficulty": "hard",
-  "tags": ["mathematics", "grade 12", "unit 1", "sequences and series", "applications", "hard"],
+  "tags": [
+    "mathematics",
+    "grade 12",
+    "unit 1",
+    "sequences and series",
+    "applications",
+    "hard"
+  ],
   "questions": [
     {
       "id": 1,
       "question": "How much does 2000 birr become after 3 years at 5% compound interest per year?",
-      "options": ["2315.25", "2300", "2210.50", "2410"],
+      "options": [
+        "2315.25",
+        "2300",
+        "2210.50",
+        "2410"
+      ],
       "correctAnswer": "2315.25"
     },
     {
       "id": 2,
       "question": "A salary starts at 6000 birr and increases by 400 birr each year. What is the total earned over 5 years?",
-      "options": ["34000", "32000", "36000", "30000"],
+      "options": [
+        "34000",
+        "32000",
+        "36000",
+        "30000"
+      ],
       "correctAnswer": "34000"
     },
     {
       "id": 3,
       "question": "A population of 5000 grows by 2% each year. What is the population after 3 years?",
-      "options": ["5306.04", "5300", "5200", "5400"],
+      "options": [
+        "5306.04",
+        "5300",
+        "5200",
+        "5400"
+      ],
       "correctAnswer": "5306.04"
     },
     {
       "id": 4,
       "question": "A car worth 800000 birr depreciates by 15% each year. What is its value after 2 years?",
-      "options": ["578000", "560000", "680000", "600000"],
+      "options": [
+        "578000",
+        "560000",
+        "680000",
+        "600000"
+      ],
       "correctAnswer": "578000"
     },
     {
       "id": 5,
       "question": "Monthly deposits start at 100 birr and rise by 50 birr each month for 12 months. What is the total deposited?",
-      "options": ["4500", "4200", "4800", "3600"],
+      "options": [
+        "4500",
+        "4200",
+        "4800",
+        "3600"
+      ],
       "correctAnswer": "4500"
     },
     {
       "id": 6,
       "question": "A radioactive sample of 80 g decays with a half-life of one year. How much remains after 3 years?",
-      "options": ["10 g", "20 g", "40 g", "5 g"],
+      "options": [
+        "10 g",
+        "20 g",
+        "40 g",
+        "5 g"
+      ],
       "correctAnswer": "10 g"
     },
     {
       "id": 7,
       "question": "A bacteria culture of 100 doubles every hour. What is the count after 4 hours?",
-      "options": ["1600", "800", "400", "3200"],
+      "options": [
+        "1600",
+        "800",
+        "400",
+        "3200"
+      ],
       "correctAnswer": "1600"
     },
     {
       "id": 8,
       "question": "For the same principal, rate, and time, compound interest is generally ... simple interest.",
-      "options": ["greater than", "less than", "equal to", "unrelated to"],
+      "options": [
+        "greater than",
+        "less than",
+        "equal to",
+        "unrelated to"
+      ],
       "correctAnswer": "greater than"
     },
     {
       "id": 9,
       "question": "How much does 5000 birr become after 2 years at 8% compound interest per year?",
-      "options": ["5832", "5800", "5400", "5900"],
+      "options": [
+        "5832",
+        "5800",
+        "5400",
+        "5900"
+      ],
       "correctAnswer": "5832"
     },
     {
       "id": 10,
       "question": "How much does 10000 birr become after 2 years at 10% compound interest per year?",
-      "options": ["12100", "12000", "11000", "12200"],
+      "options": [
+        "12100",
+        "12000",
+        "11000",
+        "12200"
+      ],
       "correctAnswer": "12100"
     }
   ]

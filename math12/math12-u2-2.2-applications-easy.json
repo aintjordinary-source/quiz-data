@@ -1,70 +1,127 @@
 {
-  "title": "2.2 Application of Derivative — Easy",
+  "title": "2.2 Application of Derivative",
   "description": "Ten questions on tangents, critical points, increasing and decreasing functions, and rates of change.",
   "folder": "School/Grade 12/Mathematics/Unit 2/2.2 Application of Derivative",
   "field": "natural",
   "anki": true,
   "difficulty": "easy",
-  "tags": ["mathematics", "grade 12", "unit 2", "calculus", "applications of derivatives", "easy"],
+  "tags": [
+    "mathematics",
+    "grade 12",
+    "unit 2",
+    "calculus",
+    "applications of derivatives",
+    "easy"
+  ],
   "questions": [
     {
       "id": 1,
       "question": "The derivative of a function at a point gives the ...",
-      "options": ["slope of the tangent line", "area under the curve", "length of the curve", "y-intercept"],
+      "options": [
+        "slope of the tangent line",
+        "area under the curve",
+        "length of the curve",
+        "y-intercept"
+      ],
       "correctAnswer": "slope of the tangent line"
     },
     {
       "id": 2,
       "question": "At a local maximum or minimum, the derivative $f'(x)$ equals ...",
-      "options": ["0", "1", "$x$", "infinity"],
+      "options": [
+        "0",
+        "1",
+        "$x$",
+        "infinity"
+      ],
       "correctAnswer": "0"
     },
     {
       "id": 3,
       "question": "A function is increasing on an interval when ...",
-      "options": ["$f'(x) > 0$", "$f'(x) < 0$", "$f'(x) = 0$", "$f'(x) = 1$"],
+      "options": [
+        "$f'(x) > 0$",
+        "$f'(x) < 0$",
+        "$f'(x) = 0$",
+        "$f'(x) = 1$"
+      ],
       "correctAnswer": "$f'(x) > 0$"
     },
     {
       "id": 4,
       "question": "A function is decreasing on an interval when ...",
-      "options": ["$f'(x) < 0$", "$f'(x) > 0$", "$f'(x) = 0$", "$f'(x) = 1$"],
+      "options": [
+        "$f'(x) < 0$",
+        "$f'(x) > 0$",
+        "$f'(x) = 0$",
+        "$f'(x) = 1$"
+      ],
       "correctAnswer": "$f'(x) < 0$"
     },
     {
       "id": 5,
       "question": "A critical point of a function occurs where ...",
-      "options": ["$f'(x) = 0$", "$f(x) = 0$", "$f''(x) = 0$", "$x = 0$"],
+      "options": [
+        "$f'(x) = 0$",
+        "$f(x) = 0$",
+        "$f''(x) = 0$",
+        "$x = 0$"
+      ],
       "correctAnswer": "$f'(x) = 0$"
     },
     {
       "id": 6,
       "question": "Velocity is the derivative of ...",
-      "options": ["displacement", "acceleration", "force", "mass"],
+      "options": [
+        "displacement",
+        "acceleration",
+        "force",
+        "mass"
+      ],
       "correctAnswer": "displacement"
     },
     {
       "id": 7,
       "question": "Acceleration is the derivative of ...",
-      "options": ["velocity", "displacement", "momentum", "time"],
+      "options": [
+        "velocity",
+        "displacement",
+        "momentum",
+        "time"
+      ],
       "correctAnswer": "velocity"
     },
     {
       "id": 8,
       "question": "Marginal cost is the derivative of ...",
-      "options": ["the cost function", "the revenue function", "the profit function", "the demand function"],
+      "options": [
+        "the cost function",
+        "the revenue function",
+        "the profit function",
+        "the demand function"
+      ],
       "correctAnswer": "the cost function"
     },
     {
       "id": 9,
       "question": "The second derivative of $f(x)$ is denoted by ...",
-      "options": ["$f''(x)$", "$f^2(x)$", "$f'(2x)$", "$2f'(x)$"],
+      "options": [
+        "$f''(x)$",
+        "$f^2(x)$",
+        "$f'(2x)$",
+        "$2f'(x)$"
+      ],
       "correctAnswer": "$f''(x)$"
     },
     {
       "id": 10,
       "question": "The slope of the tangent line to a curve at a point equals ...",
-      "options": ["the derivative at that point", "the function value at that point", "the second derivative", "the area under the curve"],
+      "options": [
+        "the derivative at that point",
+        "the function value at that point",
+        "the second derivative",
+        "the area under the curve"
+      ],
       "correctAnswer": "the derivative at that point"
     }
   ]

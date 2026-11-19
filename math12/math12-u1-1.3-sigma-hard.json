@@ -1,70 +1,128 @@
 {
-  "title": "1.3 Sigma Notation and Partial Sums — Hard",
+  "title": "1.3 Sigma Notation and Partial Sums",
   "description": "Ten challenging questions on combining summation formulas and evaluating complex finite sums.",
   "folder": "School/Grade 12/Mathematics/Unit 1/1.3 Sigma Notation and Partial Sums",
   "field": "natural",
   "anki": true,
   "difficulty": "hard",
-  "tags": ["mathematics", "grade 12", "unit 1", "sequences and series", "sigma notation", "partial sums", "hard"],
+  "tags": [
+    "mathematics",
+    "grade 12",
+    "unit 1",
+    "sequences and series",
+    "sigma notation",
+    "partial sums",
+    "hard"
+  ],
   "questions": [
     {
       "id": 1,
       "question": "What is $\\sum_{i=1}^{n} i(i+1)$?",
-      "options": ["$\\frac{n(n+1)(n+2)}{3}$", "$\\frac{n(n+1)}{2}$", "$\\frac{n(n+1)(2n+1)}{6}$", "$n(n+1)(n+2)$"],
+      "options": [
+        "$\\frac{n(n+1)(n+2)}{3}$",
+        "$\\frac{n(n+1)}{2}$",
+        "$\\frac{n(n+1)(2n+1)}{6}$",
+        "$n(n+1)(n+2)$"
+      ],
       "correctAnswer": "$\\frac{n(n+1)(n+2)}{3}$"
     },
     {
       "id": 2,
       "question": "What is $\\sum_{i=1}^{10} (i^2 + 1)$?",
-      "options": ["395", "385", "405", "390"],
+      "options": [
+        "395",
+        "385",
+        "405",
+        "390"
+      ],
       "correctAnswer": "395"
     },
     {
       "id": 3,
       "question": "What is $\\sum_{i=1}^{n} (3i^2 - 2i)$?",
-      "options": ["$\\frac{n(n+1)(2n-1)}{2}$", "$\\frac{n(n+1)(2n+1)}{2}$", "$n(n+1)(2n-1)$", "$\\frac{n(n+1)(n+2)}{3}$"],
+      "options": [
+        "$\\frac{n(n+1)(2n-1)}{2}$",
+        "$\\frac{n(n+1)(2n+1)}{2}$",
+        "$n(n+1)(2n-1)$",
+        "$\\frac{n(n+1)(n+2)}{3}$"
+      ],
       "correctAnswer": "$\\frac{n(n+1)(2n-1)}{2}$"
     },
     {
       "id": 4,
       "question": "What is $\\sum_{i=1}^{5} (i^3 - i)$?",
-      "options": ["210", "225", "215", "200"],
+      "options": [
+        "210",
+        "225",
+        "215",
+        "200"
+      ],
       "correctAnswer": "210"
     },
     {
       "id": 5,
       "question": "What is $\\sum_{i=1}^{n} (2i-1)$?",
-      "options": ["$n^2$", "$n(n+1)$", "$2n^2$", "$\\frac{n(n+1)}{2}$"],
+      "options": [
+        "$n^2$",
+        "$n(n+1)$",
+        "$2n^2$",
+        "$\\frac{n(n+1)}{2}$"
+      ],
       "correctAnswer": "$n^2$"
     },
     {
       "id": 6,
       "question": "What is $\\sum_{i=1}^{8} (4i+3)$?",
-      "options": ["168", "160", "172", "176"],
+      "options": [
+        "168",
+        "160",
+        "172",
+        "176"
+      ],
       "correctAnswer": "168"
     },
     {
       "id": 7,
       "question": "For which $n$ does $\\sum_{i=1}^{n} i^2 = 204$?",
-      "options": ["8", "7", "9", "6"],
+      "options": [
+        "8",
+        "7",
+        "9",
+        "6"
+      ],
       "correctAnswer": "8"
     },
     {
       "id": 8,
       "question": "What is $\\sum_{i=1}^{4} (i^2 + i)$?",
-      "options": ["40", "30", "50", "36"],
+      "options": [
+        "40",
+        "30",
+        "50",
+        "36"
+      ],
       "correctAnswer": "40"
     },
     {
       "id": 9,
       "question": "What is $\\sum_{i=1}^{6} i(i-1)$?",
-      "options": ["70", "91", "56", "84"],
+      "options": [
+        "70",
+        "91",
+        "56",
+        "84"
+      ],
       "correctAnswer": "70"
     },
     {
       "id": 10,
       "question": "What is $\\sum_{i=1}^{n} (i^2 + i)$?",
-      "options": ["$\\frac{n(n+1)(n+2)}{3}$", "$\\frac{n(n+1)(2n+1)}{6}$", "$\\frac{n(n+1)}{2}$", "$\\frac{n(n+1)(2n+1)}{3}$"],
+      "options": [
+        "$\\frac{n(n+1)(n+2)}{3}$",
+        "$\\frac{n(n+1)(2n+1)}{6}$",
+        "$\\frac{n(n+1)}{2}$",
+        "$\\frac{n(n+1)(2n+1)}{3}$"
+      ],
       "correctAnswer": "$\\frac{n(n+1)(n+2)}{3}$"
     }
   ]

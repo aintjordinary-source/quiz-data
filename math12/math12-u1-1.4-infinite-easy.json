@@ -1,70 +1,128 @@
 {
-  "title": "1.4 Infinite Series — Easy",
+  "title": "1.4 Infinite Series",
   "description": "Ten questions on infinite series, convergence, and the sum to infinity of a geometric series.",
   "folder": "School/Grade 12/Mathematics/Unit 1/1.4 Infinite Series",
   "field": "natural",
   "anki": true,
   "difficulty": "easy",
-  "tags": ["mathematics", "grade 12", "unit 1", "sequences and series", "infinite series", "convergence", "easy"],
+  "tags": [
+    "mathematics",
+    "grade 12",
+    "unit 1",
+    "sequences and series",
+    "infinite series",
+    "convergence",
+    "easy"
+  ],
   "questions": [
     {
       "id": 1,
       "question": "An infinite series is ...",
-      "options": ["the sum of infinitely many terms", "a sequence with two terms", "a finite list of numbers", "the product of all terms"],
+      "options": [
+        "the sum of infinitely many terms",
+        "a sequence with two terms",
+        "a finite list of numbers",
+        "the product of all terms"
+      ],
       "correctAnswer": "the sum of infinitely many terms"
     },
     {
       "id": 2,
       "question": "A geometric series converges when ...",
-      "options": ["$|r| < 1$", "$|r| > 1$", "$r = 1$", "$r = -1$"],
+      "options": [
+        "$|r| < 1$",
+        "$|r| > 1$",
+        "$r = 1$",
+        "$r = -1$"
+      ],
       "correctAnswer": "$|r| < 1$"
     },
     {
       "id": 3,
       "question": "The sum to infinity of a geometric series with $|r| < 1$ is ...",
-      "options": ["$S_\\infty = \\frac{a}{1-r}$", "$S_\\infty = \\frac{a}{1+r}$", "$S_\\infty = a(1-r)$", "$S_\\infty = \\frac{1-r}{a}$"],
+      "options": [
+        "$S_\\infty = \\frac{a}{1-r}$",
+        "$S_\\infty = \\frac{a}{1+r}$",
+        "$S_\\infty = a(1-r)$",
+        "$S_\\infty = \\frac{1-r}{a}$"
+      ],
       "correctAnswer": "$S_\\infty = \\frac{a}{1-r}$"
     },
     {
       "id": 4,
       "question": "What is the sum $\\frac{1}{2} + \\frac{1}{4} + \\frac{1}{8} + ...$?",
-      "options": ["1", "2", "$\\frac{1}{2}$", "$\\frac{3}{4}$"],
+      "options": [
+        "1",
+        "2",
+        "$\\frac{1}{2}$",
+        "$\\frac{3}{4}$"
+      ],
       "correctAnswer": "1"
     },
     {
       "id": 5,
       "question": "The repeating decimal $0.333...$ equals ...",
-      "options": ["$\\frac{1}{3}$", "$\\frac{3}{10}$", "$\\frac{1}{30}$", "$\\frac{3}{100}$"],
+      "options": [
+        "$\\frac{1}{3}$",
+        "$\\frac{3}{10}$",
+        "$\\frac{1}{30}$",
+        "$\\frac{3}{100}$"
+      ],
       "correctAnswer": "$\\frac{1}{3}$"
     },
     {
       "id": 6,
       "question": "A geometric series diverges when ...",
-      "options": ["$|r| \\ge 1$", "$|r| < 1$", "$r = 0$", "$a = 0$"],
+      "options": [
+        "$|r| \\ge 1$",
+        "$|r| < 1$",
+        "$r = 0$",
+        "$a = 0$"
+      ],
       "correctAnswer": "$|r| \\ge 1$"
     },
     {
       "id": 7,
       "question": "The harmonic series $1 + \\frac{1}{2} + \\frac{1}{3} + ...$ ...",
-      "options": ["diverges", "converges to 1", "converges to 2", "converges to 0"],
+      "options": [
+        "diverges",
+        "converges to 1",
+        "converges to 2",
+        "converges to 0"
+      ],
       "correctAnswer": "diverges"
     },
     {
       "id": 8,
       "question": "What is the sum $1 + \\frac{1}{2} + \\frac{1}{4} + \\frac{1}{8} + ...$?",
-      "options": ["2", "1", "3", "$\\frac{3}{2}$"],
+      "options": [
+        "2",
+        "1",
+        "3",
+        "$\\frac{3}{2}$"
+      ],
       "correctAnswer": "2"
     },
     {
       "id": 9,
       "question": "What is $\\sum_{n=1}^{\\infty} \\left(\\frac{1}{2}\\right)^n$?",
-      "options": ["1", "2", "$\\frac{1}{2}$", "$\\infty$"],
+      "options": [
+        "1",
+        "2",
+        "$\\frac{1}{2}$",
+        "$\\infty$"
+      ],
       "correctAnswer": "1"
     },
     {
       "id": 10,
       "question": "An infinite series is convergent if its partial sums approach ...",
-      "options": ["a finite limit", "infinity", "zero only", "the first term"],
+      "options": [
+        "a finite limit",
+        "infinity",
+        "zero only",
+        "the first term"
+      ],
       "correctAnswer": "a finite limit"
     }
   ]

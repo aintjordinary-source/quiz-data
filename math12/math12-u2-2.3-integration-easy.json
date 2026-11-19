@@ -1,70 +1,127 @@
 {
-  "title": "2.3 Introduction to Integration — Easy",
+  "title": "2.3 Introduction to Integration",
   "description": "Ten questions on antiderivatives, the power rule for integration, and the constant of integration.",
   "folder": "School/Grade 12/Mathematics/Unit 2/2.3 Introduction to Integration",
   "field": "natural",
   "anki": true,
   "difficulty": "easy",
-  "tags": ["mathematics", "grade 12", "unit 2", "calculus", "integration", "easy"],
+  "tags": [
+    "mathematics",
+    "grade 12",
+    "unit 2",
+    "calculus",
+    "integration",
+    "easy"
+  ],
   "questions": [
     {
       "id": 1,
       "question": "Integration is the reverse process of ...",
-      "options": ["differentiation", "multiplication", "addition", "substitution"],
+      "options": [
+        "differentiation",
+        "multiplication",
+        "addition",
+        "substitution"
+      ],
       "correctAnswer": "differentiation"
     },
     {
       "id": 2,
       "question": "What is $\\int x^n\\,dx$ for $n \\ne -1$?",
-      "options": ["$\\frac{x^{n+1}}{n+1} + C$", "$nx^{n-1} + C$", "$x^{n+1} + C$", "$\\frac{x^n}{n} + C$"],
+      "options": [
+        "$\\frac{x^{n+1}}{n+1} + C$",
+        "$nx^{n-1} + C$",
+        "$x^{n+1} + C$",
+        "$\\frac{x^n}{n} + C$"
+      ],
       "correctAnswer": "$\\frac{x^{n+1}}{n+1} + C$"
     },
     {
       "id": 3,
       "question": "What is $\\int 1\\,dx$?",
-      "options": ["$x + C$", "$1 + C$", "$C$", "$x^2 + C$"],
+      "options": [
+        "$x + C$",
+        "$1 + C$",
+        "$C$",
+        "$x^2 + C$"
+      ],
       "correctAnswer": "$x + C$"
     },
     {
       "id": 4,
       "question": "What is $\\int 0\\,dx$?",
-      "options": ["$C$", "$x + C$", "0", "$1 + C$"],
+      "options": [
+        "$C$",
+        "$x + C$",
+        "0",
+        "$1 + C$"
+      ],
       "correctAnswer": "$C$"
     },
     {
       "id": 5,
       "question": "What is $\\int x\\,dx$?",
-      "options": ["$\\frac{x^2}{2} + C$", "$x^2 + C$", "$2x + C$", "$\\frac{x}{2} + C$"],
+      "options": [
+        "$\\frac{x^2}{2} + C$",
+        "$x^2 + C$",
+        "$2x + C$",
+        "$\\frac{x}{2} + C$"
+      ],
       "correctAnswer": "$\\frac{x^2}{2} + C$"
     },
     {
       "id": 6,
       "question": "What is $\\int x^2\\,dx$?",
-      "options": ["$\\frac{x^3}{3} + C$", "$2x + C$", "$x^3 + C$", "$\\frac{x^2}{2} + C$"],
+      "options": [
+        "$\\frac{x^3}{3} + C$",
+        "$2x + C$",
+        "$x^3 + C$",
+        "$\\frac{x^2}{2} + C$"
+      ],
       "correctAnswer": "$\\frac{x^3}{3} + C$"
     },
     {
       "id": 7,
       "question": "What is $\\int 5\\,dx$?",
-      "options": ["$5x + C$", "$5 + C$", "$\\frac{5x^2}{2} + C$", "$x + C$"],
+      "options": [
+        "$5x + C$",
+        "$5 + C$",
+        "$\\frac{5x^2}{2} + C$",
+        "$x + C$"
+      ],
       "correctAnswer": "$5x + C$"
     },
     {
       "id": 8,
       "question": "An indefinite integral always includes ...",
-      "options": ["a constant of integration $C$", "a lower limit", "an upper limit", "a derivative"],
+      "options": [
+        "a constant of integration $C$",
+        "a lower limit",
+        "an upper limit",
+        "a derivative"
+      ],
       "correctAnswer": "a constant of integration $C$"
     },
     {
       "id": 9,
       "question": "The definite integral of $f$ from $a$ to $b$ is written as ...",
-      "options": ["$\\int_a^b f(x)\\,dx$", "$\\int f(x)\\,dx$", "$\\frac{d}{dx} f(x)$", "$f'(x)$"],
+      "options": [
+        "$\\int_a^b f(x)\\,dx$",
+        "$\\int f(x)\\,dx$",
+        "$\\frac{d}{dx} f(x)$",
+        "$f'(x)$"
+      ],
       "correctAnswer": "$\\int_a^b f(x)\\,dx$"
     },
     {
       "id": 10,
       "question": "What is $\\int 2x\\,dx$?",
-      "options": ["$x^2 + C$", "$2x^2 + C$", "$x + C$", "$\\frac{x^2}{2} + C$"],
+      "options": [
+        "$x^2 + C$",
+        "$2x^2 + C$",
+        "$x + C$",
+        "$\\frac{x^2}{2} + C$"
+      ],
       "correctAnswer": "$x^2 + C$"
     }
   ]

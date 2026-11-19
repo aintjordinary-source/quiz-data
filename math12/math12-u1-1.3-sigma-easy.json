@@ -1,70 +1,128 @@
 {
-  "title": "1.3 Sigma Notation and Partial Sums — Easy",
+  "title": "1.3 Sigma Notation and Partial Sums",
   "description": "Ten questions on sigma notation, standard summation formulas, and evaluating simple sums.",
   "folder": "School/Grade 12/Mathematics/Unit 1/1.3 Sigma Notation and Partial Sums",
   "field": "natural",
   "anki": true,
   "difficulty": "easy",
-  "tags": ["mathematics", "grade 12", "unit 1", "sequences and series", "sigma notation", "partial sums", "easy"],
+  "tags": [
+    "mathematics",
+    "grade 12",
+    "unit 1",
+    "sequences and series",
+    "sigma notation",
+    "partial sums",
+    "easy"
+  ],
   "questions": [
     {
       "id": 1,
       "question": "What is the value of $\\sum_{i=1}^{n} i$?",
-      "options": ["$\\frac{n(n+1)}{2}$", "$n^2$", "$\\frac{n(n-1)}{2}$", "$n(n+1)$"],
+      "options": [
+        "$\\frac{n(n+1)}{2}$",
+        "$n^2$",
+        "$\\frac{n(n-1)}{2}$",
+        "$n(n+1)$"
+      ],
       "correctAnswer": "$\\frac{n(n+1)}{2}$"
     },
     {
       "id": 2,
       "question": "What is the value of $\\sum_{i=1}^{n} c$, where $c$ is a constant?",
-      "options": ["$nc$", "$c$", "$n + c$", "$\\frac{nc}{2}$"],
+      "options": [
+        "$nc$",
+        "$c$",
+        "$n + c$",
+        "$\\frac{nc}{2}$"
+      ],
       "correctAnswer": "$nc$"
     },
     {
       "id": 3,
       "question": "What is the formula for $\\sum_{i=1}^{n} i^2$?",
-      "options": ["$\\frac{n(n+1)(2n+1)}{6}$", "$\\frac{n(n+1)}{2}$", "$\\left(\\frac{n(n+1)}{2}\\right)^2$", "$n(n+1)(2n+1)$"],
+      "options": [
+        "$\\frac{n(n+1)(2n+1)}{6}$",
+        "$\\frac{n(n+1)}{2}$",
+        "$\\left(\\frac{n(n+1)}{2}\\right)^2$",
+        "$n(n+1)(2n+1)$"
+      ],
       "correctAnswer": "$\\frac{n(n+1)(2n+1)}{6}$"
     },
     {
       "id": 4,
       "question": "What is the formula for $\\sum_{i=1}^{n} i^3$?",
-      "options": ["$\\left(\\frac{n(n+1)}{2}\\right)^2$", "$\\frac{n(n+1)(2n+1)}{6}$", "$\\frac{n(n+1)}{2}$", "$n^3$"],
+      "options": [
+        "$\\left(\\frac{n(n+1)}{2}\\right)^2$",
+        "$\\frac{n(n+1)(2n+1)}{6}$",
+        "$\\frac{n(n+1)}{2}$",
+        "$n^3$"
+      ],
       "correctAnswer": "$\\left(\\frac{n(n+1)}{2}\\right)^2$"
     },
     {
       "id": 5,
       "question": "What is $\\sum_{i=1}^{4} i$?",
-      "options": ["10", "8", "12", "6"],
+      "options": [
+        "10",
+        "8",
+        "12",
+        "6"
+      ],
       "correctAnswer": "10"
     },
     {
       "id": 6,
       "question": "What is $\\sum_{i=1}^{3} 2i$?",
-      "options": ["12", "6", "10", "14"],
+      "options": [
+        "12",
+        "6",
+        "10",
+        "14"
+      ],
       "correctAnswer": "12"
     },
     {
       "id": 7,
       "question": "What is $\\sum_{i=1}^{5} 1$?",
-      "options": ["5", "1", "6", "0"],
+      "options": [
+        "5",
+        "1",
+        "6",
+        "0"
+      ],
       "correctAnswer": "5"
     },
     {
       "id": 8,
       "question": "The Greek letter $\\Sigma$ used in summation notation is called ...",
-      "options": ["sigma", "delta", "omega", "alpha"],
+      "options": [
+        "sigma",
+        "delta",
+        "omega",
+        "alpha"
+      ],
       "correctAnswer": "sigma"
     },
     {
       "id": 9,
       "question": "The partial sum $S_n$ of a sequence is ...",
-      "options": ["the sum of its first $n$ terms", "the sum of all its terms", "its nth term", "the difference of its first $n$ terms"],
+      "options": [
+        "the sum of its first $n$ terms",
+        "the sum of all its terms",
+        "its nth term",
+        "the difference of its first $n$ terms"
+      ],
       "correctAnswer": "the sum of its first $n$ terms"
     },
     {
       "id": 10,
       "question": "What is $\\sum_{i=1}^{4} i^2$?",
-      "options": ["30", "20", "25", "36"],
+      "options": [
+        "30",
+        "20",
+        "25",
+        "36"
+      ],
       "correctAnswer": "30"
     }
   ]

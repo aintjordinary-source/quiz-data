@@ -1,70 +1,127 @@
 {
-  "title": "1.5 Applications of Sequence and Series — Easy",
+  "title": "1.5 Applications of Sequence and Series",
   "description": "Ten questions on real-life growth, interest, depreciation, and savings modelled by sequences and series.",
   "folder": "School/Grade 12/Mathematics/Unit 1/1.5 Applications of Sequence and Series",
   "field": "natural",
   "anki": true,
   "difficulty": "easy",
-  "tags": ["mathematics", "grade 12", "unit 1", "sequences and series", "applications", "easy"],
+  "tags": [
+    "mathematics",
+    "grade 12",
+    "unit 1",
+    "sequences and series",
+    "applications",
+    "easy"
+  ],
   "questions": [
     {
       "id": 1,
       "question": "Simple interest growth is an example of ...",
-      "options": ["arithmetic growth", "geometric growth", "exponential decay", "harmonic growth"],
+      "options": [
+        "arithmetic growth",
+        "geometric growth",
+        "exponential decay",
+        "harmonic growth"
+      ],
       "correctAnswer": "arithmetic growth"
     },
     {
       "id": 2,
       "question": "Compound interest growth follows a ...",
-      "options": ["geometric sequence", "arithmetic sequence", "harmonic sequence", "constant sequence"],
+      "options": [
+        "geometric sequence",
+        "arithmetic sequence",
+        "harmonic sequence",
+        "constant sequence"
+      ],
       "correctAnswer": "geometric sequence"
     },
     {
       "id": 3,
       "question": "The compound interest formula is ...",
-      "options": ["$A = P(1+r)^n$", "$A = P(1+rn)$", "$A = P + rn$", "$A = P(1-r)^n$"],
+      "options": [
+        "$A = P(1+r)^n$",
+        "$A = P(1+rn)$",
+        "$A = P + rn$",
+        "$A = P(1-r)^n$"
+      ],
       "correctAnswer": "$A = P(1+r)^n$"
     },
     {
       "id": 4,
       "question": "The depreciation formula for a value losing a fixed percentage each year is ...",
-      "options": ["$A = P(1-r)^n$", "$A = P(1+r)^n$", "$A = P(1+rn)$", "$A = P - rn$"],
+      "options": [
+        "$A = P(1-r)^n$",
+        "$A = P(1+r)^n$",
+        "$A = P(1+rn)$",
+        "$A = P - rn$"
+      ],
       "correctAnswer": "$A = P(1-r)^n$"
     },
     {
       "id": 5,
       "question": "The simple interest formula is ...",
-      "options": ["$I = Prt$", "$I = P(1+r)^t$", "$I = P + rt$", "$I = P(1-r)^t$"],
+      "options": [
+        "$I = Prt$",
+        "$I = P(1+r)^t$",
+        "$I = P + rt$",
+        "$I = P(1-r)^t$"
+      ],
       "correctAnswer": "$I = Prt$"
     },
     {
       "id": 6,
       "question": "A population that doubles every fixed number of years follows a ...",
-      "options": ["geometric sequence", "arithmetic sequence", "constant sequence", "harmonic sequence"],
+      "options": [
+        "geometric sequence",
+        "arithmetic sequence",
+        "constant sequence",
+        "harmonic sequence"
+      ],
       "correctAnswer": "geometric sequence"
     },
     {
       "id": 7,
       "question": "Saving the same fixed amount every month is modelled by ...",
-      "options": ["an arithmetic series", "a geometric series", "a harmonic series", "an infinite series"],
+      "options": [
+        "an arithmetic series",
+        "a geometric series",
+        "a harmonic series",
+        "an infinite series"
+      ],
       "correctAnswer": "an arithmetic series"
     },
     {
       "id": 8,
       "question": "Radioactive decay with a fixed half-life is modelled by ...",
-      "options": ["a geometric sequence", "an arithmetic sequence", "a linear function", "a constant sequence"],
+      "options": [
+        "a geometric sequence",
+        "an arithmetic sequence",
+        "a linear function",
+        "a constant sequence"
+      ],
       "correctAnswer": "a geometric sequence"
     },
     {
       "id": 9,
       "question": "The total amount after compound interest equals ...",
-      "options": ["the principal plus the interest", "the principal minus the interest", "the interest only", "the principal only"],
+      "options": [
+        "the principal plus the interest",
+        "the principal minus the interest",
+        "the interest only",
+        "the principal only"
+      ],
       "correctAnswer": "the principal plus the interest"
     },
     {
       "id": 10,
       "question": "A 5% annual increase corresponds to a growth factor of ...",
-      "options": ["1.05", "0.05", "1.5", "0.95"],
+      "options": [
+        "1.05",
+        "0.05",
+        "1.5",
+        "0.95"
+      ],
       "correctAnswer": "1.05"
     }
   ]

@@ -1,70 +1,128 @@
 {
-  "title": "1.4 Infinite Series — Hard",
+  "title": "1.4 Infinite Series",
   "description": "Ten challenging questions on infinite geometric series, repeating decimals, and finding first terms or ratios.",
   "folder": "School/Grade 12/Mathematics/Unit 1/1.4 Infinite Series",
   "field": "natural",
   "anki": true,
   "difficulty": "hard",
-  "tags": ["mathematics", "grade 12", "unit 1", "sequences and series", "infinite series", "convergence", "hard"],
+  "tags": [
+    "mathematics",
+    "grade 12",
+    "unit 1",
+    "sequences and series",
+    "infinite series",
+    "convergence",
+    "hard"
+  ],
   "questions": [
     {
       "id": 1,
       "question": "The repeating decimal $0.123123...$ equals ...",
-      "options": ["$\\frac{41}{333}$", "$\\frac{123}{1000}$", "$\\frac{41}{100}$", "$\\frac{41}{3330}$"],
+      "options": [
+        "$\\frac{41}{333}$",
+        "$\\frac{123}{1000}$",
+        "$\\frac{41}{100}$",
+        "$\\frac{41}{3330}$"
+      ],
       "correctAnswer": "$\\frac{41}{333}$"
     },
     {
       "id": 2,
       "question": "What is $\\sum_{n=1}^{\\infty} \\frac{1}{3^n}$?",
-      "options": ["$\\frac{1}{2}$", "$\\frac{1}{3}$", "$\\frac{2}{3}$", "$1$"],
+      "options": [
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{3}$",
+        "$\\frac{2}{3}$",
+        "$1$"
+      ],
       "correctAnswer": "$\\frac{1}{2}$"
     },
     {
       "id": 3,
       "question": "A geometric series has sum to infinity 12 and common ratio $\\frac{1}{3}$. What is its first term?",
-      "options": ["8", "4", "9", "6"],
+      "options": [
+        "8",
+        "4",
+        "9",
+        "6"
+      ],
       "correctAnswer": "8"
     },
     {
       "id": 4,
       "question": "What is the sum $0.2 + 0.02 + 0.002 + ...$?",
-      "options": ["$\\frac{2}{9}$", "$\\frac{1}{5}$", "$\\frac{2}{11}$", "$\\frac{2}{10}$"],
+      "options": [
+        "$\\frac{2}{9}$",
+        "$\\frac{1}{5}$",
+        "$\\frac{2}{11}$",
+        "$\\frac{2}{10}$"
+      ],
       "correctAnswer": "$\\frac{2}{9}$"
     },
     {
       "id": 5,
       "question": "What is the sum $\\frac{3}{4} + \\frac{3}{16} + \\frac{3}{64} + ...$?",
-      "options": ["1", "$\\frac{3}{4}$", "$\\frac{4}{3}$", "$\\frac{9}{16}$"],
+      "options": [
+        "1",
+        "$\\frac{3}{4}$",
+        "$\\frac{4}{3}$",
+        "$\\frac{9}{16}$"
+      ],
       "correctAnswer": "1"
     },
     {
       "id": 6,
       "question": "What is $\\sum_{n=0}^{\\infty} \\left(\\frac{1}{2}\\right)^n$?",
-      "options": ["2", "1", "$\\frac{3}{2}$", "$\\infty$"],
+      "options": [
+        "2",
+        "1",
+        "$\\frac{3}{2}$",
+        "$\\infty$"
+      ],
       "correctAnswer": "2"
     },
     {
       "id": 7,
       "question": "A geometric series has sum to infinity 6 and first term 2. What is the common ratio?",
-      "options": ["$\\frac{2}{3}$", "$\\frac{1}{3}$", "$\\frac{3}{4}$", "$\\frac{1}{2}$"],
+      "options": [
+        "$\\frac{2}{3}$",
+        "$\\frac{1}{3}$",
+        "$\\frac{3}{4}$",
+        "$\\frac{1}{2}$"
+      ],
       "correctAnswer": "$\\frac{2}{3}$"
     },
     {
       "id": 8,
       "question": "A geometric series has common ratio $r = 2$. Its sum to infinity is ...",
-      "options": ["undefined", "1", "-1", "2"],
+      "options": [
+        "undefined",
+        "1",
+        "-1",
+        "2"
+      ],
       "correctAnswer": "undefined"
     },
     {
       "id": 9,
       "question": "The repeating decimal $0.181818...$ equals ...",
-      "options": ["$\\frac{2}{11}$", "$\\frac{18}{100}$", "$\\frac{9}{50}$", "$\\frac{1}{18}$"],
+      "options": [
+        "$\\frac{2}{11}$",
+        "$\\frac{18}{100}$",
+        "$\\frac{9}{50}$",
+        "$\\frac{1}{18}$"
+      ],
       "correctAnswer": "$\\frac{2}{11}$"
     },
     {
       "id": 10,
       "question": "A geometric series has sum to infinity 9 and first term 3. What is the common ratio?",
-      "options": ["$\\frac{2}{3}$", "$\\frac{1}{3}$", "$\\frac{3}{4}$", "$\\frac{1}{2}$"],
+      "options": [
+        "$\\frac{2}{3}$",
+        "$\\frac{1}{3}$",
+        "$\\frac{3}{4}$",
+        "$\\frac{1}{2}$"
+      ],
       "correctAnswer": "$\\frac{2}{3}$"
     }
   ]

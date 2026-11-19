@@ -1,70 +1,127 @@
 {
-  "title": "2.2 Application of Derivative — Medium",
+  "title": "2.2 Application of Derivative",
   "description": "Ten questions finding critical points, tangents, and rates of change for standard functions.",
   "folder": "School/Grade 12/Mathematics/Unit 2/2.2 Application of Derivative",
   "field": "natural",
   "anki": true,
   "difficulty": "medium",
-  "tags": ["mathematics", "grade 12", "unit 2", "calculus", "applications of derivatives", "medium"],
+  "tags": [
+    "mathematics",
+    "grade 12",
+    "unit 2",
+    "calculus",
+    "applications of derivatives",
+    "medium"
+  ],
   "questions": [
     {
       "id": 1,
       "question": "Where does $f(x) = x^2 - 4x$ have its critical point?",
-      "options": ["$x = 2$", "$x = 4$", "$x = -2$", "$x = 0$"],
+      "options": [
+        "$x = 2$",
+        "$x = 4$",
+        "$x = -2$",
+        "$x = 0$"
+      ],
       "correctAnswer": "$x = 2$"
     },
     {
       "id": 2,
       "question": "Where are the critical points of $f(x) = x^3 - 3x$?",
-      "options": ["$x = 1$ and $x = -1$", "$x = 3$ and $x = -3$", "$x = 0$", "$x = 1$"],
+      "options": [
+        "$x = 1$ and $x = -1$",
+        "$x = 3$ and $x = -3$",
+        "$x = 0$",
+        "$x = 1$"
+      ],
       "correctAnswer": "$x = 1$ and $x = -1$"
     },
     {
       "id": 3,
       "question": "What is the slope of $y = x^2$ at $x = 2$?",
-      "options": ["4", "2", "8", "1"],
+      "options": [
+        "4",
+        "2",
+        "8",
+        "1"
+      ],
       "correctAnswer": "4"
     },
     {
       "id": 4,
       "question": "What is the tangent line to $y = x^2$ at $x = 1$?",
-      "options": ["$y = 2x - 1$", "$y = 2x + 1$", "$y = x - 1$", "$y = 2x$"],
+      "options": [
+        "$y = 2x - 1$",
+        "$y = 2x + 1$",
+        "$y = x - 1$",
+        "$y = 2x$"
+      ],
       "correctAnswer": "$y = 2x - 1$"
     },
     {
       "id": 5,
       "question": "Where does $f(x) = x^2 - 6x + 5$ have its minimum?",
-      "options": ["$x = 3$", "$x = 6$", "$x = -3$", "$x = 5$"],
+      "options": [
+        "$x = 3$",
+        "$x = 6$",
+        "$x = -3$",
+        "$x = 5$"
+      ],
       "correctAnswer": "$x = 3$"
     },
     {
       "id": 6,
       "question": "On which interval is $f(x) = x^2$ increasing?",
-      "options": ["$x > 0$", "$x < 0$", "all real numbers", "$0 < x < 1$"],
+      "options": [
+        "$x > 0$",
+        "$x < 0$",
+        "all real numbers",
+        "$0 < x < 1$"
+      ],
       "correctAnswer": "$x > 0$"
     },
     {
       "id": 7,
       "question": "If displacement is $s(t) = t^2$, what is the velocity?",
-      "options": ["$2t$", "$t$", "$t^2$", "$2$"],
+      "options": [
+        "$2t$",
+        "$t$",
+        "$t^2$",
+        "$2$"
+      ],
       "correctAnswer": "$2t$"
     },
     {
       "id": 8,
       "question": "If displacement is $s(t) = t^3$, what is the acceleration?",
-      "options": ["$6t$", "$3t^2$", "$3t$", "$6t^2$"],
+      "options": [
+        "$6t$",
+        "$3t^2$",
+        "$3t$",
+        "$6t^2$"
+      ],
       "correctAnswer": "$6t$"
     },
     {
       "id": 9,
       "question": "If the cost function is $C(x) = x^2 + 10$, what is the marginal cost?",
-      "options": ["$2x$", "$x^2$", "$2x + 10$", "$10$"],
+      "options": [
+        "$2x$",
+        "$x^2$",
+        "$2x + 10$",
+        "$10$"
+      ],
       "correctAnswer": "$2x$"
     },
     {
       "id": 10,
       "question": "Where does $f(x) = -x^2 + 4x$ have its maximum?",
-      "options": ["$x = 2$", "$x = 4$", "$x = -2$", "$x = 0$"],
+      "options": [
+        "$x = 2$",
+        "$x = 4$",
+        "$x = -2$",
+        "$x = 0$"
+      ],
       "correctAnswer": "$x = 2$"
     }
   ]

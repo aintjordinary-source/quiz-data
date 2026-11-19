@@ -1,70 +1,127 @@
 {
-  "title": "2.1 Introduction to Derivatives — Easy",
+  "title": "2.1 Introduction to Derivatives",
   "description": "Ten questions on the meaning, notation, and basic derivative rules.",
   "folder": "School/Grade 12/Mathematics/Unit 2/2.1 Introduction to Derivatives",
   "field": "natural",
   "anki": true,
   "difficulty": "easy",
-  "tags": ["mathematics", "grade 12", "unit 2", "calculus", "derivatives", "easy"],
+  "tags": [
+    "mathematics",
+    "grade 12",
+    "unit 2",
+    "calculus",
+    "derivatives",
+    "easy"
+  ],
   "questions": [
     {
       "id": 1,
       "question": "The derivative of a function measures its ...",
-      "options": ["instantaneous rate of change", "total area", "average value", "maximum value"],
+      "options": [
+        "instantaneous rate of change",
+        "total area",
+        "average value",
+        "maximum value"
+      ],
       "correctAnswer": "instantaneous rate of change"
     },
     {
       "id": 2,
       "question": "What is the derivative of a constant $c$?",
-      "options": ["0", "1", "$c$", "$cx$"],
+      "options": [
+        "0",
+        "1",
+        "$c$",
+        "$cx$"
+      ],
       "correctAnswer": "0"
     },
     {
       "id": 3,
       "question": "What is $\\frac{d}{dx}(x^n)$?",
-      "options": ["$nx^{n-1}$", "$x^{n+1}$", "$nx^{n+1}$", "$\\frac{x^{n-1}}{n}$"],
+      "options": [
+        "$nx^{n-1}$",
+        "$x^{n+1}$",
+        "$nx^{n+1}$",
+        "$\\frac{x^{n-1}}{n}$"
+      ],
       "correctAnswer": "$nx^{n-1}$"
     },
     {
       "id": 4,
       "question": "What is $\\frac{d}{dx}(x)$?",
-      "options": ["1", "0", "$x$", "$x^2$"],
+      "options": [
+        "1",
+        "0",
+        "$x$",
+        "$x^2$"
+      ],
       "correctAnswer": "1"
     },
     {
       "id": 5,
       "question": "What is $\\frac{d}{dx}(5x)$?",
-      "options": ["5", "0", "$5x$", "$x$"],
+      "options": [
+        "5",
+        "0",
+        "$5x$",
+        "$x$"
+      ],
       "correctAnswer": "5"
     },
     {
       "id": 6,
       "question": "If $f(x) = x^2$, what is $f'(x)$?",
-      "options": ["$2x$", "$x$", "$x^2$", "$2$"],
+      "options": [
+        "$2x$",
+        "$x$",
+        "$x^2$",
+        "$2$"
+      ],
       "correctAnswer": "$2x$"
     },
     {
       "id": 7,
       "question": "The derivative of $f(x)$ is commonly written as ...",
-      "options": ["$f'(x)$", "$f^2(x)$", "$\\sqrt{f(x)}$", "$f^{-1}(x)$"],
+      "options": [
+        "$f'(x)$",
+        "$f^2(x)$",
+        "$\\sqrt{f(x)}$",
+        "$f^{-1}(x)$"
+      ],
       "correctAnswer": "$f'(x)$"
     },
     {
       "id": 8,
       "question": "What is $\\frac{d}{dx}(3x^2)$?",
-      "options": ["$6x$", "$3x$", "$6x^2$", "$2x$"],
+      "options": [
+        "$6x$",
+        "$3x$",
+        "$6x^2$",
+        "$2x$"
+      ],
       "correctAnswer": "$6x$"
     },
     {
       "id": 9,
       "question": "What is $\\frac{d}{dx}(x^3)$?",
-      "options": ["$3x^2$", "$x^2$", "$3x$", "$x^4$"],
+      "options": [
+        "$3x^2$",
+        "$x^2$",
+        "$3x$",
+        "$x^4$"
+      ],
       "correctAnswer": "$3x^2$"
     },
     {
       "id": 10,
       "question": "What is $\\frac{d}{dx}(7)$?",
-      "options": ["0", "7", "1", "$7x$"],
+      "options": [
+        "0",
+        "7",
+        "1",
+        "$7x$"
+      ],
       "correctAnswer": "0"
     }
   ]
