@@ -17,10 +17,10 @@
       "id": 1,
       "question": "A circle has equation $(x-2)^2 + (y+1)^2 = 9$. What are its center and radius?",
       "options": [
-        "Center $(2,-1)$, radius 3",
-        "Center $(-2,1)$, radius 3",
-        "Center $(2,1)$, radius 3",
-        "Center $(2,-1)$, radius 9"
+        "Center $(-2, 1)$, radius 3",
+        "Center $(2, -1)$, radius 9",
+        "Center $(2, 1)$, radius 3",
+        "Center $(2,-1)$, radius 3"
       ],
       "correctAnswer": "Center $(2,-1)$, radius 3",
       "section": "Math",
@@ -31,10 +31,10 @@
       "id": 2,
       "question": "Which data set has the greatest standard deviation?",
       "options": [
-        "$\\{5, 5, 5, 5\\}$",
+        "Center $(2,-1)$, radius 3",
         "$\\{1, 1, 9, 9\\}$",
-        "$\\{3, 4, 5, 6\\}$",
-        "$\\{4, 5, 5, 6\\}$"
+        "$\\frac{250}{3}$",
+        "$\\frac{7}{2}$"
       ],
       "correctAnswer": "$\\{1, 1, 9, 9\\}$",
       "section": "Math",
@@ -45,9 +45,9 @@
       "id": 3,
       "question": "For which value of $c$ does $x^2 + 2x + c = 0$ have no real solutions?",
       "options": [
+        "25",
+        "5",
         "2",
-        "-1",
-        "0",
         "1"
       ],
       "correctAnswer": "2",
@@ -60,8 +60,8 @@
       "question": "If $x + y = 10$ and $x - y = 4$, what is $x$?",
       "options": [
         "5",
-        "6",
-        "3",
+        "25",
+        "1",
         "7"
       ],
       "correctAnswer": "7",
@@ -73,10 +73,10 @@
       "id": 5,
       "question": "For what value of $b$ do the equations $y = 2x + b$ and $y = 2x + 3$ have infinitely many solutions?",
       "options": [
-        "0",
-        "2",
+        "5",
+        "25",
         "3",
-        "-3"
+        "1"
       ],
       "correctAnswer": "3",
       "section": "Math",
@@ -87,10 +87,10 @@
       "id": 6,
       "question": "By the time we arrived, the film ___.\n\nWhich verb form correctly completes the sentence?",
       "options": [
-        "had started",
-        "starts",
-        "will start",
-        "has starting"
+        "Nevertheless,",
+        "therefore,",
+        "had included",
+        "had started"
       ],
       "correctAnswer": "had started",
       "section": "English",
@@ -101,10 +101,10 @@
       "id": 7,
       "question": "Two angles of a triangle are $50^\\circ$ and $60^\\circ$. What is the third angle?",
       "options": [
-        "$80^\\circ$",
-        "$40^\\circ$",
+        "$\\frac{5}{13}$",
+        "150 miles",
         "$70^\\circ$",
-        "$110^\\circ$"
+        "$\\frac{7}{2}$"
       ],
       "correctAnswer": "$70^\\circ$",
       "section": "Math",
@@ -115,10 +115,10 @@
       "id": 8,
       "question": "What is the range of 4, 9, 15, and 22?",
       "options": [
-        "12",
+        "1",
         "18",
-        "13",
-        "22"
+        "25",
+        "5"
       ],
       "correctAnswer": "18",
       "section": "Math",
@@ -129,9 +129,9 @@
       "id": 9,
       "question": "Passage A describes a species expanding its range northward. Passage B attributes a different species' decline to warming waters.\n\nHow do the passages together develop a single idea?",
       "options": [
-        "They prove all species benefit from warming.",
-        "They describe the same species in two locations.",
-        "They disagree about whether climate change occurs.",
+        "Students learned to grow vegetables and shared the harvest with a local food bank.",
+        "The experiment was repeated three times; each trial produced slightly different results.",
+        "She crosses out sentences expressing decisiveness and rewrites them with qualifiers.",
         "They show that climate shifts can produce different outcomes for different species."
       ],
       "correctAnswer": "They show that climate shifts can produce different outcomes for different species.",
@@ -143,10 +143,10 @@
       "id": 10,
       "question": "A circle has radius 4. What is the length of an arc with central angle $90^\\circ$?",
       "options": [
-        "$4\\pi$",
+        "$1102.50",
+        "$\\frac{5}{13}$",
         "$2\\pi$",
-        "$8\\pi$",
-        "$\\pi$"
+        "$\\frac{7}{2}$"
       ],
       "correctAnswer": "$2\\pi$",
       "section": "Math",
@@ -157,10 +157,10 @@
       "id": 11,
       "question": "The garden attracted butterflies. ___ , it also drew bees and birds.\n\nWhich transition best completes the sentence?",
       "options": [
-        "Consequently,",
-        "By contrast,",
+        "researcher's",
+        "had included",
         "In addition,",
-        "However,"
+        "Nevertheless,"
       ],
       "correctAnswer": "In addition,",
       "section": "English",
@@ -171,10 +171,10 @@
       "id": 12,
       "question": "The town installed bike lanes on Main Street. Several shop owners later reported more visitors arriving by bicycle.\n\nWhat is the main idea of the passage?",
       "options": [
-        "Bike lanes reduced the number of cars in town.",
-        "Main Street was closed to all traffic.",
+        "She volunteered at a coastal laboratory and took advanced science courses.",
         "Adding bike lanes was followed by more bicycle visitors to local shops.",
-        "Shop owners opposed the bike lanes."
+        "The school reduced its electricity purchases after installing solar panels.",
+        "Although the report was brief, it contained several important findings."
       ],
       "correctAnswer": "Adding bike lanes was followed by more bicycle visitors to local shops.",
       "section": "English",
@@ -185,12 +185,12 @@
       "id": 13,
       "question": "A 2023 study of 1,200 patients found that those who walked 30 minutes daily had lower blood pressure than inactive patients. The authors caution that the study was observational and cannot establish causation.\n\nWhich statement best captures the authors' position?",
       "options": [
-        "Walking guarantees lower blood pressure for everyone.",
-        "The study proved that inactivity causes high blood pressure.",
-        "The findings have no practical relevance.",
-        "Daily walking was associated with lower blood pressure, but the study does not prove walking caused the difference."
+        "She crosses out sentences expressing decisiveness and rewrites them with qualifiers.",
+        "The experiment was repeated three times; each trial produced slightly different results.",
+        "They show that climate shifts can produce different outcomes for different species.",
+        "Walking was linked to lower blood pressure, but causation is unproven."
       ],
-      "correctAnswer": "Daily walking was associated with lower blood pressure, but the study does not prove walking caused the difference.",
+      "correctAnswer": "Walking was linked to lower blood pressure, but causation is unproven.",
       "section": "English",
       "difficulty": "hard",
       "domain": "Information and Ideas"
@@ -200,9 +200,9 @@
       "question": "A trapezoid has bases 5 and 9 and height 4. What is its area?",
       "options": [
         "28",
-        "36",
-        "18",
-        "14"
+        "25",
+        "1",
+        "5"
       ],
       "correctAnswer": "28",
       "section": "Math",
@@ -213,10 +213,10 @@
       "id": 15,
       "question": "If $y = 2x + 3$ and $x = 4$, what is $y$?",
       "options": [
-        "7",
-        "8",
-        "14",
-        "11"
+        "11",
+        "5",
+        "1",
+        "25"
       ],
       "correctAnswer": "11",
       "section": "Math",
@@ -227,10 +227,10 @@
       "id": 16,
       "question": "The committee members ___ the proposal after a long discussion.\n\nWhich verb tense correctly completes the sentence?",
       "options": [
-        "approves",
-        "are approve",
-        "will approving",
-        "approved"
+        "therefore,",
+        "approved",
+        "Nevertheless,",
+        "However,"
       ],
       "correctAnswer": "approved",
       "section": "English",
@@ -242,9 +242,9 @@
       "question": "What is the volume of a box with dimensions 2, 3, and 4?",
       "options": [
         "24",
-        "48",
-        "12",
-        "9"
+        "5",
+        "25",
+        "1"
       ],
       "correctAnswer": "24",
       "section": "Math",
@@ -255,10 +255,10 @@
       "id": 18,
       "question": "If $-2x + 4 > 10$, which inequality describes all possible $x$?",
       "options": [
-        "$x < -3$",
-        "$x > 3$",
-        "$x < 3$",
-        "$x > -3$"
+        "$\\frac{7}{2}$",
+        "$1102.50",
+        "$\\frac{5}{13}$",
+        "$x < -3$"
       ],
       "correctAnswer": "$x < -3$",
       "section": "Math",
@@ -270,9 +270,9 @@
       "question": "A student is revising a paragraph about a school garden to emphasize how students benefited. Which sentence should be kept?\n\nWhich sentence best supports the rhetorical goal?",
       "options": [
         "Students learned to grow vegetables and shared the harvest with a local food bank.",
-        "The project began in the spring of 2021.",
-        "Soil was delivered in early April.",
-        "The garden measured thirty feet by twenty feet."
+        "She crosses out sentences expressing decisiveness and rewrites them with qualifiers.",
+        "The experiment was repeated three times; each trial produced slightly different results.",
+        "They show that climate shifts can produce different outcomes for different species."
       ],
       "correctAnswer": "Students learned to grow vegetables and shared the harvest with a local food bank.",
       "section": "English",
@@ -283,10 +283,10 @@
       "id": 20,
       "question": "What does 'equivocal' most nearly mean in the sentence 'The results were equivocal, leaving researchers uncertain'?",
       "options": [
-        "Clearly decisive",
-        "Extremely detailed",
-        "Newly discovered",
-        "Open to more than one interpretation"
+        "Open to more than one interpretation",
+        "It holds memories of lives lived there.",
+        "The results, however, were inconclusive.",
+        "Museum attendance increased by 25%."
       ],
       "correctAnswer": "Open to more than one interpretation",
       "section": "English",
@@ -297,10 +297,10 @@
       "id": 21,
       "question": "What is the $x$-coordinate of the vertex of $y = x^2 - 4x + 1$?",
       "options": [
+        "5",
         "2",
-        "4",
-        "-2",
-        "1"
+        "1",
+        "25"
       ],
       "correctAnswer": "2",
       "section": "Math",
@@ -311,10 +311,10 @@
       "id": 22,
       "question": "Astronomers found a planet orbiting a nearby star. The planet is about the size of Earth.\n\nWhich statement is directly supported by the passage?",
       "options": [
-        "The star is smaller than the Sun.",
+        "The committee postponed the vote until next week.",
         "The newly found planet is roughly Earth-sized.",
-        "The planet was found by amateur observers.",
-        "The planet has liquid oceans."
+        "Urban trees provide several environmental benefits.",
+        "It draws attention to the scale of the problem."
       ],
       "correctAnswer": "The newly found planet is roughly Earth-sized.",
       "section": "English",
@@ -325,10 +325,10 @@
       "id": 23,
       "question": "What is the coefficient of $x$ in $(x+1)(x+2)$?",
       "options": [
-        "5",
-        "2",
+        "1",
+        "25",
         "3",
-        "1"
+        "5"
       ],
       "correctAnswer": "3",
       "section": "Math",
@@ -339,10 +339,10 @@
       "id": 24,
       "question": "The data, which ___ gathered from three sources, were checked carefully.\n\nWhich verb form correctly completes the sentence?",
       "options": [
-        "is",
+        "had included",
         "were",
-        "has",
-        "was"
+        "However,",
+        "therefore,"
       ],
       "correctAnswer": "were",
       "section": "English",
@@ -353,10 +353,10 @@
       "id": 25,
       "question": "Which version of the sentence is most concise?\n\nSelect the most concise version.",
       "options": [
-        "The committee reached a decision to approve the plan.",
+        "Museum attendance increased by 25%.",
         "The committee approved the plan.",
-        "The committee took action to approve of the plan.",
-        "The committee gave its approval to the plan."
+        "It holds memories of lives lived there.",
+        "Departing from the main subject"
       ],
       "correctAnswer": "The committee approved the plan.",
       "section": "English",
@@ -367,10 +367,10 @@
       "id": 26,
       "question": "An isosceles triangle has sides 5, 5, and 6. What is its area?",
       "options": [
-        "24",
-        "6",
-        "15",
-        "12"
+        "25",
+        "12",
+        "1",
+        "5"
       ],
       "correctAnswer": "12",
       "section": "Math",
@@ -381,10 +381,10 @@
       "id": 27,
       "question": "Passage 1: Rainforests store large amounts of carbon. Passage 2: In one rainforest, logging released substantial carbon into the air.\n\nHow does Passage 2 relate to Passage 1?",
       "options": [
-        "It contradicts the claim that rainforests store carbon.",
-        "It introduces an unrelated topic.",
+        "It supplies evidence consistent with the argument in Passage 1.",
         "It gives an example of a process that undermines carbon storage.",
-        "It describes a solution to deforestation."
+        "Although the report was brief, it contained several important findings.",
+        "Rail commuters reported lower stress than drivers in the sample."
       ],
       "correctAnswer": "It gives an example of a process that undermines carbon storage.",
       "section": "English",
@@ -395,10 +395,10 @@
       "id": 28,
       "question": "What is $\\frac{3}{4}$ of 80?",
       "options": [
-        "20",
         "60",
-        "45",
-        "75"
+        "25",
+        "5",
+        "1"
       ],
       "correctAnswer": "60",
       "section": "Math",
@@ -409,10 +409,10 @@
       "id": 29,
       "question": "What is the $y$-intercept of $y = 3x - 2$?",
       "options": [
-        "-3",
-        "3",
         "-2",
-        "2"
+        "25",
+        "5",
+        "1"
       ],
       "correctAnswer": "-2",
       "section": "Math",
@@ -423,10 +423,10 @@
       "id": 30,
       "question": "The proposal would save money; ___ , it would also reduce service quality.\n\nWhich transition best completes the sentence?",
       "options": [
+        "Nevertheless,",
         "however,",
-        "for example,",
         "therefore,",
-        "in addition,"
+        "However,"
       ],
       "correctAnswer": "however,",
       "section": "English",
@@ -437,10 +437,10 @@
       "id": 31,
       "question": "The data show a sharp increase in ridership. ___ , the city plans to add two new trains.\n\nWhich transition best completes the sentence?",
       "options": [
-        "For instance,",
-        "Meanwhile,",
-        "Although,",
-        "Consequently,"
+        "had included",
+        "Consequently,",
+        "Nevertheless,",
+        "researcher's"
       ],
       "correctAnswer": "Consequently,",
       "section": "English",
@@ -452,9 +452,9 @@
       "question": "What is $\\sqrt{81}$?",
       "options": [
         "9",
-        "8",
-        "18",
-        "3"
+        "25",
+        "1",
+        "5"
       ],
       "correctAnswer": "9",
       "section": "Math",
@@ -465,10 +465,10 @@
       "id": 33,
       "question": "If $3x = 21$, what is $x$?",
       "options": [
-        "18",
         "7",
-        "24",
-        "3"
+        "5",
+        "1",
+        "25"
       ],
       "correctAnswer": "7",
       "section": "Math",
@@ -479,10 +479,10 @@
       "id": 34,
       "question": "A shirt costs $40 and is discounted by 25%. What is the sale price?",
       "options": [
-        "$10",
+        "25",
+        "$1102.50",
         "$30",
-        "$35",
-        "$25"
+        "54"
       ],
       "correctAnswer": "$30",
       "section": "Math",
@@ -493,10 +493,10 @@
       "id": 35,
       "question": "What does 'abundant' most nearly mean in the sentence 'The region received abundant rainfall'?",
       "options": [
-        "Frozen",
-        "Unpredictable",
         "Plentiful",
-        "Scarce"
+        "However,",
+        "therefore,",
+        "Nevertheless,"
       ],
       "correctAnswer": "Plentiful",
       "section": "English",
@@ -507,9 +507,9 @@
       "id": 36,
       "question": "The committee's recommendation, along with the advisor's notes, ___ submitted yesterday.\n\nWhich verb correctly completes the sentence?",
       "options": [
-        "were",
-        "are",
-        "have been",
+        "However,",
+        "therefore,",
+        "is",
         "was"
       ],
       "correctAnswer": "was",
@@ -521,9 +521,9 @@
       "id": 37,
       "question": "An inscribed angle intercepts an arc of $100^\\circ$. What is the measure of the inscribed angle?",
       "options": [
-        "$200^\\circ$",
-        "$100^\\circ$",
-        "$80^\\circ$",
+        "150 miles",
+        "$\\frac{5}{13}$",
+        "$\\frac{7}{2}$",
         "$50^\\circ$"
       ],
       "correctAnswer": "$50^\\circ$",
@@ -535,10 +535,10 @@
       "id": 38,
       "question": "What is $3^2 + 4^2$?",
       "options": [
-        "49",
-        "7",
-        "12",
-        "25"
+        "54",
+        "25",
+        "5",
+        "1"
       ],
       "correctAnswer": "25",
       "section": "Math",
@@ -549,10 +549,10 @@
       "id": 39,
       "question": "The plan would cut emissions substantially; ___ , it would raise costs for low-income households.\n\nWhich transition best fits the rhetorical purpose?",
       "options": [
-        "moreover,",
-        "however,",
         "therefore,",
-        "indeed,"
+        "However,",
+        "however,",
+        "Nevertheless,"
       ],
       "correctAnswer": "however,",
       "section": "English",
@@ -563,10 +563,10 @@
       "id": 40,
       "question": "The author presents a problem, describes two failed solutions, and then proposes a third approach.\n\nWhat is the text structure?",
       "options": [
-        "A comparison of two equal viewpoints",
-        "A chronological biography",
-        "A definition followed only by examples",
-        "Problem followed by attempted solutions and a proposed remedy"
+        "It uses lived experience to frame a broader policy discussion.",
+        "Problem followed by attempted solutions and a proposed remedy",
+        "It supplies evidence consistent with the argument in Passage 1.",
+        "Rail commuters reported lower stress than drivers in the sample."
       ],
       "correctAnswer": "Problem followed by attempted solutions and a proposed remedy",
       "section": "English",
@@ -577,12 +577,12 @@
       "id": 41,
       "question": "The experiment was repeated three times, each trial producing slightly different results.\n\nWhich revision removes the comma splice?",
       "options": [
-        "The experiment repeated three times each trial produced slightly different results.",
-        "The experiment was repeated three times, each trial produced slightly different results,",
-        "The experiment was repeated three times; each trial produced slightly different results.",
-        "The experiment was repeated three times each trial producing slightly different results."
+        "They show that climate shifts can produce different outcomes for different species.",
+        "She crosses out sentences expressing decisiveness and rewrites them with qualifiers.",
+        "The experiment was repeated; each trial produced slightly different results.",
+        "Students learned to grow vegetables and shared the harvest with a local food bank."
       ],
-      "correctAnswer": "The experiment was repeated three times; each trial produced slightly different results.",
+      "correctAnswer": "The experiment was repeated; each trial produced slightly different results.",
       "section": "English",
       "difficulty": "hard",
       "domain": "Standard English Conventions"
@@ -591,10 +591,10 @@
       "id": 42,
       "question": "The committee released its findings on Tuesday. ___ , the department responded the following day.\n\nWhich transition best completes the sentence?",
       "options": [
-        "Although,",
-        "For example,",
-        "Meanwhile,",
-        "Subsequently,"
+        "researcher's",
+        "Subsequently,",
+        "had included",
+        "Nevertheless,"
       ],
       "correctAnswer": "Subsequently,",
       "section": "English",
@@ -605,9 +605,9 @@
       "id": 43,
       "question": "What does 'reluctant' most nearly mean in the sentence 'He was reluctant to share his findings'?",
       "options": [
-        "Certain",
-        "Able",
-        "Eager",
+        "However,",
+        "Nevertheless,",
+        "therefore,",
         "Unwilling"
       ],
       "correctAnswer": "Unwilling",
@@ -620,9 +620,9 @@
       "question": "If $x \\neq 3$, what is $\\frac{x^2 - 9}{x - 3}$ when $x = 5$?",
       "options": [
         "8",
-        "4",
-        "2",
-        "16"
+        "5",
+        "1",
+        "25"
       ],
       "correctAnswer": "8",
       "section": "Math",
@@ -633,10 +633,10 @@
       "id": 45,
       "question": "Neither the director nor the producers ___ satisfied with the final cut.\n\nWhich verb correctly completes the sentence?",
       "options": [
-        "is being",
-        "has been",
-        "was",
-        "were"
+        "were",
+        "had included",
+        "However,",
+        "therefore,"
       ],
       "correctAnswer": "were",
       "section": "English",
@@ -648,9 +648,9 @@
       "question": "A narrator recalls a childhood summer while describing a present-day return to the same town.\n\nWhat is the likely purpose of the shift in time?",
       "options": [
         "To contrast past and present and show how the narrator has changed",
-        "To explain the history of the country",
-        "To introduce a new character in each paragraph",
-        "To prove the town no longer exists"
+        "She argued that the policy was unfair; she proposed an alternative.",
+        "Although the report was brief, it contained several important findings.",
+        "She volunteered at a coastal laboratory and took advanced science courses."
       ],
       "correctAnswer": "To contrast past and present and show how the narrator has changed",
       "section": "English",
@@ -661,10 +661,10 @@
       "id": 47,
       "question": "In 2010 the town's recycling rate was 22%. After a deposit program began in 2012, the rate reached 41% by 2016.\n\nWhat relationship does the passage suggest?",
       "options": [
-        "The deposit program had no measurable effect.",
-        "Recycling rates fell between 2012 and 2016.",
-        "The town stopped recycling in 2010.",
-        "The recycling rate rose after the deposit program began."
+        "Scores rose even as reported study hours declined slightly.",
+        "Rail commuters reported lower stress than drivers in the sample.",
+        "The recycling rate rose after the deposit program began.",
+        "It uses lived experience to frame a broader policy discussion."
       ],
       "correctAnswer": "The recycling rate rose after the deposit program began.",
       "section": "English",
@@ -675,10 +675,10 @@
       "id": 48,
       "question": "The ___ results were published yesterday.\n\nWhich word correctly completes the sentence?",
       "options": [
-        "teams'",
-        "teams",
+        "Nevertheless,",
         "team's",
-        "team"
+        "However,",
+        "therefore,"
       ],
       "correctAnswer": "team's",
       "section": "English",
@@ -690,9 +690,9 @@
       "question": "What is the smaller solution to $x^2 - 5x + 6 = 0$?",
       "options": [
         "2",
-        "3",
-        "-2",
-        "1"
+        "25",
+        "1",
+        "5"
       ],
       "correctAnswer": "2",
       "section": "Math",
@@ -703,10 +703,10 @@
       "id": 50,
       "question": "What is 15% of 200?",
       "options": [
-        "300",
-        "30",
-        "15",
-        "20"
+        "1",
+        "25",
+        "5",
+        "30"
       ],
       "correctAnswer": "30",
       "section": "Math",
