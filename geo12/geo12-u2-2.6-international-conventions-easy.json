@@ -18,9 +18,9 @@
       "question": "When was the First World Climate Conference held?",
       "options": [
         "1979",
-        "1988",
-        "1997",
-        "2015"
+        "2005",
+        "WMO and UNEP",
+        "1990"
       ],
       "correctAnswer": "1979"
     },
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "Which organizations directed the World Climate Programme?",
       "options": [
-        "IPCC, NASA and UNESCO",
-        "WMO, UNEP and ICSU",
-        "OPEC, NATO and WHO",
-        "UNICEF, FAO and IMF"
+        "The Paris Agreement",
+        "The Marrakesh Accords",
+        "The United States",
+        "WMO, UNEP and ICSU"
       ],
       "correctAnswer": "WMO, UNEP and ICSU"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "What did the 1988 Toronto Conference recommend?",
       "options": [
-        "The closure of all factories",
-        "The abolition of meteorological services",
-        "A comprehensive global framework convention to protect the atmosphere",
-        "A new ice age research centre"
+        "They had contributed only a small part of accumulated carbon dioxide",
+        "It is a market mechanism agreed in the Bonn Agreements to help meet targets",
+        "Net greenhouse gas emissions offset by activities such as planting trees",
+        "A comprehensive global framework convention to protect the atmosphere"
       ],
       "correctAnswer": "A comprehensive global framework convention to protect the atmosphere"
     },
@@ -50,10 +50,10 @@
       "id": 4,
       "question": "How many countries took part in the Toronto Conference?",
       "options": [
-        "12",
-        "100",
-        "191",
-        "46"
+        "46",
+        "1990",
+        "2005",
+        "1979"
       ],
       "correctAnswer": "46"
     },
@@ -62,9 +62,9 @@
       "question": "Which two organizations established the IPCC?",
       "options": [
         "WMO and UNEP",
-        "NASA and NOAA",
-        "OPEC and the World Bank",
-        "UNESCO and WHO"
+        "The Paris Agreement",
+        "WMO, UNEP and ICSU",
+        "Resolution 43/53"
       ],
       "correctAnswer": "WMO and UNEP"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "Which UN resolution recognized climate change as a common concern of mankind?",
       "options": [
-        "Resolution 45/212",
         "Resolution 43/53",
-        "Resolution 121/5",
-        "Resolution 10/1972"
+        "The Paris Agreement",
+        "WMO, UNEP and ICSU",
+        "The Marrakesh Accords"
       ],
       "correctAnswer": "Resolution 43/53"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "In which year was the IPCC First Assessment Report published?",
       "options": [
-        "1988",
-        "2001",
+        "1979",
         "1990",
-        "2015"
+        "WMO and UNEP",
+        "2005"
       ],
       "correctAnswer": "1990"
     },
@@ -94,9 +94,9 @@
       "id": 8,
       "question": "What was adopted at COP 7 in Marrakesh in 2001?",
       "options": [
-        "The Kyoto Protocol",
-        "The Paris Agreement",
-        "The Bonn Agreements",
+        "Clean Development Mechanism",
+        "Resolution 43/53",
+        "WMO, UNEP and ICSU",
         "The Marrakesh Accords"
       ],
       "correctAnswer": "The Marrakesh Accords"
@@ -105,10 +105,10 @@
       "id": 9,
       "question": "In which year did the Kyoto Protocol enter into force?",
       "options": [
+        "1979",
         "2005",
-        "1997",
-        "1992",
-        "2015"
+        "WMO and UNEP",
+        "1990"
       ],
       "correctAnswer": "2005"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "Which agreement followed the Kyoto Protocol and was introduced in 2015?",
       "options": [
+        "WMO, UNEP and ICSU",
+        "Clean Development Mechanism",
         "The Marrakesh Accords",
-        "The Paris Agreement",
-        "The Montreal Protocol",
-        "The Toronto Declaration"
+        "The Paris Agreement"
       ],
       "correctAnswer": "The Paris Agreement"
     }

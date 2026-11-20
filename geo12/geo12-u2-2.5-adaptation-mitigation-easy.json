@@ -17,10 +17,10 @@
       "id": 1,
       "question": "Which two response strategies does the UNFCCC highlight?",
       "options": [
+        "Soil conservation",
+        "Planned, public adaptation",
         "Mitigation and adaptation",
-        "Migration and industrialization",
-        "Restoration and recycling",
-        "Conservation and colonization"
+        "Changing crop planting date"
       ],
       "correctAnswer": "Mitigation and adaptation"
     },
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "What does mitigation aim to do?",
       "options": [
-        "Increase greenhouse gas emissions",
-        "Reduce greenhouse gas emissions and enhance sinks",
-        "Relocate coastal cities only",
-        "Measure earthquake magnitude"
+        "Alleviate the adverse impacts of climate change",
+        "Protecting forests, soils and oceans that store carbon",
+        "By lowering emissions of heat-trapping greenhouse gases",
+        "Reduce greenhouse gas emissions and enhance sinks"
       ],
       "correctAnswer": "Reduce greenhouse gas emissions and enhance sinks"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "What does adaptation aim to do?",
       "options": [
-        "Stop all emissions immediately",
-        "Increase volcanic activity",
         "Alleviate the adverse impacts of climate change",
-        "Change Earth orbit"
+        "Reduce greenhouse gas emissions and enhance sinks",
+        "Protecting forests, soils and oceans that store carbon",
+        "By lowering emissions of heat-trapping greenhouse gases"
       ],
       "correctAnswer": "Alleviate the adverse impacts of climate change"
     },
@@ -50,10 +50,10 @@
       "id": 4,
       "question": "Which strategy has historically received more attention?",
       "options": [
-        "Adaptation",
-        "Relocation",
-        "Insurance",
-        "Mitigation"
+        "Mitigation",
+        "Water harvesting",
+        "Terracing",
+        "Soil conservation"
       ],
       "correctAnswer": "Mitigation"
     },
@@ -61,10 +61,10 @@
       "id": 5,
       "question": "Which is a common adaptation strategy in Ethiopia?",
       "options": [
+        "Crop diversification",
+        "Mitigation and adaptation",
         "Soil conservation",
-        "Building coal power plants",
-        "Increasing fossil fuel imports",
-        "Expanding asphalt roads"
+        "Water harvesting"
       ],
       "correctAnswer": "Soil conservation"
     },
@@ -73,9 +73,9 @@
       "question": "Which practice involves collecting rainwater for later use?",
       "options": [
         "Crop diversification",
+        "Autonomous and reactive",
         "Water harvesting",
-        "Terracing",
-        "Afforestation"
+        "Soil conservation"
       ],
       "correctAnswer": "Water harvesting"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "What is growing a wider variety of crops called?",
       "options": [
-        "Monoculture",
-        "Deforestation",
         "Crop diversification",
-        "Desertification"
+        "Planned, public adaptation",
+        "Autonomous and reactive",
+        "Mitigation and adaptation"
       ],
       "correctAnswer": "Crop diversification"
     },
@@ -94,10 +94,10 @@
       "id": 8,
       "question": "What is reactive adaptation?",
       "options": [
-        "Adaptation that takes place before impacts appear",
-        "Adaptation planned by governments",
-        "Adaptation in natural ecosystems",
-        "Adaptation that takes place after initial impacts have occurred"
+        "It adjusts farming practice to cope with changed water availability",
+        "Adaptation that takes place after initial impacts have occurred",
+        "It eases impacts but does not limit the underlying climate change",
+        "They address different parts of the problem: causes and impacts"
       ],
       "correctAnswer": "Adaptation that takes place after initial impacts have occurred"
     },
@@ -106,9 +106,9 @@
       "question": "What is anticipatory adaptation?",
       "options": [
         "Adaptation that takes place before impacts become apparent",
-        "Adaptation after a drought begins",
-        "Adaptation by individual households",
-        "Adaptation through natural selection"
+        "Cutting fossil fuel use for electricity, heat and transport",
+        "Adaptation that takes place after initial impacts have occurred",
+        "They address different parts of the problem: causes and impacts"
       ],
       "correctAnswer": "Adaptation that takes place before impacts become apparent"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "How is adaptation in unmanaged natural systems described?",
       "options": [
-        "Planned and anticipatory",
-        "Autonomous and reactive",
-        "Public and reactive",
-        "Private and planned"
+        "Mitigation and adaptation",
+        "Changing crop planting date",
+        "Planned, public adaptation",
+        "Autonomous and reactive"
       ],
       "correctAnswer": "Autonomous and reactive"
     }

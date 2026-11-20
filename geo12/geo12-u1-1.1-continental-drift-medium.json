@@ -17,10 +17,10 @@
       "id": 1,
       "question": "What does the continental drift theory propose about continents?",
       "options": [
+        "The landmasses were connected so the reptile could disperse",
         "They have moved relative to each other over geologic time",
-        "They have remained fixed in place",
-        "They are slowly shrinking",
-        "They rotate only around the poles"
+        "The lack of a plausible mechanism for continental movement",
+        "Shelves reveal the true submerged edges of continents"
       ],
       "correctAnswer": "They have moved relative to each other over geologic time"
     },
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "Which fossil reptile, about 250 million years old, supported Wegener’s theory?",
       "options": [
-        "Tyrannosaurus",
+        "Gondwanaland",
         "Mesosaurus",
-        "Triceratops",
-        "Archaeopteryx"
+        "The Mesozoic era",
+        "Alfred Wegener"
       ],
       "correctAnswer": "Mesosaurus"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "Which type of evidence uses ancient climate data reconstructed from rocks?",
       "options": [
-        "Fossil evidence",
-        "Rock structural evidence",
-        "Paleoclimatic evidence",
-        "Coastline similarity"
+        "In the Northern Hemisphere",
+        "Africa and South America",
+        "350 million years ago",
+        "Paleoclimatic evidence"
       ],
       "correctAnswer": "Paleoclimatic evidence"
     },
@@ -50,9 +50,9 @@
       "id": 4,
       "question": "Why was Wegener’s theory rejected partly because of his background?",
       "options": [
-        "He had no university education",
-        "He worked only in the Southern Hemisphere",
-        "He was a meteorologist turned geologist",
+        "Rock type and structural similarity",
+        "Africa and South America were once contiguous",
+        "A paradigm change in viewing Earth",
         "He was not a geologist by profession"
       ],
       "correctAnswer": "He was not a geologist by profession"
@@ -62,9 +62,9 @@
       "question": "Where were most influential geoscientists based at the time?",
       "options": [
         "In the Northern Hemisphere",
-        "In the Southern Hemisphere",
-        "Across Africa",
-        "Across Australia"
+        "The Triassic period",
+        "Lateral mobility of continents",
+        "A paradigm change in viewing Earth"
       ],
       "correctAnswer": "In the Northern Hemisphere"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "What was the greatest unresolved problem in Wegener’s theory?",
       "options": [
-        "The lack of fossil specimens",
+        "Shelves reveal the true submerged edges of continents",
+        "They have moved relative to each other over geologic time",
         "The lack of a plausible mechanism for continental movement",
-        "The absence of ocean maps",
-        "The shortage of rock samples"
+        "The landmasses were connected so the reptile could disperse"
       ],
       "correctAnswer": "The lack of a plausible mechanism for continental movement"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "Until which era did Wegener believe Pangaea remained intact?",
       "options": [
-        "The Mesozoic era",
-        "The Paleozoic era",
+        "The Triassic period",
         "The Cenozoic era",
-        "The Precambrian era"
+        "The Mesozoic era",
+        "350 million years ago"
       ],
       "correctAnswer": "The Cenozoic era"
     },
@@ -94,10 +94,10 @@
       "id": 8,
       "question": "How did matching mountain belts in Africa and South America support the theory?",
       "options": [
-        "They proved a volcanic origin for both continents",
-        "They showed the continents evolved separately",
-        "They indicated identical present-day climates",
-        "They suggested the continents were once joined"
+        "Shelves reveal the true submerged edges of continents",
+        "They suggested the continents were once joined",
+        "Africa and South America were once contiguous",
+        "Most conclusive data came from the Southern Hemisphere"
       ],
       "correctAnswer": "They suggested the continents were once joined"
     },
@@ -105,10 +105,10 @@
       "id": 9,
       "question": "What idea introduced by Wegener’s work shifted thinking from fixism?",
       "options": [
+        "Rock type and structural similarity",
+        "He was not a geologist by profession",
         "Lateral mobility of continents",
-        "Vertical uplift of continents",
-        "Permanent continental stability",
-        "Contraction of the oceans"
+        "A paradigm change in viewing Earth"
       ],
       "correctAnswer": "Lateral mobility of continents"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "Which present-day continent was largely part of Gondwanaland?",
       "options": [
-        "Europe",
         "Africa",
-        "North America",
-        "Asia"
+        "Alfred Wegener",
+        "Pangaea",
+        "Laurasia"
       ],
       "correctAnswer": "Africa"
     }

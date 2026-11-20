@@ -17,10 +17,10 @@
       "id": 1,
       "question": "Which layer allows the lithosphere to slide across the top of it?",
       "options": [
-        "The asthenosphere",
-        "The crust",
-        "The hydrosphere",
-        "The inner core"
+        "The North American Plate",
+        "At plate boundaries",
+        "In the late 1960s",
+        "The asthenosphere"
       ],
       "correctAnswer": "The asthenosphere"
     },
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "What does the lithosphere consist of?",
       "options": [
-        "The crust and the core",
+        "Earthquakes and volcanic eruptions",
+        "Its ductility, which allows slow flow",
         "The crust and the uppermost mantle",
-        "The mantle and the core",
-        "Ocean water and the crust"
+        "Continental rocks, oceanic rocks, or both"
       ],
       "correctAnswer": "The crust and the uppermost mantle"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "About how many large plates make up the lithosphere?",
       "options": [
-        "About three",
-        "About fifty",
         "About a dozen",
-        "About one hundred"
+        "The asthenosphere",
+        "In the late 1960s",
+        "At plate boundaries"
       ],
       "correctAnswer": "About a dozen"
     },
@@ -50,10 +50,10 @@
       "id": 4,
       "question": "At what rate do tectonic plates typically move?",
       "options": [
-        "A few meters per second",
-        "Several kilometers per year",
-        "One meter per day",
-        "A few centimeters per year"
+        "They move slowly and change size",
+        "A few centimeters per year",
+        "A large piece of the lithosphere",
+        "The crust and the uppermost mantle"
       ],
       "correctAnswer": "A few centimeters per year"
     },
@@ -61,10 +61,10 @@
       "id": 5,
       "question": "When was plate tectonic theory developed?",
       "options": [
+        "At plate boundaries",
+        "The North American Plate",
         "In the late 1960s",
-        "In 1912",
-        "In 1850",
-        "In the 1920s"
+        "The asthenosphere"
       ],
       "correctAnswer": "In the late 1960s"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "What is a tectonic plate?",
       "options": [
-        "A layer of the atmosphere",
-        "A large piece of the lithosphere",
-        "A type of marine fossil",
-        "A deep ocean current"
+        "Its ductility, which allows slow flow",
+        "The crust and the uppermost mantle",
+        "They move slowly and change size",
+        "A large piece of the lithosphere"
       ],
       "correctAnswer": "A large piece of the lithosphere"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "Where do plates meet one another?",
       "options": [
-        "At the equator",
-        "At the poles",
+        "The North American Plate",
         "At plate boundaries",
-        "At river mouths"
+        "The asthenosphere",
+        "A few centimeters per year"
       ],
       "correctAnswer": "At plate boundaries"
     },
@@ -94,10 +94,10 @@
       "id": 8,
       "question": "What types of rock can make up a tectonic plate?",
       "options": [
-        "Only continental rocks",
-        "Only oceanic rocks",
-        "Only mantle rocks",
-        "Continental rocks, oceanic rocks, or both"
+        "Continental rocks, oceanic rocks, or both",
+        "Beneath an ocean rather than along a coastline",
+        "The distribution of fossils and the ages of rocks",
+        "It is the rigid shell broken into moving plates"
       ],
       "correctAnswer": "Continental rocks, oceanic rocks, or both"
     },
@@ -105,10 +105,10 @@
       "id": 9,
       "question": "Which plate includes the western half of the North Atlantic seafloor?",
       "options": [
-        "The North American Plate",
-        "The Eurasian Plate",
-        "The African Plate",
-        "The Pacific Plate"
+        "A few centimeters per year",
+        "They move slowly and change size",
+        "A large piece of the lithosphere",
+        "The North American Plate"
       ],
       "correctAnswer": "The North American Plate"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "Where may plate boundaries be located?",
       "options": [
-        "Always along coastlines",
-        "Beneath an ocean rather than along a coastline",
-        "Only at the equator",
-        "Only on continental interiors"
+        "It explains rock ages and fossil distribution patterns",
+        "Ocean basins can expand or shrink over geologic time",
+        "Lithospheric plates move laterally over a weaker layer",
+        "Beneath an ocean rather than along a coastline"
       ],
       "correctAnswer": "Beneath an ocean rather than along a coastline"
     }

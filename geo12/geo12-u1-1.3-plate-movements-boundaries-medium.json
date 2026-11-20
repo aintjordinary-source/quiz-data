@@ -18,9 +18,9 @@
       "question": "Why is oceanic crust subducted beneath continental crust?",
       "options": [
         "Oceanic basalt is denser than continental granite",
-        "Continental granite is denser than oceanic basalt",
-        "Oceanic crust is thicker and lighter",
-        "Continental crust contains more water"
+        "The direction of their relative motion at the margin",
+        "Continental crust is buoyant and resists sinking",
+        "Plates stick and then slip suddenly along fractures"
       ],
       "correctAnswer": "Oceanic basalt is denser than continental granite"
     },
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "Which mountain range formed as the Nazca Plate subducted beneath the South American Plate?",
       "options": [
-        "The Alps",
-        "The Andes",
-        "The Urals",
-        "The Appalachians"
+        "Subduction",
+        "New seafloor",
+        "Oceanic crust",
+        "The Andes"
       ],
       "correctAnswer": "The Andes"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "Which islands formed from the convergence of two oceanic plates?",
       "options": [
-        "The Hawaiian Islands",
-        "The Canary Islands",
+        "Convergent boundary",
         "The Mariana Islands",
-        "The Azores"
+        "Transform boundary",
+        "Divergent boundary"
       ],
       "correctAnswer": "The Mariana Islands"
     },
@@ -50,10 +50,10 @@
       "id": 4,
       "question": "Which range formed as the Indo-Australian Plate met the Eurasian Plate?",
       "options": [
-        "The Rockies",
-        "The Atlas Mountains",
-        "The Drakensberg",
-        "The Himalayas"
+        "Divergent boundary",
+        "The Himalayas",
+        "Oceanic crust",
+        "Convergent boundary"
       ],
       "correctAnswer": "The Himalayas"
     },
@@ -61,10 +61,10 @@
       "id": 5,
       "question": "What is seafloor spreading?",
       "options": [
+        "Convergence, subduction, melting, magma rise, volcano",
         "The creation of new oceanic crust at mid-ocean ridges",
-        "The destruction of crust at subduction zones",
-        "The sliding of plates past each other",
-        "The melting of continental ice sheets"
+        "The direction of their relative motion at the margin",
+        "Rising at oceanic ridges and descending at subduction zones"
       ],
       "correctAnswer": "The creation of new oceanic crust at mid-ocean ridges"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "Where are shallow earthquakes especially common?",
       "options": [
-        "At continental interiors",
         "At oceanic ridges",
-        "At river deltas",
-        "At desert margins"
+        "Transform boundary",
+        "Divergent boundary",
+        "Convergent boundary"
       ],
       "correctAnswer": "At oceanic ridges"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "What landform forms when continental crust diverges?",
       "options": [
-        "A fold mountain",
-        "A volcanic cone",
         "A rift valley",
-        "A coral atoll"
+        "Convergent boundary",
+        "Oceanic crust",
+        "Divergent boundary"
       ],
       "correctAnswer": "A rift valley"
     },
@@ -94,9 +94,9 @@
       "id": 8,
       "question": "Which feature is a modern example of continental divergence?",
       "options": [
-        "The Mid-Atlantic Ridge",
-        "The San Andreas Fault",
-        "The Himalayan Range",
+        "Two plates slide past each other",
+        "Two plates move away from each other",
+        "Two plates move toward each other",
         "The East African Rift Valley"
       ],
       "correctAnswer": "The East African Rift Valley"
@@ -105,10 +105,10 @@
       "id": 9,
       "question": "What happens to crust along a transform fault?",
       "options": [
-        "It is neither created nor destroyed",
-        "It is completely destroyed",
-        "It is newly created",
-        "It turns into magma"
+        "Two plates move away from each other",
+        "Two plates slide past each other",
+        "Two plates move toward each other",
+        "It is neither created nor destroyed"
       ],
       "correctAnswer": "It is neither created nor destroyed"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "What ultimately drives plate motion according to most geoscientists?",
       "options": [
-        "Ocean wave energy",
+        "Two plates move away from each other",
+        "Two plates slide past each other",
         "Convection currents in the mantle",
-        "Wind friction",
-        "The gravitational pull of the moon"
+        "Two plates move toward each other"
       ],
       "correctAnswer": "Convection currents in the mantle"
     }

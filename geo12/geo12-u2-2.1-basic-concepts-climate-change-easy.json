@@ -18,9 +18,9 @@
       "question": "What does climate refer to?",
       "options": [
         "Conditions of the atmosphere in a place over many years",
-        "Atmospheric conditions on a particular day",
-        "The temperature of one afternoon",
-        "A single storm event"
+        "Climate change requires a persistent pattern over many years",
+        "Short fluctuations do not represent a change in climate state",
+        "They trap heat and raise air temperatures near the ground"
       ],
       "correctAnswer": "Conditions of the atmosphere in a place over many years"
     },
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "What does weather refer to?",
       "options": [
-        "Average conditions over decades",
-        "Atmospheric conditions on a particular day",
-        "The long-term climate of a continent",
-        "The chemistry of ocean water"
+        "Intergovernmental Panel on Climate Change",
+        "An ecological consequence of global warming",
+        "A long-term increase in Earth average temperature",
+        "Atmospheric conditions on a particular day"
       ],
       "correctAnswer": "Atmospheric conditions on a particular day"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "What is the average climate around the world called?",
       "options": [
+        "Melting glaciers",
         "Regional climate",
-        "Local weather",
-        "Global climate",
-        "Seasonal climate"
+        "Carbon dioxide",
+        "Global climate"
       ],
       "correctAnswer": "Global climate"
     },
@@ -50,10 +50,10 @@
       "id": 4,
       "question": "What is global warming?",
       "options": [
-        "A single hot summer",
-        "A sudden drop in sea level",
-        "A change in ocean salinity only",
-        "A long-term increase in Earth average temperature"
+        "Conditions of the atmosphere in a place over many years",
+        "A long-term increase in Earth average temperature",
+        "They trap heat and raise air temperatures near the ground",
+        "Climate is measured over years; weather over a day"
       ],
       "correctAnswer": "A long-term increase in Earth average temperature"
     },
@@ -61,10 +61,10 @@
       "id": 5,
       "question": "What does IPCC stand for?",
       "options": [
-        "Intergovernmental Panel on Climate Change",
-        "International Polar Climate Council",
-        "Institute for Planetary Climate Control",
-        "Intergovernmental Pollution Control Commission"
+        "A long-term increase in Earth average temperature",
+        "Atmospheric conditions on a particular day",
+        "An ecological consequence of global warming",
+        "Intergovernmental Panel on Climate Change"
       ],
       "correctAnswer": "Intergovernmental Panel on Climate Change"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "According to the IPCC, how long must a climate change persist?",
       "options": [
-        "A few hours",
+        "Interdependence of air, water and land",
         "Typically decades or longer",
-        "One day",
-        "One week"
+        "A description of climate",
+        "Earth average temperature"
       ],
       "correctAnswer": "Typically decades or longer"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "Which gas is commonly associated with the greenhouse effect?",
       "options": [
-        "Oxygen",
-        "Nitrogen",
         "Carbon dioxide",
-        "Argon"
+        "Global climate",
+        "Melting glaciers",
+        "Regional climate"
       ],
       "correctAnswer": "Carbon dioxide"
     },
@@ -94,10 +94,10 @@
       "id": 8,
       "question": "What is the climate of a region such as the Horn of Africa called?",
       "options": [
-        "Global climate",
-        "Local weather",
-        "Urban climate",
-        "Regional climate"
+        "Melting glaciers",
+        "Gondar is cold in winter",
+        "Regional climate",
+        "A description of climate"
       ],
       "correctAnswer": "Regional climate"
     },
@@ -106,9 +106,9 @@
       "question": "Which of these is a consequence of rising global temperatures?",
       "options": [
         "Melting glaciers",
-        "Longer volcanic dormancy",
-        "Permanent daylight",
-        "Stable sea levels"
+        "A description of climate",
+        "Regional climate",
+        "Gondar is cold in winter"
       ],
       "correctAnswer": "Melting glaciers"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "Which example describes climate rather than weather?",
       "options": [
-        "It rained yesterday in Addis Ababa",
-        "Gondar is cold in winter",
-        "Today is windy in Dire Dawa",
-        "A storm arrived last night"
+        "Earth average temperature",
+        "Typically decades or longer",
+        "A description of climate",
+        "Gondar is cold in winter"
       ],
       "correctAnswer": "Gondar is cold in winter"
     }

@@ -17,10 +17,10 @@
       "id": 1,
       "question": "Why does limiting cultivated land expansion reduce emissions?",
       "options": [
+        "They raise pastoralist incomes while limiting emissions",
+        "Leapfrogging to modern and energy-efficient technologies",
         "It reduces forest clearing and soil-based emissions",
-        "It increases the use of fertilizer",
-        "It creates more farmland",
-        "It stops all food production"
+        "Higher farmer income and food security with lower emissions"
       ],
       "correctAnswer": "It reduces forest clearing and soil-based emissions"
     },
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "How do improved livestock practices yield combined benefits?",
       "options": [
-        "They lower incomes and raise emissions",
+        "Leapfrogging to modern and energy-efficient technologies",
+        "Higher farmer income and food security with lower emissions",
         "They raise pastoralist incomes while limiting emissions",
-        "They eliminate all livestock",
-        "They replace herding with mining"
+        "They store carbon and support economic and ecological functions"
       ],
       "correctAnswer": "They raise pastoralist incomes while limiting emissions"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "Why are forests described as providing ecosystem services?",
       "options": [
-        "They only provide timber",
-        "They have no ecological role",
         "They store carbon and support economic and ecological functions",
-        "They increase atmospheric carbon"
+        "They deliver electricity at virtually zero greenhouse gas emissions",
+        "It generates income while promoting low-emission regional development",
+        "Growing forests absorb and store carbon dioxide from the atmosphere"
       ],
       "correctAnswer": "They store carbon and support economic and ecological functions"
     },
@@ -50,10 +50,10 @@
       "id": 4,
       "question": "Why are hydro, geothermal, solar and wind attractive for Ethiopia?",
       "options": [
-        "They are all fossil fuels",
-        "They require imported coal",
-        "They emit more than natural gas",
-        "They deliver electricity at virtually zero greenhouse gas emissions"
+        "Growing forests absorb and store carbon dioxide from the atmosphere",
+        "It raises farm productivity and income while cutting agricultural emissions",
+        "They deliver electricity at virtually zero greenhouse gas emissions",
+        "It generates income while promoting low-emission regional development"
       ],
       "correctAnswer": "They deliver electricity at virtually zero greenhouse gas emissions"
     },
@@ -61,10 +61,10 @@
       "id": 5,
       "question": "How does energy efficiency in buildings fit CRGE?",
       "options": [
+        "Leapfrogging to modern and energy-efficient technologies",
         "It reduces emissions through modern efficient technologies",
-        "It increases fuel consumption",
-        "It belongs to the agriculture pillar",
-        "It has no climate relevance"
+        "They store carbon and support economic and ecological functions",
+        "Higher farmer income and food security with lower emissions"
       ],
       "correctAnswer": "It reduces emissions through modern efficient technologies"
     },
@@ -72,32 +72,32 @@
       "id": 6,
       "question": "How does CRGE support food security and climate goals together?",
       "options": [
-        "It separates the two goals completely",
-        "It raises farm productivity and income while cutting agricultural emissions",
-        "It ignores farm incomes",
-        "It ends all farming subsidies"
+        "It raises farm income while cutting agricultural emissions",
+        "They deliver electricity at virtually zero greenhouse gas emissions",
+        "Growing forests absorb and store carbon dioxide from the atmosphere",
+        "It generates income while promoting low-emission regional development"
       ],
-      "correctAnswer": "It raises farm productivity and income while cutting agricultural emissions"
+      "correctAnswer": "It raises farm income while cutting agricultural emissions"
     },
     {
       "id": 7,
       "question": "Why is leapfrogging used for the technology pillar?",
       "options": [
-        "It means returning to older machines",
-        "It refers to mountain climbing",
-        "Ethiopia can adopt modern efficient technologies directly instead of high-emission pathways",
-        "It describes forest clearing"
+        "Ethiopia can adopt efficient technologies",
+        "It powers cities, industry and irrigation pumps",
+        "The sixth pillar of the homegrown economic reform",
+        "Exporting electricity to neighboring countries"
       ],
-      "correctAnswer": "Ethiopia can adopt modern efficient technologies directly instead of high-emission pathways"
+      "correctAnswer": "Ethiopia can adopt efficient technologies"
     },
     {
       "id": 8,
       "question": "How does reforestation contribute to carbon sequestration?",
       "options": [
-        "Cutting trees stores more carbon",
-        "Forests release all carbon immediately",
-        "Reforestation has no carbon effect",
-        "Growing forests absorb and store carbon dioxide from the atmosphere"
+        "Growing forests absorb and store carbon dioxide from the atmosphere",
+        "They deliver electricity at virtually zero greenhouse gas emissions",
+        "It generates income while promoting low-emission regional development",
+        "It raises farm productivity and income while cutting agricultural emissions"
       ],
       "correctAnswer": "Growing forests absorb and store carbon dioxide from the atmosphere"
     },
@@ -105,10 +105,10 @@
       "id": 9,
       "question": "What development ambition is linked to the CRGE strategy?",
       "options": [
+        "Afforestation, reforestation and forest management",
+        "By limiting expansion of land under cultivation",
         "Becoming a middle-income country before 2025",
-        "Becoming a low-income country",
-        "Ending all economic growth",
-        "Joining another country"
+        "It reduces forest clearing and soil-based emissions"
       ],
       "correctAnswer": "Becoming a middle-income country before 2025"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "How does exporting clean energy align with CRGE goals?",
       "options": [
-        "It raises national emissions sharply",
         "It generates income while promoting low-emission regional development",
-        "It depends on coal exports",
-        "It only benefits neighboring countries"
+        "They deliver electricity at virtually zero greenhouse gas emissions",
+        "They store carbon and support economic and ecological functions",
+        "It raises farm productivity and income while cutting agricultural emissions"
       ],
       "correctAnswer": "It generates income while promoting low-emission regional development"
     }

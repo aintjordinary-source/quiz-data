@@ -17,10 +17,10 @@
       "id": 1,
       "question": "Why do boreal forests enhance warming at high latitudes?",
       "options": [
+        "It releases additional carbon dioxide into the atmosphere",
         "They absorb more solar energy than snow-covered tundra",
-        "They reflect more sunlight than snow",
-        "They produce no carbon dioxide",
-        "They prevent all decomposition"
+        "Tropical regions where many developing nations are located",
+        "Land areas, especially at northern high latitudes in winter"
       ],
       "correctAnswer": "They absorb more solar energy than snow-covered tundra"
     },
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "How much more solar energy can boreal forests absorb than snow-covered tundra?",
       "options": [
-        "Up to ten times less",
-        "Up to three times as much",
-        "Exactly the same amount",
-        "Up to one third as much"
+        "About 1.0 degrees Celsius",
+        "More heat-related deaths",
+        "More damaging storm surges",
+        "Up to three times as much"
       ],
       "correctAnswer": "Up to three times as much"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "How can warming create a feedback loop through soil?",
       "options": [
-        "Frozen soil becomes permanent",
-        "Soil stops holding any nutrients",
         "Faster decomposition releases more carbon dioxide into the air",
-        "Roots stop absorbing water"
+        "Dark forests absorb more sunlight than snow, accelerating warming",
+        "Warmer air holds more snow inland while coastal melting increases",
+        "Warming is small in any year and significant only over decades"
       ],
       "correctAnswer": "Faster decomposition releases more carbon dioxide into the air"
     },
@@ -50,10 +50,10 @@
       "id": 4,
       "question": "Which health effect is expected as heat waves become more frequent?",
       "options": [
-        "Fewer heat-related illnesses everywhere",
-        "No change in health outcomes",
-        "More cold-related deaths only",
-        "More heat-related deaths"
+        "More heat-related deaths",
+        "Up to three times as much",
+        "More damaging storm surges",
+        "About 1.0 degrees Celsius"
       ],
       "correctAnswer": "More heat-related deaths"
     },
@@ -61,10 +61,10 @@
       "id": 5,
       "question": "How does warming affect rainfall in lower latitudes?",
       "options": [
+        "Through emerging diseases and changes in food supply",
+        "It releases additional carbon dioxide into the atmosphere",
         "More frequent droughts and unpredictable rainfall",
-        "Perfectly uniform rainfall",
-        "Permanent rainfall all year",
-        "A complete halt to precipitation"
+        "Shortages of water, nitrogen and other nutrients"
       ],
       "correctAnswer": "More frequent droughts and unpredictable rainfall"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "Why can intense rainfall stress agriculture even when annual totals are unchanged?",
       "options": [
-        "Rain becomes gentler and more frequent",
         "Rain falls in heavier spells with longer dry periods",
-        "Rain stops entirely in winter",
-        "Rainfall becomes snow everywhere"
+        "It releases additional carbon dioxide into the atmosphere",
+        "Through emerging diseases and changes in food supply",
+        "Land areas, especially at northern high latitudes in winter"
       ],
       "correctAnswer": "Rain falls in heavier spells with longer dry periods"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "What causes the remaining half of sea level rise besides melting ice?",
       "options": [
-        "Growth of coral reefs",
-        "River sediment deposition",
         "Expansion of oceans as they warm",
-        "Tectonic uplift of continents"
+        "Roughly 3.4 centimeters per decade",
+        "Act as a fertilizer and speed up growth",
+        "About 1.0 degrees Celsius"
       ],
       "correctAnswer": "Expansion of oceans as they warm"
     },
@@ -94,9 +94,9 @@
       "id": 8,
       "question": "How quickly has global sea level risen since 1993?",
       "options": [
-        "Roughly 34 centimeters per decade",
-        "Roughly 0.34 centimeters per decade",
-        "Roughly 340 centimeters per decade",
+        "More damaging storm surges",
+        "More frequent dry spells in forested areas",
+        "Act as a fertilizer and speed up growth",
         "Roughly 3.4 centimeters per decade"
       ],
       "correctAnswer": "Roughly 3.4 centimeters per decade"
@@ -106,9 +106,9 @@
       "question": "How can sea level rise affect coastal groundwater?",
       "options": [
         "Saltwater can contaminate freshwater supplies",
-        "Groundwater becomes fresher",
-        "Groundwater disappears entirely",
-        "Groundwater turns into magma"
+        "Shortages of water, nitrogen and other nutrients",
+        "Rising seas push salt into freshwater aquifers",
+        "Through emerging diseases and changes in food supply"
       ],
       "correctAnswer": "Saltwater can contaminate freshwater supplies"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "What might happen to Arctic summer sea ice by mid-century?",
       "options": [
-        "It will cover the whole Arctic Ocean",
+        "Warmer air holds more snow inland while coastal melting increases",
+        "Land areas, especially at northern high latitudes in winter",
         "It may shrink to less than 10 percent of the Arctic Ocean",
-        "It will expand to twice its area",
-        "It will move to the Antarctic"
+        "Dark forests absorb more sunlight than snow, accelerating warming"
       ],
       "correctAnswer": "It may shrink to less than 10 percent of the Arctic Ocean"
     }

@@ -17,10 +17,10 @@
       "id": 1,
       "question": "What does plate tectonic theory state about Earth outer layers?",
       "options": [
+        "The North American Plate includes western North Atlantic seafloor",
         "The lithosphere is divided into plates that move on the asthenosphere",
-        "The atmosphere is divided into plates",
-        "The core is broken into moving plates",
-        "The oceans float above the mantle plates"
+        "They interact at boundaries to form features such as mountains and earthquakes",
+        "It cycles material between the crust, mantle, oceans and atmosphere"
       ],
       "correctAnswer": "The lithosphere is divided into plates that move on the asthenosphere"
     },
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "Why is plate tectonics considered a scientific revolution?",
       "options": [
-        "It disproved all earlier geology",
+        "It cycles material between the crust, mantle, oceans and atmosphere",
         "It provides a unifying explanation for many geologic features",
-        "It eliminated earthquakes",
-        "It showed continents are fixed"
+        "The North American Plate includes western North Atlantic seafloor",
+        "The lithosphere is divided into plates that move on the asthenosphere"
       ],
       "correctAnswer": "It provides a unifying explanation for many geologic features"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "Which observation shows that plates change over geologic time?",
       "options": [
-        "They remain the same size",
-        "They only change color",
         "They move slowly and change size",
-        "They stay at fixed depths"
+        "Its ductility, which allows slow flow",
+        "The crust and the uppermost mantle",
+        "A large piece of the lithosphere"
       ],
       "correctAnswer": "They move slowly and change size"
     },
@@ -50,9 +50,9 @@
       "id": 4,
       "question": "How does plate tectonics influence long-term climate?",
       "options": [
-        "It controls daily weather",
-        "It changes the length of day",
-        "It moves the moon closer",
+        "It drives long-term cycling of elements among Earth spheres",
+        "It explains rock ages and fossil distribution patterns",
+        "Lithospheric plates move laterally over a weaker layer",
         "It affects the composition of the atmosphere and oceans"
       ],
       "correctAnswer": "It affects the composition of the atmosphere and oceans"
@@ -62,9 +62,9 @@
       "question": "Which events can plate tectonics help predict?",
       "options": [
         "Earthquakes and volcanic eruptions",
-        "Solar eclipses",
-        "Ocean tides",
-        "Seasonal rainfall"
+        "Its ductility, which allows slow flow",
+        "Continental rocks, oceanic rocks, or both",
+        "The crust and the uppermost mantle"
       ],
       "correctAnswer": "Earthquakes and volcanic eruptions"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "Which feature is explained by plate tectonic theory?",
       "options": [
-        "The phases of the moon",
-        "The distribution of fossils and the ages of rocks",
-        "The colors of the sky",
-        "The migration of birds"
+        "Lithospheric plates move laterally over a weaker layer",
+        "Ocean basins can expand or shrink over geologic time",
+        "It explains rock ages and fossil distribution patterns",
+        "The distribution of fossils and the ages of rocks"
       ],
       "correctAnswer": "The distribution of fossils and the ages of rocks"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "What is the relationship between continental crust and lithospheric plates?",
       "options": [
-        "Continental crust forms a separate layer above the plates",
-        "Continental crust lies below the core",
+        "It drives long-term cycling of elements among Earth spheres",
+        "It affects the composition of the atmosphere and oceans",
         "Continental crust is embodied within lithospheric plates",
-        "Continental crust replaces the asthenosphere"
+        "It provides a unifying explanation for many geologic features"
       ],
       "correctAnswer": "Continental crust is embodied within lithospheric plates"
     },
@@ -94,9 +94,9 @@
       "id": 8,
       "question": "Why can plates move over the asthenosphere?",
       "options": [
-        "The asthenosphere is liquid iron",
-        "The asthenosphere is frozen solid",
-        "The asthenosphere contains ocean water",
+        "Continental rocks, oceanic rocks, or both",
+        "Beneath an ocean rather than along a coastline",
+        "It is the rigid shell broken into moving plates",
         "The asthenosphere is ductile and can flow"
       ],
       "correctAnswer": "The asthenosphere is ductile and can flow"
@@ -105,10 +105,10 @@
       "id": 9,
       "question": "Which statement about the North American Plate is accurate?",
       "options": [
+        "Ocean basins can expand or shrink over geologic time",
+        "Beneath an ocean rather than along a coastline",
         "It extends beneath part of the Atlantic Ocean",
-        "It is made only of oceanic crust",
-        "It ends exactly at the Atlantic coast",
-        "It lies entirely in the Southern Hemisphere"
+        "Large displacements accumulate over millions of years"
       ],
       "correctAnswer": "It extends beneath part of the Atlantic Ocean"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "How does plate tectonics help in understanding mountain building?",
       "options": [
-        "It assigns each mountain an age by color",
-        "It links crustal movement to the formation of landforms",
-        "It records the temperature of mountain peaks",
-        "It measures the height of ocean waves"
+        "It explains rock ages and fossil distribution patterns",
+        "Lithospheric plates move laterally over a weaker layer",
+        "It drives long-term cycling of elements among Earth spheres",
+        "It links crustal movement to the formation of landforms"
       ],
       "correctAnswer": "It links crustal movement to the formation of landforms"
     }

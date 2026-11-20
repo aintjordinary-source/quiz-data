@@ -17,10 +17,10 @@
       "id": 1,
       "question": "How many pillars does Ethiopia’s Climate Resilient Green Economy strategy have?",
       "options": [
+        "Agriculture",
+        "Middle income",
         "Four",
-        "Two",
-        "Six",
-        "Sixty"
+        "60"
       ],
       "correctAnswer": "Four"
     },
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "How many initiatives were initially prioritized under the CRGE strategy?",
       "options": [
-        "4",
+        "Middle income",
+        "Agriculture",
         "60",
-        "14",
-        "2025"
+        "Four"
       ],
       "correctAnswer": "60"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "Which sector remains core to the Ethiopian economy according to CRGE?",
       "options": [
-        "Mining",
-        "Tourism",
+        "Four",
         "Agriculture",
-        "Textiles"
+        "Middle income",
+        "A sectoral approach"
       ],
       "correctAnswer": "Agriculture"
     },
@@ -50,9 +50,9 @@
       "id": 4,
       "question": "Which renewable sources does Ethiopia plan to exploit?",
       "options": [
-        "Coal, oil, gas and nuclear",
-        "Wood, charcoal, peat and diesel",
-        "Tidal, wave, biomass and shale gas",
+        "Protecting and re-establishing forests",
+        "Cement, textile, leather and fertilizer",
+        "Carbon stored in forests and woodlands",
         "Hydro, geothermal, solar and wind"
       ],
       "correctAnswer": "Hydro, geothermal, solar and wind"
@@ -61,10 +61,10 @@
       "id": 5,
       "question": "At what rate does Ethiopia need to expand electricity supply?",
       "options": [
+        "10 percent per annum",
         "14 percent per annum",
-        "4 percent per annum",
-        "40 percent per annum",
-        "1.4 percent per annum"
+        "8 percent per annum",
+        "Middle income"
       ],
       "correctAnswer": "14 percent per annum"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "Which of these is a pillar of CRGE?",
       "options": [
-        "Expanding coal mining",
         "Protecting and re-establishing forests",
-        "Banning all irrigation",
-        "Increasing fuel imports"
+        "Cement, textile, leather and fertilizer",
+        "Carbon stored in forests and woodlands",
+        "Becoming a middle-income country before 2025"
       ],
       "correctAnswer": "Protecting and re-establishing forests"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "Which pillar includes the construction of electric rail networks?",
       "options": [
-        "Improving crop and livestock production",
-        "Protecting forests",
+        "They raise pastoralist incomes while limiting emissions",
         "Leapfrogging to modern and energy-efficient technologies",
-        "Expanding renewable electricity"
+        "They store carbon and support economic and ecological functions",
+        "Higher farmer income and food security with lower emissions"
       ],
       "correctAnswer": "Leapfrogging to modern and energy-efficient technologies"
     },
@@ -94,10 +94,10 @@
       "id": 8,
       "question": "What do carbon stocks refer to?",
       "options": [
-        "Oil reserves underground",
-        "Coal in power stations",
-        "Gas in the atmosphere",
-        "Carbon stored in forests and woodlands"
+        "Cement, textile, leather and fertilizer",
+        "Protecting and re-establishing forests",
+        "Carbon stored in forests and woodlands",
+        "Becoming a middle-income country before 2025"
       ],
       "correctAnswer": "Carbon stored in forests and woodlands"
     },
@@ -105,10 +105,10 @@
       "id": 9,
       "question": "What is the goal of improving crop and livestock production practices?",
       "options": [
+        "They deliver electricity at virtually zero greenhouse gas emissions",
         "Higher farmer income and food security with lower emissions",
-        "Higher emissions and lower yields",
-        "Farming without any water",
-        "Exporting all farm produce"
+        "They store carbon and support economic and ecological functions",
+        "It reduces emissions through modern efficient technologies"
       ],
       "correctAnswer": "Higher farmer income and food security with lower emissions"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "What income status does Ethiopia aim to reach before 2025?",
       "options": [
-        "High income",
         "Middle income",
-        "Low income",
-        "Subsistence only"
+        "Agriculture",
+        "14 percent per annum",
+        "A sectoral approach"
       ],
       "correctAnswer": "Middle income"
     }

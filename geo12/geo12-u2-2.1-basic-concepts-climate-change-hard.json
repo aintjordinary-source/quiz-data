@@ -17,10 +17,10 @@
       "id": 1,
       "question": "Why is a single hot summer insufficient as evidence of climate change?",
       "options": [
+        "Rising air temperature warms oceans, which then fuel stronger storms",
+        "It includes changes in variability and both natural and human causes",
         "Climate change requires a persistent pattern over many years",
-        "One summer is too cold to measure",
-        "Summer temperatures are never recorded",
-        "Climate change happens only in winter"
+        "Short fluctuations do not represent a change in climate state"
       ],
       "correctAnswer": "Climate change requires a persistent pattern over many years"
     },
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "What makes the IPCC definition broader than a simple getting-hotter view?",
       "options": [
-        "It applies only to the oceans",
-        "It includes changes in variability and both natural and human causes",
-        "It ignores changes in temperature",
-        "It covers one country only"
+        "Rising air temperature warms oceans, which then fuel stronger storms",
+        "They are interdependent, so a change in one place leads to changes elsewhere",
+        "Climate change requires a persistent pattern over many years",
+        "It includes changes in variability and both natural and human causes"
       ],
       "correctAnswer": "It includes changes in variability and both natural and human causes"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "What is the chain linking air temperature, ocean heat and storms?",
       "options": [
-        "Warmer oceans cool the air and weaken storms",
-        "Storms warm the oceans before air temperature changes",
+        "It includes changes in variability and both natural and human causes",
+        "They are interdependent, so a change in one place leads to changes elsewhere",
         "Rising air temperature warms oceans, which then fuel stronger storms",
-        "Ocean heat has no effect on storms"
+        "Climate change requires a persistent pattern over many years"
       ],
       "correctAnswer": "Rising air temperature warms oceans, which then fuel stronger storms"
     },
@@ -50,10 +50,10 @@
       "id": 4,
       "question": "Which concept best captures the interconnectedness of Earth systems?",
       "options": [
-        "Isolation of each sphere",
-        "Permanence of all climates",
-        "Independence of weather and climate",
-        "Interdependence of air, water and land"
+        "Interdependence of air, water and land",
+        "Atmospheric conditions on a particular day",
+        "An ecological consequence of global warming",
+        "Intergovernmental Panel on Climate Change"
       ],
       "correctAnswer": "Interdependence of air, water and land"
     },
@@ -62,9 +62,9 @@
       "question": "Why is the decadal scale used in the IPCC definition?",
       "options": [
         "Short fluctuations do not represent a change in climate state",
-        "Decades are the shortest measurable period",
-        "Climate only changes every century",
-        "Weather records last exactly ten years"
+        "It includes changes in variability and both natural and human causes",
+        "Rising air temperature warms oceans, which then fuel stronger storms",
+        "Climate change requires a persistent pattern over many years"
       ],
       "correctAnswer": "Short fluctuations do not represent a change in climate state"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "What role do greenhouse gases play in the climate system?",
       "options": [
-        "They cool the lower atmosphere",
-        "They trap heat and raise air temperatures near the ground",
-        "They remove all infrared radiation",
-        "They prevent evaporation"
+        "Short fluctuations do not represent a change in climate state",
+        "Climate change requires a persistent pattern over many years",
+        "Local variations can mislead; the global mean reveals the trend",
+        "They trap heat and raise air temperatures near the ground"
       ],
       "correctAnswer": "They trap heat and raise air temperatures near the ground"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "Which statement distinguishes a climate trend from weather variability?",
       "options": [
-        "Both terms mean the same thing",
-        "Variability lasts longer than a trend",
         "A trend persists across many years while variability is short-term",
-        "Trends are measured in minutes"
+        "Climate change requires a persistent pattern over many years",
+        "Rising air temperature warms oceans, which then fuel stronger storms",
+        "It includes changes in variability and both natural and human causes"
       ],
       "correctAnswer": "A trend persists across many years while variability is short-term"
     },
@@ -94,10 +94,10 @@
       "id": 8,
       "question": "What does loss of wildlife habitats illustrate?",
       "options": [
-        "A cause of global warming",
-        "A type of renewable energy",
-        "A weather measurement tool",
-        "An ecological consequence of global warming"
+        "Climate is measured over years; weather over a day",
+        "An ecological consequence of global warming",
+        "Atmospheric conditions on a particular day",
+        "A long-term increase in Earth average temperature"
       ],
       "correctAnswer": "An ecological consequence of global warming"
     },
@@ -106,9 +106,9 @@
       "question": "Why do scientists study average global temperature rather than one region?",
       "options": [
         "Local variations can mislead; the global mean reveals the trend",
-        "Regional temperatures are never measured",
-        "Global means are easier to guess",
-        "One region represents the whole planet perfectly"
+        "Rising air temperature warms oceans, which then fuel stronger storms",
+        "A trend persists across many years while variability is short-term",
+        "It includes changes in variability and both natural and human causes"
       ],
       "correctAnswer": "Local variations can mislead; the global mean reveals the trend"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "How would you classify Gambella is warm and humid all year long?",
       "options": [
-        "A description of weather",
+        "Typically decades or longer",
+        "Gondar is cold in winter",
         "A description of climate",
-        "A description of a storm",
-        "A description of a tsunami"
+        "Earth average temperature"
       ],
       "correctAnswer": "A description of climate"
     }

@@ -17,10 +17,10 @@
       "id": 1,
       "question": "By about how much has average global surface air temperature risen since the late 1800s?",
       "options": [
-        "About 1.0 degrees Celsius",
-        "About 0.1 degrees Celsius",
-        "About 10 degrees Celsius",
-        "About 100 degrees Celsius"
+        "Up to three times as much",
+        "More heat-related deaths",
+        "More damaging storm surges",
+        "About 1.0 degrees Celsius"
       ],
       "correctAnswer": "About 1.0 degrees Celsius"
     },
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "Which areas warm faster than the global average?",
       "options": [
-        "Ocean surfaces only",
         "Land areas, especially at northern high latitudes in winter",
-        "Deserts in the Southern Hemisphere",
-        "The deep ocean floor"
+        "Dark forests absorb more sunlight than snow, accelerating warming",
+        "Tropical regions where many developing nations are located",
+        "Warmer air holds more snow inland while coastal melting increases"
       ],
       "correctAnswer": "Land areas, especially at northern high latitudes in winter"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "What generally happens to sea level as land ice melts and oceans warm?",
       "options": [
-        "It falls",
-        "It stays exactly constant",
+        "Greenland",
         "It rises",
-        "It becomes saltier"
+        "About half",
+        "2007 and 2012"
       ],
       "correctAnswer": "It rises"
     },
@@ -50,10 +50,10 @@
       "id": 4,
       "question": "By about how much did global sea level rise in the twentieth century?",
       "options": [
-        "About 1.7 centimeters",
-        "About 170 centimeters",
-        "About 17 meters",
-        "About 17 centimeters"
+        "About 17 centimeters",
+        "Up to three times as much",
+        "More damaging storm surges",
+        "About 1.0 degrees Celsius"
       ],
       "correctAnswer": "About 17 centimeters"
     },
@@ -62,9 +62,9 @@
       "question": "What share of sea level rise came from melting glaciers and ice sheets?",
       "options": [
         "About half",
-        "About all of it",
-        "About one percent",
-        "None of it"
+        "2007 and 2012",
+        "Greenland",
+        "They may decrease"
       ],
       "correctAnswer": "About half"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "What is a likely consequence of higher sea level for coastal areas?",
       "options": [
-        "Fewer coastal storms",
+        "Expansion of oceans as they warm",
         "More damaging storm surges",
-        "Lower groundwater salinity",
-        "Colder coastal waters"
+        "Up to three times as much",
+        "About 1.0 degrees Celsius"
       ],
       "correctAnswer": "More damaging storm surges"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "Which polar region is described as experiencing rapid melting of ice and snow?",
       "options": [
-        "The Sahara",
-        "The Arabian Peninsula",
+        "It rises",
+        "2007 and 2012",
         "Greenland",
-        "The Australian interior"
+        "About half"
       ],
       "correctAnswer": "Greenland"
     },
@@ -94,9 +94,9 @@
       "id": 8,
       "question": "In which years did Arctic sea ice reach dramatic record lows?",
       "options": [
-        "1990 and 1995",
-        "1980 and 1985",
-        "2000 and 2001",
+        "It rises",
+        "They may decrease",
+        "About 17 centimeters",
         "2007 and 2012"
       ],
       "correctAnswer": "2007 and 2012"
@@ -105,10 +105,10 @@
       "id": 9,
       "question": "What may happen to tropical crop yields as the climate warms?",
       "options": [
+        "About 17 centimeters",
         "They may decrease",
-        "They will certainly double",
-        "They remain unchanged everywhere",
-        "They become independent of rainfall"
+        "About 1.0 degrees Celsius",
+        "Up to three times as much"
       ],
       "correctAnswer": "They may decrease"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "What can elevated carbon dioxide do for some plants?",
       "options": [
-        "Stop all photosynthesis",
+        "More frequent dry spells in forested areas",
+        "Rising seas push salt into freshwater aquifers",
         "Act as a fertilizer and speed up growth",
-        "Make leaves turn blue",
-        "Remove all soil nutrients"
+        "Longer growing seasons and earlier snowmelt"
       ],
       "correctAnswer": "Act as a fertilizer and speed up growth"
     }

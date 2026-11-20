@@ -17,21 +17,21 @@
       "id": 1,
       "question": "How does the IPCC define adaptation to climate change?",
       "options": [
-        "Adjustments in ecological, social or economic systems in response to actual or expected stimuli and impacts",
-        "A complete ban on fossil fuels",
-        "A rise in global temperatures",
-        "The migration of all coastal peoples"
+        "Whether it is motivated by households and companies or by government",
+        "Adaptation that takes place after initial impacts have occurred",
+        "Sensitivity to the issue grew after the IPCC Third Assessment Report",
+        "Adjustments in systems in response to climate stimuli and impacts"
       ],
-      "correctAnswer": "Adjustments in ecological, social or economic systems in response to actual or expected stimuli and impacts"
+      "correctAnswer": "Adjustments in systems in response to climate stimuli and impacts"
     },
     {
       "id": 2,
       "question": "What is the purpose of adaptation adjustments?",
       "options": [
-        "To increase emissions",
+        "Adaptation that takes place after initial impacts have occurred",
+        "Adaptation that takes place before impacts become apparent",
         "To moderate potential damages or benefit from opportunities",
-        "To stop all plate movement",
-        "To eliminate all weather"
+        "They address different parts of the problem: causes and impacts"
       ],
       "correctAnswer": "To moderate potential damages or benefit from opportunities"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "What distinguishes private from public adaptation?",
       "options": [
-        "Whether it occurs in summer or winter",
-        "Whether it involves water or soil",
         "Whether it is motivated by households and companies or by government",
-        "Whether it is cheap or expensive"
+        "Adaptation that takes place after initial impacts have occurred",
+        "It adjusts farming practice to cope with changed water availability",
+        "Sensitivity to the issue grew after the IPCC Third Assessment Report"
       ],
       "correctAnswer": "Whether it is motivated by households and companies or by government"
     },
@@ -50,21 +50,21 @@
       "id": 4,
       "question": "What is autonomous adaptation?",
       "options": [
-        "A decision made by a national parliament",
-        "A United Nations treaty",
-        "A mandatory building code",
-        "Changes systems undergo in response to climate regardless of any policy or plan"
+        "Systems that accumulate and store greenhouse gases, such as forests and oceans",
+        "Changes systems undergo in response to climate regardless of any policy or plan",
+        "Mitigation lowers future warming while adaptation lowers current impacts",
+        "Adjustments in ecological, social or economic systems in response to climate"
       ],
-      "correctAnswer": "Changes systems undergo in response to climate regardless of any policy or plan"
+      "correctAnswer": "Adjustments in ecological, social or economic systems in response to climate"
     },
     {
       "id": 5,
       "question": "How does mitigation reduce warming?",
       "options": [
+        "Adaptation that takes place after initial impacts have occurred",
         "By lowering emissions of heat-trapping greenhouse gases",
-        "By increasing cloud cover artificially",
-        "By planting only decorative flowers",
-        "By reducing ocean salinity"
+        "Adaptation that takes place before impacts become apparent",
+        "They address different parts of the problem: causes and impacts"
       ],
       "correctAnswer": "By lowering emissions of heat-trapping greenhouse gases"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "What are sinks in climate mitigation?",
       "options": [
-        "Underground oil reserves",
-        "Systems that accumulate and store greenhouse gases, such as forests and oceans",
-        "Mountain peaks above the clouds",
-        "Nuclear power stations"
+        "Changes systems undergo in response to climate regardless of any policy or plan",
+        "Mitigation lowers future warming while adaptation lowers current impacts",
+        "Adjustments in ecological, social or economic systems in response to climate",
+        "Systems that accumulate and store greenhouse gases, such as forests and oceans"
       ],
       "correctAnswer": "Systems that accumulate and store greenhouse gases, such as forests and oceans"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "Which activity is a mitigation measure?",
       "options": [
-        "Building terraces on farms",
-        "Harvesting rainwater",
+        "Alleviate the adverse impacts of climate change",
+        "Species respond after conditions have changed",
         "Replacing coal power with wind energy",
-        "Changing the crop planting date"
+        "Local, regional, national and global levels"
       ],
       "correctAnswer": "Replacing coal power with wind energy"
     },
@@ -94,10 +94,10 @@
       "id": 8,
       "question": "Why has adaptation become an urgent policy priority?",
       "options": [
-        "Mitigation was completely abandoned",
-        "All impacts have disappeared",
-        "The UNFCCC was dissolved",
-        "Sensitivity to the issue grew after the IPCC Third Assessment Report"
+        "Sensitivity to the issue grew after the IPCC Third Assessment Report",
+        "Whether it is motivated by households and companies or by government",
+        "Adaptation that takes place after initial impacts have occurred",
+        "It adjusts farming practice to cope with changed water availability"
       ],
       "correctAnswer": "Sensitivity to the issue grew after the IPCC Third Assessment Report"
     },
@@ -105,10 +105,10 @@
       "id": 9,
       "question": "At which levels are climate responses needed?",
       "options": [
+        "Species respond after conditions have changed",
         "Local, regional, national and global levels",
-        "Only global level",
-        "Only local level",
-        "Only national level"
+        "Alleviate the adverse impacts of climate change",
+        "Reduce greenhouse gas emissions and enhance sinks"
       ],
       "correctAnswer": "Local, regional, national and global levels"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "Which Ethiopian practice involves changing the time farmers sow seeds?",
       "options": [
-        "Water harvesting",
+        "Replacing coal power with wind energy",
         "Changing crop planting date",
-        "Irrigation",
-        "Terracing"
+        "Mitigation and adaptation",
+        "Planned, public adaptation"
       ],
       "correctAnswer": "Changing crop planting date"
     }

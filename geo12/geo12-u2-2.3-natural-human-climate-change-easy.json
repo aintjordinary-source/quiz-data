@@ -17,21 +17,21 @@
       "id": 1,
       "question": "What are the three external causes of climate change?",
       "options": [
-        "Changes in incoming solar radiation, atmospheric composition and Earth surface",
-        "Wind, rain and rivers",
-        "Ocean currents, tides and waves",
-        "Fossils, rocks and soils"
+        "Changes in solar radiation, atmospheric composition and land surface",
+        "They are interdependent, so a change in one place leads to changes elsewhere",
+        "Rising air temperature warms oceans, which then fuel stronger storms",
+        "Changes in atmospheric composition, land use and solar radiation"
       ],
-      "correctAnswer": "Changes in incoming solar radiation, atmospheric composition and Earth surface"
+      "correctAnswer": "Changes in solar radiation, atmospheric composition and land surface"
     },
     {
       "id": 2,
       "question": "What are internal causes of climate change?",
       "options": [
-        "Changes in Earth orbit",
         "Ocean and atmosphere circulation that redistributes energy",
-        "Volcanic eruptions",
-        "Burning of fossil fuels"
+        "By adding greenhouse gases and aerosols to the atmosphere",
+        "Orbital variations help initiate glacial and interglacial periods",
+        "Altered reflectivity changes the amount of solar energy absorbed"
       ],
       "correctAnswer": "Ocean and atmosphere circulation that redistributes energy"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "Who proposed the theory linking climate to variations in Earth orbit?",
       "options": [
-        "Alfred Wegener",
-        "Charles Darwin",
         "Milutin Milankovitch",
-        "Isaac Newton"
+        "Burning of fossil fuels",
+        "A volcanic eruption",
+        "It readily absorbs sunlight"
       ],
       "correctAnswer": "Milutin Milankovitch"
     },
@@ -50,10 +50,10 @@
       "id": 4,
       "question": "In which decade was the Milankovitch theory proposed?",
       "options": [
-        "The 1910s",
-        "The 1950s",
-        "The 1970s",
-        "The 1930s"
+        "The 1930s",
+        "Carbon dioxide",
+        "Every 11 years",
+        "Over 100 years"
       ],
       "correctAnswer": "The 1930s"
     },
@@ -62,9 +62,9 @@
       "question": "Which set of movements makes up the Milankovitch cycles?",
       "options": [
         "Eccentricity, precession and obliquity",
-        "Rotation, revolution and erosion",
-        "Conduction, convection and radiation",
-        "Evaporation, condensation and rainfall"
+        "Sulfuric acid haze reflects incoming sunlight",
+        "They prevent sunlight from reaching the ground",
+        "The wobbling of Earth axis of rotation"
       ],
       "correctAnswer": "Eccentricity, precession and obliquity"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "About how often do sunspot numbers reach a maximum?",
       "options": [
-        "Every 100 years",
-        "Every 11 years",
-        "Every 2 years",
-        "Every 500 years"
+        "A volcanic eruption",
+        "Milutin Milankovitch",
+        "Carbon dioxide",
+        "Every 11 years"
       ],
       "correctAnswer": "Every 11 years"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "What is a sunspot?",
       "options": [
-        "A dark patch on the moon",
-        "A volcano on the ocean floor",
+        "Changes in the shape of Earth orbit around the Sun",
+        "Urban surfaces and haze alter the local energy balance",
         "A cooler, darker magnetic storm region on the Sun",
-        "A type of tropical cloud"
+        "By adding greenhouse gases and aerosols to the atmosphere"
       ],
       "correctAnswer": "A cooler, darker magnetic storm region on the Sun"
     },
@@ -94,10 +94,10 @@
       "id": 8,
       "question": "Which natural event can eject sulfur gases into the stratosphere and cool Earth?",
       "options": [
-        "An earthquake",
-        "A tsunami",
-        "A landslide",
-        "A volcanic eruption"
+        "It readily absorbs sunlight",
+        "A volcanic eruption",
+        "Milutin Milankovitch",
+        "Burning of fossil fuels"
       ],
       "correctAnswer": "A volcanic eruption"
     },
@@ -105,10 +105,10 @@
       "id": 9,
       "question": "What is the primary human cause of climate change over recent decades?",
       "options": [
+        "About 33 degrees Celsius lower",
+        "About 21 times as much",
         "Burning of fossil fuels",
-        "Planting trees",
-        "Building reservoirs",
-        "Using solar panels"
+        "It readily absorbs sunlight"
       ],
       "correctAnswer": "Burning of fossil fuels"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "Which gas strongly absorbs infrared radiation and warms the lower atmosphere?",
       "options": [
-        "Oxygen",
+        "Every 11 years",
+        "Milutin Milankovitch",
         "Carbon dioxide",
-        "Nitrogen",
-        "Helium"
+        "A volcanic eruption"
       ],
       "correctAnswer": "Carbon dioxide"
     }

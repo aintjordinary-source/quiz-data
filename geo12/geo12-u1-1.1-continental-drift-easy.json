@@ -18,9 +18,9 @@
       "question": "Who proposed the continental drift theory in 1912?",
       "options": [
         "Alfred Wegener",
-        "Charles Darwin",
-        "Harry Hess",
-        "Albert Einstein"
+        "The Triassic period",
+        "The Mesozoic era",
+        "350 million years ago"
       ],
       "correctAnswer": "Alfred Wegener"
     },
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "What was the name of the single ancient supercontinent?",
       "options": [
-        "Gondwanaland",
         "Pangaea",
+        "Alfred Wegener",
         "Laurasia",
-        "Panthalassa"
+        "Gondwanaland"
       ],
       "correctAnswer": "Pangaea"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "In which geological period did Pangaea start to break into several parts?",
       "options": [
-        "The Jurassic period",
-        "The Carboniferous period",
+        "Africa and South America",
         "The Triassic period",
-        "The Quaternary period"
+        "Paleoclimatic evidence",
+        "350 million years ago"
       ],
       "correctAnswer": "The Triassic period"
     },
@@ -50,9 +50,9 @@
       "id": 4,
       "question": "In which era did the breakup of Pangaea begin?",
       "options": [
-        "The Paleozoic era",
-        "The Cenozoic era",
-        "The Proterozoic era",
+        "The Triassic period",
+        "Africa and South America",
+        "350 million years ago",
         "The Mesozoic era"
       ],
       "correctAnswer": "The Mesozoic era"
@@ -61,10 +61,10 @@
       "id": 5,
       "question": "What was the northern part of Pangaea called?",
       "options": [
+        "Alfred Wegener",
         "Laurasia",
-        "Gondwanaland",
-        "Panthalassa",
-        "Tethys"
+        "Pangaea",
+        "The Mesozoic era"
       ],
       "correctAnswer": "Laurasia"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "What was the southern part of Pangaea called?",
       "options": [
-        "Laurasia",
         "Gondwanaland",
-        "Eurasia",
-        "Pangaea"
+        "The Triassic period",
+        "The Mesozoic era",
+        "Alfred Wegener"
       ],
       "correctAnswer": "Gondwanaland"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "Around how many million years ago was Pangaea located near the South Pole?",
       "options": [
-        "50 million years ago",
-        "150 million years ago",
+        "Paleoclimatic evidence",
         "350 million years ago",
-        "500 million years ago"
+        "In the Northern Hemisphere",
+        "Africa and South America"
       ],
       "correctAnswer": "350 million years ago"
     },
@@ -94,10 +94,10 @@
       "id": 8,
       "question": "What profession did Alfred Wegener have?",
       "options": [
-        "Geologist",
-        "Biologist",
-        "Astronomer",
-        "Meteorologist"
+        "The Mesozoic era",
+        "Meteorologist",
+        "The Triassic period",
+        "Alfred Wegener"
       ],
       "correctAnswer": "Meteorologist"
     },
@@ -105,10 +105,10 @@
       "id": 9,
       "question": "Which coastlines fit together like pieces of a jigsaw puzzle?",
       "options": [
+        "The Triassic period",
         "Africa and South America",
-        "Europe and Africa",
-        "Asia and Australia",
-        "North America and Europe"
+        "Lateral mobility of continents",
+        "In the Northern Hemisphere"
       ],
       "correctAnswer": "Africa and South America"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "What do we call the matching of rock types and mountain belts across two continents?",
       "options": [
-        "Paleoclimatic evidence",
-        "Rock type and structural similarity",
-        "Fossil evidence",
-        "Coastline similarity"
+        "A paradigm change in viewing Earth",
+        "He was not a geologist by profession",
+        "Lateral mobility of continents",
+        "Rock type and structural similarity"
       ],
       "correctAnswer": "Rock type and structural similarity"
     }

@@ -17,21 +17,21 @@
       "id": 1,
       "question": "How does the textbook define climate change?",
       "options": [
-        "A change in the mean or variability of climate persisting for decades or longer",
-        "A change in daily weather",
-        "A single record high temperature",
-        "A change in the length of a season only"
+        "Climate is measured over years; weather over a day",
+        "A pattern of change in global climate over many years",
+        "A change in climate persisting for decades or longer",
+        "Conditions of the atmosphere in a place over many years"
       ],
-      "correctAnswer": "A change in the mean or variability of climate persisting for decades or longer"
+      "correctAnswer": "A change in climate persisting for decades or longer"
     },
     {
       "id": 2,
       "question": "What causes does the IPCC definition include for climate change?",
       "options": [
-        "Only volcanic eruptions",
+        "Intergovernmental Panel on Climate Change",
         "Natural variability and human activities",
-        "Only changes in ocean currents",
-        "Only human activities"
+        "Atmospheric conditions on a particular day",
+        "An ecological consequence of global warming"
       ],
       "correctAnswer": "Natural variability and human activities"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "How are Earth air, water and land related in climate change?",
       "options": [
-        "They operate independently",
-        "Only air affects climate",
+        "It includes changes in variability and both natural and human causes",
         "They are interdependent, so a change in one place leads to changes elsewhere",
-        "Land and water never interact"
+        "A change in the mean or variability of climate persisting for decades or longer",
+        "Rising air temperature warms oceans, which then fuel stronger storms"
       ],
       "correctAnswer": "They are interdependent, so a change in one place leads to changes elsewhere"
     },
@@ -50,10 +50,10 @@
       "id": 4,
       "question": "Why do warmer oceans lead to stronger storms?",
       "options": [
-        "Warm oceans reflect all sunlight",
-        "Warm oceans produce less evaporation",
-        "Warm oceans stop atmospheric motion",
-        "Oceans absorb more heat from the atmosphere and fuel storms"
+        "A trend persists across many years while variability is short-term",
+        "Oceans absorb more heat from the atmosphere and fuel storms",
+        "Climate change requires a persistent pattern over many years",
+        "Short fluctuations do not represent a change in climate state"
       ],
       "correctAnswer": "Oceans absorb more heat from the atmosphere and fuel storms"
     },
@@ -62,9 +62,9 @@
       "question": "Which phrase distinguishes climate from weather?",
       "options": [
         "Climate is measured over years; weather over a day",
-        "Climate is measured in hours; weather over centuries",
-        "Both refer to a single day",
-        "Both refer to decades only"
+        "They trap heat and raise air temperatures near the ground",
+        "A long-term increase in Earth average temperature",
+        "Conditions of the atmosphere in a place over many years"
       ],
       "correctAnswer": "Climate is measured over years; weather over a day"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "What is meant by global climate change?",
       "options": [
-        "A change in one city for one day",
+        "Conditions of the atmosphere in a place over many years",
         "A pattern of change in global climate over many years",
-        "A temporary shift in wind direction",
-        "A single hurricane season"
+        "Short fluctuations do not represent a change in climate state",
+        "Climate change requires a persistent pattern over many years"
       ],
       "correctAnswer": "A pattern of change in global climate over many years"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "Which observed trend do scientists study as an important indicator?",
       "options": [
-        "The price of fuel",
-        "The number of clouds in one hour",
         "Earth average temperature",
-        "The depth of a single lake"
+        "A description of climate",
+        "Gondar is cold in winter",
+        "Typically decades or longer"
       ],
       "correctAnswer": "Earth average temperature"
     },
@@ -94,9 +94,9 @@
       "id": 8,
       "question": "What happens when air temperatures rise?",
       "options": [
-        "Oceans immediately freeze",
-        "The atmosphere loses all moisture",
-        "Sea level drops sharply",
+        "Atmospheric conditions on a particular day",
+        "A long-term increase in Earth average temperature",
+        "Intergovernmental Panel on Climate Change",
         "Oceans absorb more heat and become warmer"
       ],
       "correctAnswer": "Oceans absorb more heat and become warmer"
@@ -106,9 +106,9 @@
       "question": "Which example is used in the textbook to describe a regional climate?",
       "options": [
         "The Horn of Africa",
-        "The planet Mars",
-        "The city library",
-        "The Sahara desert only"
+        "A description of climate",
+        "Earth average temperature",
+        "Gondar is cold in winter"
       ],
       "correctAnswer": "The Horn of Africa"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "Which statement about climate change consequences is accurate?",
       "options": [
-        "They affect only temperature readings",
-        "They extend beyond rising temperatures to ecosystems and storms",
-        "They occur only in polar regions",
-        "They last only one season"
+        "It includes changes in variability and both natural and human causes",
+        "A trend persists across many years while variability is short-term",
+        "Rising air temperature warms oceans, which then fuel stronger storms",
+        "They extend beyond rising temperatures to ecosystems and storms"
       ],
       "correctAnswer": "They extend beyond rising temperatures to ecosystems and storms"
     }

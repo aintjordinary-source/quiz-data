@@ -17,10 +17,10 @@
       "id": 1,
       "question": "What approach does the CRGE strategy follow?",
       "options": [
+        "Agriculture",
+        "14 percent per annum",
         "A sectoral approach",
-        "A random approach",
-        "A single-farm approach",
-        "An urban-only approach"
+        "Middle income"
       ],
       "correctAnswer": "A sectoral approach"
     },
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "How does the agriculture pillar limit pressure on forests?",
       "options": [
-        "By clearing more forest for farms",
         "By limiting expansion of land under cultivation",
-        "By banning all livestock",
-        "By moving farmers to cities"
+        "Afforestation, reforestation and forest management",
+        "It reduces forest clearing and soil-based emissions",
+        "They raise pastoralist incomes while limiting emissions"
       ],
       "correctAnswer": "By limiting expansion of land under cultivation"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "Which forest measures does CRGE prioritize?",
       "options": [
-        "Fuel wood expansion and logging",
-        "Forest burning and grazing",
-        "Afforestation, reforestation and forest management",
-        "Road building through forests"
+        "Leapfrogging to modern and energy-efficient technologies",
+        "It reduces forest clearing and soil-based emissions",
+        "They raise pastoralist incomes while limiting emissions",
+        "Afforestation, reforestation and forest management"
       ],
       "correctAnswer": "Afforestation, reforestation and forest management"
     },
@@ -50,10 +50,10 @@
       "id": 4,
       "question": "Why is electricity considered a fundamental enabler of development?",
       "options": [
-        "It replaces all farm labour",
-        "It is used only for lighting homes",
-        "It prevents all flooding",
-        "It powers cities, industry and irrigation pumps"
+        "By limiting expansion of land under cultivation",
+        "It powers cities, industry and irrigation pumps",
+        "They raise pastoralist incomes while limiting emissions",
+        "It reduces forest clearing and soil-based emissions"
       ],
       "correctAnswer": "It powers cities, industry and irrigation pumps"
     },
@@ -61,10 +61,10 @@
       "id": 5,
       "question": "Which industries are named in the technology pillar?",
       "options": [
-        "Cement, textile, leather and fertilizer",
-        "Only information technology",
-        "Only agriculture and mining",
-        "Only healthcare and education"
+        "Carbon stored in forests and woodlands",
+        "Protecting and re-establishing forests",
+        "Becoming a middle-income country before 2025",
+        "Cement, textile, leather and fertilizer"
       ],
       "correctAnswer": "Cement, textile, leather and fertilizer"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "Which transport measure appears in the fourth pillar?",
       "options": [
-        "Higher fuel subsidies",
+        "Protecting and re-establishing forests",
+        "Hydro, geothermal, solar and wind",
         "Stricter fuel efficiency standards",
-        "More diesel vehicles",
-        "Removal of all railways"
+        "Carbon stored in forests and woodlands"
       ],
       "correctAnswer": "Stricter fuel efficiency standards"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "How can clean energy benefit other sectors?",
       "options": [
-        "It raises coal use everywhere",
-        "It stops all manufacturing",
+        "It reduces forest clearing and soil-based emissions",
+        "By limiting expansion of land under cultivation",
         "It enables green development across the economy",
-        "It increases net emissions"
+        "They raise pastoralist incomes while limiting emissions"
       ],
       "correctAnswer": "It enables green development across the economy"
     },
@@ -94,10 +94,10 @@
       "id": 8,
       "question": "What opportunity arises if clean power supply exceeds domestic demand?",
       "options": [
-        "Closing all power plants",
-        "Burning surplus electricity",
-        "Storing power in forests",
-        "Exporting electricity to neighboring countries"
+        "By limiting expansion of land under cultivation",
+        "Afforestation, reforestation and forest management",
+        "Exporting electricity to neighboring countries",
+        "It reduces forest clearing and soil-based emissions"
       ],
       "correctAnswer": "Exporting electricity to neighboring countries"
     },
@@ -106,9 +106,9 @@
       "question": "What does area closure contribute to?",
       "options": [
         "Increased storage of carbon in forests",
-        "Faster deforestation",
-        "Higher soil erosion",
-        "More fuel wood demand"
+        "Protecting and re-establishing forests",
+        "Carbon stored in forests and woodlands",
+        "Becoming a middle-income country before 2025"
       ],
       "correctAnswer": "Increased storage of carbon in forests"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "Which national plan does CRGE complement?",
       "options": [
-        "The first pillar of the constitution",
         "The sixth pillar of the homegrown economic reform",
-        "The national health strategy",
-        "The education five-year plan"
+        "They raise pastoralist incomes while limiting emissions",
+        "It reduces forest clearing and soil-based emissions",
+        "Leapfrogging to modern and energy-efficient technologies"
       ],
       "correctAnswer": "The sixth pillar of the homegrown economic reform"
     }

@@ -17,10 +17,10 @@
       "id": 1,
       "question": "What did the IPCC Second Assessment Report conclude in 1996?",
       "options": [
+        "Emissions trading, the CDM, sinks accounting and compliance",
+        "Cost-effective steps consistent with sustainable development",
         "There was a discernible human influence on global climate",
-        "Climate change was entirely natural",
-        "The atmosphere was stable",
-        "Sea levels were falling"
+        "Set voluntary emission targets and report progress regularly"
       ],
       "correctAnswer": "There was a discernible human influence on global climate"
     },
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "Which issues were covered by the Bonn Agreements?",
       "options": [
-        "Only volcanic monitoring",
         "Emissions trading, the CDM, sinks accounting and compliance",
-        "Only ocean shipping routes",
-        "Only school curricula"
+        "Cost-effective steps consistent with sustainable development",
+        "Set voluntary emission targets and report progress regularly",
+        "Major emitters stayed outside or were exempt from reduction duties"
       ],
       "correctAnswer": "Emissions trading, the CDM, sinks accounting and compliance"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "What does CDM stand for?",
       "options": [
-        "Climate Data Model",
-        "Carbon Dioxide Measurement",
         "Clean Development Mechanism",
-        "Continental Drift Mechanism"
+        "Costa Rica, Iceland and Norway",
+        "The Marrakesh Accords",
+        "The Paris Agreement"
       ],
       "correctAnswer": "Clean Development Mechanism"
     },
@@ -50,10 +50,10 @@
       "id": 4,
       "question": "At which conference was the Delhi Ministerial Declaration adopted?",
       "options": [
-        "COP 3 in 1997",
-        "COP 15 in 2009",
-        "COP 21 in 2015",
-        "COP 8 in 2002"
+        "WMO and UNEP",
+        "WMO, UNEP and ICSU",
+        "COP 8 in 2002",
+        "Resolution 43/53"
       ],
       "correctAnswer": "COP 8 in 2002"
     },
@@ -61,10 +61,10 @@
       "id": 5,
       "question": "What was a main outcome of COP 10 in Buenos Aires?",
       "options": [
+        "There was a discernible human influence on global climate",
         "A programme of work on adaptation and response measures",
-        "The Kyoto Protocol",
-        "The Paris Agreement",
-        "The First Assessment Report"
+        "Cost-effective steps consistent with sustainable development",
+        "Implementation of the Marrakesh Accords became central"
       ],
       "correctAnswer": "A programme of work on adaptation and response measures"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "What kind of targets does the Kyoto Protocol set?",
       "options": [
-        "Voluntary emission targets",
+        "It included ministers as well as scientists",
+        "Costa Rica, Iceland and Norway",
         "Mandatory emission reduction targets",
-        "No emission targets",
-        "Only research targets"
+        "At least 5 percent below 1990 levels"
       ],
       "correctAnswer": "Mandatory emission reduction targets"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "What emission goal did Kyoto set for developed countries over 2008 to 2012?",
       "options": [
-        "At least 50 percent below 1990 levels",
-        "Exactly 5 percent above 1990 levels",
+        "Mandatory emission reduction targets",
         "At least 5 percent below 1990 levels",
-        "A 22 percent increase"
+        "Costa Rica, Iceland and Norway",
+        "It included ministers as well as scientists"
       ],
       "correctAnswer": "At least 5 percent below 1990 levels"
     },
@@ -94,10 +94,10 @@
       "id": 8,
       "question": "Which major emitter remained outside the Kyoto Protocol?",
       "options": [
-        "France",
-        "Germany",
-        "Japan",
-        "The United States"
+        "The United States",
+        "WMO, UNEP and ICSU",
+        "Resolution 43/53",
+        "The Marrakesh Accords"
       ],
       "correctAnswer": "The United States"
     },
@@ -105,10 +105,10 @@
       "id": 9,
       "question": "What does the Paris Agreement ask nations to do?",
       "options": [
+        "Cost-effective steps consistent with sustainable development",
+        "They had contributed only a small part of accumulated carbon dioxide",
         "Set voluntary emission targets and report progress regularly",
-        "Ban all international travel",
-        "Close all coal mines immediately",
-        "Report only to their own citizens"
+        "Major emitters stayed outside or were exempt from reduction duties"
       ],
       "correctAnswer": "Set voluntary emission targets and report progress regularly"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "Which countries pledged to become carbon neutral?",
       "options": [
-        "Brazil, India and China",
+        "At least 5 percent below 1990 levels",
+        "Clean Development Mechanism",
         "Costa Rica, Iceland and Norway",
-        "Egypt, Sudan and Ethiopia",
-        "Russia, Canada and Australia"
+        "Mandatory emission reduction targets"
       ],
       "correctAnswer": "Costa Rica, Iceland and Norway"
     }

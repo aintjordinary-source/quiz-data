@@ -17,10 +17,10 @@
       "id": 1,
       "question": "How does the albedo feedback involving boreal forests and tundra work?",
       "options": [
-        "Dark forests absorb more sunlight than snow, accelerating warming",
-        "White tundra absorbs more sunlight than forests",
-        "Forests reflect sunlight back to space",
-        "Snow increases surface temperature directly"
+        "Warmer air holds more snow inland while coastal melting increases",
+        "Land areas, especially at northern high latitudes in winter",
+        "It releases additional carbon dioxide into the atmosphere",
+        "Dark forests absorb more sunlight than snow, accelerating warming"
       ],
       "correctAnswer": "Dark forests absorb more sunlight than snow, accelerating warming"
     },
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "Why might Antarctica gain snow while still losing ice overall?",
       "options": [
-        "Snowfall has no effect on ice mass",
         "Warmer air holds more snow inland while coastal melting increases",
-        "Antarctica has no coastline",
-        "Melting stops in warmer air"
+        "Land areas, especially at northern high latitudes in winter",
+        "It releases additional carbon dioxide into the atmosphere",
+        "Dark forests absorb more sunlight than snow, accelerating warming"
       ],
       "correctAnswer": "Warmer air holds more snow inland while coastal melting increases"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "How does saltwater intrusion affect coastal groundwater supplies?",
       "options": [
-        "It adds fresh water to aquifers",
-        "It lowers the ocean surface",
         "Rising seas push salt into freshwater aquifers",
-        "It increases groundwater temperature only"
+        "Shortages of water, nitrogen and other nutrients",
+        "They absorb more solar energy than snow-covered tundra",
+        "Through emerging diseases and changes in food supply"
       ],
       "correctAnswer": "Rising seas push salt into freshwater aquifers"
     },
@@ -50,10 +50,10 @@
       "id": 4,
       "question": "How do climate-driven changes in species distribution affect human well-being?",
       "options": [
-        "By eliminating all diseases",
-        "By increasing mineral deposits",
-        "By reducing all biodiversity to zero",
-        "Through emerging diseases and changes in food supply"
+        "Land areas, especially at northern high latitudes in winter",
+        "It releases additional carbon dioxide into the atmosphere",
+        "Through emerging diseases and changes in food supply",
+        "Tropical regions where many developing nations are located"
       ],
       "correctAnswer": "Through emerging diseases and changes in food supply"
     },
@@ -61,10 +61,10 @@
       "id": 5,
       "question": "Why might higher latitudes benefit initially from warming?",
       "options": [
+        "Shortages of water, nitrogen and other nutrients",
         "Longer growing seasons and earlier snowmelt",
-        "Permanently frozen soils",
-        "More frequent blizzards",
-        "Shorter daylight hours"
+        "More frequent dry spells in forested areas",
+        "Rising seas push salt into freshwater aquifers"
       ],
       "correctAnswer": "Longer growing seasons and earlier snowmelt"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "What limits the carbon dioxide fertilization effect?",
       "options": [
-        "Abundant rainfall everywhere",
-        "Shortages of water, nitrogen and other nutrients",
-        "Excess oxygen in the air",
-        "Lack of sunlight at night"
+        "More frequent droughts and unpredictable rainfall",
+        "They absorb more solar energy than snow-covered tundra",
+        "Through emerging diseases and changes in food supply",
+        "Shortages of water, nitrogen and other nutrients"
       ],
       "correctAnswer": "Shortages of water, nitrogen and other nutrients"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "How does faster decomposition of soil organic matter amplify warming?",
       "options": [
-        "It stores carbon permanently",
-        "It cools the soil surface",
-        "It releases additional carbon dioxide into the atmosphere",
-        "It stops plant growth"
+        "Dark forests absorb more sunlight than snow, accelerating warming",
+        "Warmer air holds more snow inland while coastal melting increases",
+        "Land areas, especially at northern high latitudes in winter",
+        "It releases additional carbon dioxide into the atmosphere"
       ],
       "correctAnswer": "It releases additional carbon dioxide into the atmosphere"
     },
@@ -94,10 +94,10 @@
       "id": 8,
       "question": "Which regions are projected to face decreasing crop yields?",
       "options": [
-        "Only polar regions",
-        "Only high mountain peaks",
-        "All regions equally",
-        "Tropical regions where many developing nations are located"
+        "Tropical regions where many developing nations are located",
+        "Warmer air holds more snow inland while coastal melting increases",
+        "Dark forests absorb more sunlight than snow, accelerating warming",
+        "Land areas, especially at northern high latitudes in winter"
       ],
       "correctAnswer": "Tropical regions where many developing nations are located"
     },
@@ -105,10 +105,10 @@
       "id": 9,
       "question": "What explains the projected increase in wildfires in high-latitude forests?",
       "options": [
+        "Rising seas push salt into freshwater aquifers",
+        "Shortages of water, nitrogen and other nutrients",
         "More frequent dry spells in forested areas",
-        "More frequent rainfall in forests",
-        "Longer snow cover each year",
-        "Fewer lightning strikes"
+        "Longer growing seasons and earlier snowmelt"
       ],
       "correctAnswer": "More frequent dry spells in forested areas"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "Why is a single warm year insufficient to demonstrate global warming?",
       "options": [
-        "Warm years are never recorded",
+        "Dark forests absorb more sunlight than snow, accelerating warming",
         "Warming is small in any year and significant only over decades",
-        "Global warming happens in one day",
-        "A warm year disproves climate change"
+        "Faster decomposition releases more carbon dioxide into the air",
+        "Warmer air holds more snow inland while coastal melting increases"
       ],
       "correctAnswer": "Warming is small in any year and significant only over decades"
     }

@@ -17,10 +17,10 @@
       "id": 1,
       "question": "Which property of the asthenosphere best enables plate motion?",
       "options": [
+        "The asthenosphere is ductile and can flow",
+        "Continental rocks, oceanic rocks, or both",
         "Its ductility, which allows slow flow",
-        "Its high density compared with the crust",
-        "Its solid iron composition",
-        "Its complete lack of heat"
+        "It extends beneath part of the Atlantic Ocean"
       ],
       "correctAnswer": "Its ductility, which allows slow flow"
     },
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "How does plate tectonics affect atmospheric and oceanic chemistry?",
       "options": [
-        "It seals the atmosphere from the surface",
+        "The lithosphere is divided into plates that move on the asthenosphere",
+        "The North American Plate includes western North Atlantic seafloor",
         "It cycles material between the crust, mantle, oceans and atmosphere",
-        "It removes all gases from the oceans",
-        "It fixes the composition of rocks forever"
+        "It drives long-term cycling of elements among Earth spheres"
       ],
       "correctAnswer": "It cycles material between the crust, mantle, oceans and atmosphere"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "What follows from the fact that plates change size?",
       "options": [
-        "Continents become smaller every year",
-        "The Earth radius increases rapidly",
-        "Ocean basins can expand or shrink over geologic time",
-        "Ocean currents stop flowing"
+        "Large displacements accumulate over millions of years",
+        "It explains rock ages and fossil distribution patterns",
+        "Lithospheric plates move laterally over a weaker layer",
+        "Ocean basins can expand or shrink over geologic time"
       ],
       "correctAnswer": "Ocean basins can expand or shrink over geologic time"
     },
@@ -50,10 +50,10 @@
       "id": 4,
       "question": "What distinguishes plate tectonics from earlier fixist views?",
       "options": [
-        "Continents are permanent",
-        "The mantle is molten throughout",
-        "Mountains form only from erosion",
-        "Lithospheric plates move laterally over a weaker layer"
+        "It explains rock ages and fossil distribution patterns",
+        "Lithospheric plates move laterally over a weaker layer",
+        "Large displacements accumulate over millions of years",
+        "It drives long-term cycling of elements among Earth spheres"
       ],
       "correctAnswer": "Lithospheric plates move laterally over a weaker layer"
     },
@@ -61,10 +61,10 @@
       "id": 5,
       "question": "Why is the theory useful for interpreting the rock record?",
       "options": [
+        "It drives long-term cycling of elements among Earth spheres",
+        "Lithospheric plates move laterally over a weaker layer",
         "It explains rock ages and fossil distribution patterns",
-        "It names every mineral",
-        "It measures rainfall over centuries",
-        "It predicts the weather next week"
+        "Large displacements accumulate over millions of years"
       ],
       "correctAnswer": "It explains rock ages and fossil distribution patterns"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "What does a motion of a few centimeters per year imply?",
       "options": [
-        "Plates cross oceans within a human lifetime",
         "Large displacements accumulate over millions of years",
-        "Plates stop between glacial periods",
-        "Motion is too small to measure"
+        "Ocean basins can expand or shrink over geologic time",
+        "Lithospheric plates move laterally over a weaker layer",
+        "It explains rock ages and fossil distribution patterns"
       ],
       "correctAnswer": "Large displacements accumulate over millions of years"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "Which evidence shows plate boundaries may cross ocean floors?",
       "options": [
-        "All plates match continent outlines",
-        "Ocean floors have no tectonic features",
         "The North American Plate includes western North Atlantic seafloor",
-        "Plate edges are always on land"
+        "It cycles material between the crust, mantle, oceans and atmosphere",
+        "The lithosphere is divided into plates that move on the asthenosphere",
+        "It drives long-term cycling of elements among Earth spheres"
       ],
       "correctAnswer": "The North American Plate includes western North Atlantic seafloor"
     },
@@ -94,21 +94,21 @@
       "id": 8,
       "question": "What happens as plates move in different directions?",
       "options": [
-        "They dissolve into the mantle",
-        "They become stationary",
-        "They exchange ocean water",
-        "They interact at boundaries to form features such as mountains and earthquakes"
+        "The lithosphere is divided into plates that move on the asthenosphere",
+        "Plates interact at boundaries to form mountains and earthquakes",
+        "It cycles material between the crust, mantle, oceans and atmosphere",
+        "The North American Plate includes western North Atlantic seafloor"
       ],
-      "correctAnswer": "They interact at boundaries to form features such as mountains and earthquakes"
+      "correctAnswer": "Plates interact at boundaries to form mountains and earthquakes"
     },
     {
       "id": 9,
       "question": "What role does the lithosphere play in plate tectonics?",
       "options": [
-        "It is the rigid shell broken into moving plates",
-        "It is the liquid outer layer",
-        "It is the gaseous envelope",
-        "It is the deepest core layer"
+        "Beneath an ocean rather than along a coastline",
+        "Lithospheric plates move laterally over a weaker layer",
+        "Ocean basins can expand or shrink over geologic time",
+        "It is the rigid shell broken into moving plates"
       ],
       "correctAnswer": "It is the rigid shell broken into moving plates"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "How does plate tectonics shape environments for life?",
       "options": [
-        "It fixes all climates permanently",
+        "It cycles material between the crust, mantle, oceans and atmosphere",
+        "The North American Plate includes western North Atlantic seafloor",
         "It drives long-term cycling of elements among Earth spheres",
-        "It removes nutrients from soils",
-        "It stops volcanic activity"
+        "It provides a unifying explanation for many geologic features"
       ],
       "correctAnswer": "It drives long-term cycling of elements among Earth spheres"
     }

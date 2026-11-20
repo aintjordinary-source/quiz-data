@@ -17,10 +17,10 @@
       "id": 1,
       "question": "Which century was likely the warmest in the last 1,000 years according to the 2001 report?",
       "options": [
+        "0.8 degrees Celsius",
+        "Past atmospheric composition",
         "The twentieth century",
-        "The fifteenth century",
-        "The eighteenth century",
-        "The tenth century"
+        "0.6 degrees Celsius"
       ],
       "correctAnswer": "The twentieth century"
     },
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "What did the IPCC project for global temperature by the end of the 21st century?",
       "options": [
-        "A decrease of 1.4 degrees Celsius",
         "An increase of 1.4 to 5.8 degrees Celsius",
-        "An increase of 0.1 degrees Celsius",
-        "An increase of 20 degrees Celsius"
+        "Carbon dioxide, methane and nitrous oxide",
+        "Ice core records and in situ observations",
+        "Observations of the atmosphere, land and oceans"
       ],
       "correctAnswer": "An increase of 1.4 to 5.8 degrees Celsius"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "What do ice cores help scientists reconstruct?",
       "options": [
-        "Future stock prices",
-        "The depth of rivers",
+        "It was the warmest decade worldwide",
+        "Rising greenhouse gas emissions",
         "Past atmospheric composition",
-        "The migration of birds"
+        "The twentieth century"
       ],
       "correctAnswer": "Past atmospheric composition"
     },
@@ -50,10 +50,10 @@
       "id": 4,
       "question": "What did the 2001 assessment conclude about warming over the past 50 years?",
       "options": [
-        "All of it came from volcanic eruptions",
-        "It was caused by sunspots alone",
-        "It did not occur",
-        "Most of it resulted from human activities"
+        "Most of it resulted from human activities",
+        "Observations of the atmosphere, land and oceans",
+        "Ice core records and in situ observations",
+        "Carbon dioxide, methane and nitrous oxide"
       ],
       "correctAnswer": "Most of it resulted from human activities"
     },
@@ -61,10 +61,10 @@
       "id": 5,
       "question": "How does the temperature record from 1880 onward support climate change?",
       "options": [
-        "It shows a long-term rise in global land and ocean temperature",
-        "It shows steadily falling temperatures",
-        "It shows no pattern at all",
-        "It covers only one decade"
+        "It was the warmest in the instrumental record beginning in 1861",
+        "Many independent observations point in the same direction",
+        "Atmosphere, land and ocean observations together with ice cores",
+        "It shows a long-term rise in global land and ocean temperature"
       ],
       "correctAnswer": "It shows a long-term rise in global land and ocean temperature"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "What does in situ observation refer to?",
       "options": [
-        "Measurements taken from spacecraft only",
+        "It documented the warmest decade and warmest year in the instrumental record",
+        "Local variation can be misleading while the global mean shows the trend",
         "Direct measurements made at locations on the atmosphere, land and oceans",
-        "Estimates based on guesswork",
-        "Readings from a single weather station only"
+        "It provides the reference against which temperature changes are measured"
       ],
       "correctAnswer": "Direct measurements made at locations on the atmosphere, land and oceans"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "Why do scientists use multiple lines of evidence?",
       "options": [
-        "Each line contradicts the others",
-        "One line is always enough",
+        "Whether greenhouse gas emissions continue to rise",
         "Together they confirm that the climate is changing",
-        "They replace the need for records"
+        "Human activities have altered atmospheric composition",
+        "Many independent observations point in the same direction"
       ],
       "correctAnswer": "Together they confirm that the climate is changing"
     },
@@ -94,9 +94,9 @@
       "id": 8,
       "question": "What trend is expected for atmospheric composition in the 21st century?",
       "options": [
-        "It will become fixed forever",
-        "It will return exactly to preindustrial levels",
-        "It will contain no greenhouse gases",
+        "Observations of the atmosphere, land and oceans",
+        "Carbon dioxide, methane and nitrous oxide",
+        "Ice core records and in situ observations",
         "Human influence will continue to change it"
       ],
       "correctAnswer": "Human influence will continue to change it"
@@ -105,10 +105,10 @@
       "id": 9,
       "question": "Which greenhouse gas is measured in ice cores?",
       "options": [
-        "Methane",
-        "Oxygen",
-        "Nitrogen",
-        "Argon"
+        "1998",
+        "Mitigation",
+        "1951 to 1980",
+        "Methane"
       ],
       "correctAnswer": "Methane"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "What role does the IPCC play in climate science?",
       "options": [
-        "It builds weather satellites",
+        "Whether greenhouse gas emissions continue to rise",
+        "It was likely the warmest century in a millennium",
         "It produces comprehensive assessment reports",
-        "It enforces emission laws",
-        "It publishes school textbooks"
+        "Observations of the atmosphere, land and oceans"
       ],
       "correctAnswer": "It produces comprehensive assessment reports"
     }

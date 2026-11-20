@@ -17,10 +17,10 @@
       "id": 1,
       "question": "What happens at a convergent plate boundary?",
       "options": [
-        "Two plates move toward each other",
-        "Two plates move away from each other",
         "Two plates slide past each other",
-        "Two plates remain fixed"
+        "It is neither created nor destroyed",
+        "Two plates move away from each other",
+        "Two plates move toward each other"
       ],
       "correctAnswer": "Two plates move toward each other"
     },
@@ -29,9 +29,9 @@
       "question": "What happens at a divergent plate boundary?",
       "options": [
         "Two plates move toward each other",
-        "Two plates move away from each other",
-        "Two plates slide past each other",
-        "Two plates sink together"
+        "It is destroyed and recycled into the mantle",
+        "It is neither created nor destroyed",
+        "Two plates move away from each other"
       ],
       "correctAnswer": "Two plates move away from each other"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "What happens at a transform plate boundary?",
       "options": [
-        "Two plates move toward each other",
-        "Two plates move apart",
         "Two plates slide past each other",
-        "Two plates melt together"
+        "Two plates move away from each other",
+        "Two plates move toward each other",
+        "It is neither created nor destroyed"
       ],
       "correctAnswer": "Two plates slide past each other"
     },
@@ -50,10 +50,10 @@
       "id": 4,
       "question": "Which type of crust is denser?",
       "options": [
-        "Continental crust",
-        "Both have equal density",
-        "Neither has measurable density",
-        "Oceanic crust"
+        "Transform boundary",
+        "Convergent boundary",
+        "Oceanic crust",
+        "Divergent boundary"
       ],
       "correctAnswer": "Oceanic crust"
     },
@@ -61,10 +61,10 @@
       "id": 5,
       "question": "What is the process called when one plate is forced beneath another?",
       "options": [
-        "Subduction",
-        "Seafloor spreading",
-        "Convection",
-        "Erosion"
+        "Divergent boundary",
+        "Oceanic crust",
+        "Transform boundary",
+        "Subduction"
       ],
       "correctAnswer": "Subduction"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "Which boundary is also called destructive?",
       "options": [
-        "Divergent boundary",
-        "Convergent boundary",
+        "The San Andreas Fault",
         "Transform boundary",
-        "Passive boundary"
+        "Divergent boundary",
+        "Convergent boundary"
       ],
       "correctAnswer": "Convergent boundary"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "Which boundary is also called constructive?",
       "options": [
-        "Convergent boundary",
         "Transform boundary",
-        "Divergent boundary",
-        "Passive boundary"
+        "The San Andreas Fault",
+        "Convergent boundary",
+        "Divergent boundary"
       ],
       "correctAnswer": "Divergent boundary"
     },
@@ -94,10 +94,10 @@
       "id": 8,
       "question": "Which boundary is also called conservative?",
       "options": [
-        "Divergent boundary",
         "Convergent boundary",
-        "Passive boundary",
-        "Transform boundary"
+        "Divergent boundary",
+        "Transform boundary",
+        "The San Andreas Fault"
       ],
       "correctAnswer": "Transform boundary"
     },
@@ -105,10 +105,10 @@
       "id": 9,
       "question": "What is created at a divergent boundary beneath the ocean?",
       "options": [
+        "Convergent boundary",
+        "Divergent boundary",
         "New seafloor",
-        "A subduction trench",
-        "A deep ocean basin filled with ash",
-        "A chain of old volcanoes"
+        "Oceanic crust"
       ],
       "correctAnswer": "New seafloor"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "Which fault is a well-known example of a transform boundary?",
       "options": [
-        "The East African Rift",
+        "Oceanic crust",
+        "Convergent boundary",
         "The San Andreas Fault",
-        "The Mid-Atlantic Ridge",
-        "The Andes Fault"
+        "The East African Rift Valley"
       ],
       "correctAnswer": "The San Andreas Fault"
     }

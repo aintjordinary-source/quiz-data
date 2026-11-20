@@ -17,10 +17,10 @@
       "id": 1,
       "question": "Why must mitigation and adaptation be pursued together?",
       "options": [
+        "It eases impacts but does not limit the underlying climate change",
+        "Adaptation that takes place after initial impacts have occurred",
         "They address different parts of the problem: causes and impacts",
-        "They are identical strategies",
-        "Adaptation replaces mitigation entirely",
-        "Mitigation only concerns local farms"
+        "It adjusts farming practice to cope with changed water availability"
       ],
       "correctAnswer": "They address different parts of the problem: causes and impacts"
     },
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "How does irrigation illustrate adaptation?",
       "options": [
-        "It increases greenhouse gas emissions",
         "It adjusts farming practice to cope with changed water availability",
-        "It belongs to tectonic engineering",
-        "It only affects urban areas"
+        "Adaptation that takes place after initial impacts have occurred",
+        "Sensitivity to the issue grew after the IPCC Third Assessment Report",
+        "Whether it is motivated by households and companies or by government"
       ],
       "correctAnswer": "It adjusts farming practice to cope with changed water availability"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "Why is natural-system adaptation described as reactive?",
       "options": [
-        "Species predict future climate precisely",
-        "Natural systems follow government plans",
+        "Reduce greenhouse gas emissions and enhance sinks",
+        "Alleviate the adverse impacts of climate change",
         "Species respond after conditions have changed",
-        "Natural systems use insurance"
+        "Replacing coal power with wind energy"
       ],
       "correctAnswer": "Species respond after conditions have changed"
     },
@@ -50,10 +50,10 @@
       "id": 4,
       "question": "What does enhancing sinks mean in practice?",
       "options": [
-        "Burning more fossil fuels",
-        "Draining all wetlands",
-        "Removing all vegetation",
-        "Protecting forests, soils and oceans that store carbon"
+        "Adaptation that takes place before impacts become apparent",
+        "Cutting fossil fuel use for electricity, heat and transport",
+        "Protecting forests, soils and oceans that store carbon",
+        "To moderate potential damages or benefit from opportunities"
       ],
       "correctAnswer": "Protecting forests, soils and oceans that store carbon"
     },
@@ -62,9 +62,9 @@
       "question": "How would you classify a government building-code reform?",
       "options": [
         "Planned, public adaptation",
-        "Autonomous, private adaptation",
-        "Reactive, natural adaptation",
-        "Mitigation only"
+        "Mitigation and adaptation",
+        "Crop diversification",
+        "Changing crop planting date"
       ],
       "correctAnswer": "Planned, public adaptation"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "Which strategy reduces the long-term magnitude of warming?",
       "options": [
-        "Adaptation",
-        "Mitigation",
-        "Insurance",
-        "Relocation"
+        "Soil conservation",
+        "Water harvesting",
+        "Terracing",
+        "Mitigation"
       ],
       "correctAnswer": "Mitigation"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "What is an example of reducing emission sources?",
       "options": [
-        "Constructing houses on stilts",
-        "Planting trees in cities",
         "Cutting fossil fuel use for electricity, heat and transport",
-        "Buying crop insurance"
+        "Adaptation that takes place after initial impacts have occurred",
+        "Adaptation that takes place before impacts become apparent",
+        "They address different parts of the problem: causes and impacts"
       ],
       "correctAnswer": "Cutting fossil fuel use for electricity, heat and transport"
     },
@@ -94,10 +94,10 @@
       "id": 8,
       "question": "What limitation of adaptation alone explains the need for mitigation?",
       "options": [
-        "It eliminates all emissions",
-        "It applies only to oceans",
-        "It stops sea level rise instantly",
-        "It eases impacts but does not limit the underlying climate change"
+        "Sensitivity to the issue grew after the IPCC Third Assessment Report",
+        "It adjusts farming practice to cope with changed water availability",
+        "It eases impacts but does not limit the underlying climate change",
+        "Whether it is motivated by households and companies or by government"
       ],
       "correctAnswer": "It eases impacts but does not limit the underlying climate change"
     },
@@ -105,21 +105,21 @@
       "id": 9,
       "question": "How do mitigation and adaptation differ in timing of benefit?",
       "options": [
-        "Mitigation reduces future warming while adaptation reduces current and near-term impacts",
-        "Both produce identical immediate effects",
-        "Adaptation only works after 2100",
-        "Mitigation only helps past generations"
+        "Systems that accumulate and store greenhouse gases, such as forests and oceans",
+        "Changes systems undergo in response to climate regardless of any policy or plan",
+        "Mitigation lowers future warming while adaptation lowers current impacts",
+        "Mitigation reduces future warming; adaptation reduces current impacts"
       ],
-      "correctAnswer": "Mitigation reduces future warming while adaptation reduces current and near-term impacts"
+      "correctAnswer": "Mitigation reduces future warming; adaptation reduces current impacts"
     },
     {
       "id": 10,
       "question": "Which Ethiopian practice reduces soil erosion while adapting to climate change?",
       "options": [
-        "Coal mining",
+        "Soil conservation",
         "Terracing",
-        "Deforestation",
-        "Overgrazing"
+        "Water harvesting",
+        "Mitigation"
       ],
       "correctAnswer": "Terracing"
     }

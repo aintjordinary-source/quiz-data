@@ -17,10 +17,10 @@
       "id": 1,
       "question": "Why do natural aerosols from wildfires and dust storms cool the surface?",
       "options": [
-        "They prevent sunlight from reaching the ground",
-        "They increase the greenhouse effect",
-        "They warm the stratosphere",
-        "They absorb all infrared radiation"
+        "Changes in the shape of Earth orbit around the Sun",
+        "Urban surfaces and haze alter the local energy balance",
+        "A cooler, darker magnetic storm region on the Sun",
+        "They prevent sunlight from reaching the ground"
       ],
       "correctAnswer": "They prevent sunlight from reaching the ground"
     },
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "How do human activities change climate through atmospheric composition?",
       "options": [
-        "By removing all aerosols",
         "By adding greenhouse gases and aerosols to the atmosphere",
-        "By changing Earth orbital path",
-        "By stopping volcanic eruptions"
+        "Orbital variations help initiate glacial and interglacial periods",
+        "Ocean and atmosphere circulation that redistributes energy",
+        "Altered reflectivity changes the amount of solar energy absorbed"
       ],
       "correctAnswer": "By adding greenhouse gases and aerosols to the atmosphere"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "What does extremely likely mean in the 2013 IPCC report?",
       "options": [
-        "A probability of exactly 50 percent",
-        "A probability below 5 percent",
-        "A probability of at least 95 percent",
-        "A statement with no probability"
+        "Eccentricity, precession and obliquity",
+        "They mainly reflect incoming sunlight",
+        "The wobbling of Earth axis of rotation",
+        "A probability of at least 95 percent"
       ],
       "correctAnswer": "A probability of at least 95 percent"
     },
@@ -50,21 +50,21 @@
       "id": 4,
       "question": "What did the 2013 Fifth Assessment Report conclude?",
       "options": [
-        "Natural cycles explain all warming",
-        "The climate is stable",
-        "Warming began only after 2013",
-        "Human influence is the dominant cause of warming since the mid-twentieth century"
+        "Human influence is the dominant cause of warming since 1950",
+        "They are interdependent, so a change in one place leads to changes elsewhere",
+        "Rising air temperature warms oceans, which then fuel stronger storms",
+        "Changes in atmospheric composition, land use and solar radiation"
       ],
-      "correctAnswer": "Human influence is the dominant cause of warming since the mid-twentieth century"
+      "correctAnswer": "Human influence is the dominant cause of warming since 1950"
     },
     {
       "id": 5,
       "question": "Why can city nights be warmer than nearby rural nights?",
       "options": [
-        "Urban surfaces and haze alter the local energy balance",
-        "Cities are closer to the sun",
-        "Rural areas have more pavement",
-        "Cities receive more rainfall"
+        "Ocean and atmosphere circulation that redistributes energy",
+        "It reduces evaporative cooling and raises temperature",
+        "By adding greenhouse gases and aerosols to the atmosphere",
+        "Urban surfaces and haze alter the local energy balance"
       ],
       "correctAnswer": "Urban surfaces and haze alter the local energy balance"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "How does albedo change contribute to warming after deforestation?",
       "options": [
-        "Albedo has no effect on temperature",
+        "Ocean and atmosphere circulation that redistributes energy",
         "Altered reflectivity changes the amount of solar energy absorbed",
-        "Deforested land becomes perfectly white",
-        "Albedo controls only wind speed"
+        "Orbital variations help initiate glacial and interglacial periods",
+        "An increase in desert conditions from overgrazing and cultivation"
       ],
       "correctAnswer": "Altered reflectivity changes the amount of solar energy absorbed"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "How long does carbon dioxide remain in the atmosphere according to the text?",
       "options": [
-        "About 10 years",
-        "Less than one year",
-        "Over 100 years",
-        "About 1,000,000 years"
+        "A volcanic eruption",
+        "Every 11 years",
+        "Milutin Milankovitch",
+        "Over 100 years"
       ],
       "correctAnswer": "Over 100 years"
     },
@@ -94,21 +94,21 @@
       "id": 8,
       "question": "Why are natural and human causes distinguished by mechanism?",
       "options": [
-        "Both use exactly the same mechanisms",
-        "Humans cannot affect the atmosphere",
-        "Natural causes only affect the oceans",
-        "Natural causes can work through all three external mechanisms while humans mainly use two"
+        "Natural causes use all three mechanisms; humans mainly use two",
+        "Orbital variations help initiate glacial and interglacial periods",
+        "Human influence is the dominant cause of warming since the mid-twentieth century",
+        "Changes in incoming solar radiation, atmospheric composition and Earth surface"
       ],
-      "correctAnswer": "Natural causes can work through all three external mechanisms while humans mainly use two"
+      "correctAnswer": "Natural causes use all three mechanisms; humans mainly use two"
     },
     {
       "id": 9,
       "question": "What is the link between Milankovitch cycles and ice ages?",
       "options": [
-        "Orbital variations help initiate glacial and interglacial periods",
-        "They control volcanic eruptions",
-        "They determine ocean salinity",
-        "They cause earthquakes"
+        "Ocean and atmosphere circulation that redistributes energy",
+        "Altered reflectivity changes the amount of solar energy absorbed",
+        "An increase in desert conditions from overgrazing and cultivation",
+        "Orbital variations help initiate glacial and interglacial periods"
       ],
       "correctAnswer": "Orbital variations help initiate glacial and interglacial periods"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "Which gas is released mainly by burning coal, oil and natural gas?",
       "options": [
-        "Nitrous oxide from forests",
         "Carbon dioxide",
-        "Methane from wetlands",
-        "Water vapor from oceans"
+        "Every 11 years",
+        "A volcanic eruption",
+        "Milutin Milankovitch"
       ],
       "correctAnswer": "Carbon dioxide"
     }

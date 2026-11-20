@@ -17,10 +17,10 @@
       "id": 1,
       "question": "What does eccentricity refer to in the Milankovitch theory?",
       "options": [
+        "By adding greenhouse gases and aerosols to the atmosphere",
+        "A cooler, darker magnetic storm region on the Sun",
         "Changes in the shape of Earth orbit around the Sun",
-        "Changes in the tilt of the axis",
-        "The wobbling of the axis",
-        "The number of sunspots"
+        "Ocean and atmosphere circulation that redistributes energy"
       ],
       "correctAnswer": "Changes in the shape of Earth orbit around the Sun"
     },
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "What does obliquity refer to?",
       "options": [
-        "Changes in orbital shape",
+        "Eccentricity, precession and obliquity",
         "Changes in the tilt of Earth axis",
-        "The wobbling of the axis",
-        "Solar flare frequency"
+        "A probability of at least 95 percent",
+        "The wobbling of Earth axis of rotation"
       ],
       "correctAnswer": "Changes in the tilt of Earth axis"
     },
@@ -39,10 +39,10 @@
       "id": 3,
       "question": "What does precession refer to?",
       "options": [
-        "The tilt of the axis",
-        "The shape of the orbit",
-        "The wobbling of Earth axis of rotation",
-        "The speed of ocean currents"
+        "Sulfuric acid haze reflects incoming sunlight",
+        "They prevent sunlight from reaching the ground",
+        "Eccentricity, precession and obliquity",
+        "The wobbling of Earth axis of rotation"
       ],
       "correctAnswer": "The wobbling of Earth axis of rotation"
     },
@@ -50,9 +50,9 @@
       "id": 4,
       "question": "How can volcanic eruptions cool Earth surface?",
       "options": [
-        "Ash warms the stratosphere",
-        "Lava absorbs all sunlight",
-        "Gases trap more heat",
+        "A cooler, darker magnetic storm region on the Sun",
+        "Changes in the shape of Earth orbit around the Sun",
+        "They prevent sunlight from reaching the ground",
         "Sulfuric acid haze reflects incoming sunlight"
       ],
       "correctAnswer": "Sulfuric acid haze reflects incoming sunlight"
@@ -61,10 +61,10 @@
       "id": 5,
       "question": "What effect do sulfate and nitrate aerosols have?",
       "options": [
+        "A probability of at least 95 percent",
         "They mainly reflect incoming sunlight",
-        "They absorb all sunlight",
-        "They increase infrared trapping",
-        "They produce ozone"
+        "Eccentricity, precession and obliquity",
+        "The wobbling of Earth axis of rotation"
       ],
       "correctAnswer": "They mainly reflect incoming sunlight"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "What effect does soot have?",
       "options": [
-        "It reflects all sunlight",
+        "Changes in the tilt of Earth axis",
         "It readily absorbs sunlight",
-        "It forms sulfuric acid haze",
-        "It cools the stratosphere"
+        "About 33 degrees Celsius lower",
+        "Milutin Milankovitch"
       ],
       "correctAnswer": "It readily absorbs sunlight"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "How does deforestation affect local climate in the Amazon?",
       "options": [
-        "It increases rainfall in all cases",
-        "It lowers surface albedo everywhere",
         "It reduces evaporative cooling and raises temperature",
-        "It stops all transpiration immediately"
+        "By adding greenhouse gases and aerosols to the atmosphere",
+        "Urban surfaces and haze alter the local energy balance",
+        "Ocean and atmosphere circulation that redistributes energy"
       ],
       "correctAnswer": "It reduces evaporative cooling and raises temperature"
     },
@@ -94,10 +94,10 @@
       "id": 8,
       "question": "What is desertification?",
       "options": [
-        "The growth of forests in deserts",
-        "The cooling of semi-arid regions",
-        "The formation of new lakes",
-        "An increase in desert conditions from overgrazing and cultivation"
+        "Orbital variations help initiate glacial and interglacial periods",
+        "An increase in desert conditions from overgrazing and cultivation",
+        "Ocean and atmosphere circulation that redistributes energy",
+        "Altered reflectivity changes the amount of solar energy absorbed"
       ],
       "correctAnswer": "An increase in desert conditions from overgrazing and cultivation"
     },
@@ -105,10 +105,10 @@
       "id": 9,
       "question": "How much warming does methane cause compared with an equal mass of carbon dioxide over 100 years?",
       "options": [
+        "It readily absorbs sunlight",
+        "About 33 degrees Celsius lower",
         "About 21 times as much",
-        "About the same amount",
-        "About one twenty-first as much",
-        "About 100 times less"
+        "Burning of fossil fuels"
       ],
       "correctAnswer": "About 21 times as much"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "How much lower would Earth temperature be without greenhouse gases?",
       "options": [
-        "About 3 degrees Celsius lower",
+        "Eccentricity, precession and obliquity",
         "About 33 degrees Celsius lower",
-        "About 100 degrees Celsius lower",
-        "About 10 degrees Celsius higher"
+        "A probability of at least 95 percent",
+        "Changes in the tilt of Earth axis"
       ],
       "correctAnswer": "About 33 degrees Celsius lower"
     }

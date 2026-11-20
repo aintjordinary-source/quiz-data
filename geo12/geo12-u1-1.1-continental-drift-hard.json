@@ -17,10 +17,10 @@
       "id": 1,
       "question": "Why is the fit of continental shelves stronger evidence than the fit of coastlines?",
       "options": [
+        "Most conclusive data came from the Southern Hemisphere",
+        "The landmasses were connected so the reptile could disperse",
         "Shelves reveal the true submerged edges of continents",
-        "Shelves are affected by seasonal waves",
-        "Shelves are younger than coastlines",
-        "Shelves lie above sea level"
+        "They have moved relative to each other over geologic time"
       ],
       "correctAnswer": "Shelves reveal the true submerged edges of continents"
     },
@@ -28,10 +28,10 @@
       "id": 2,
       "question": "What does the presence of same-age rocks on both sides of the Atlantic support?",
       "options": [
-        "The Atlantic Ocean once covered all continents",
+        "Shelves reveal the true submerged edges of continents",
         "Africa and South America were once contiguous",
-        "Mountain belts formed independently on each continent",
-        "Rock ages are identical worldwide"
+        "Offering a paradigm change from fixism to mobilism",
+        "Continents have moved into different climatic zones"
       ],
       "correctAnswer": "Africa and South America were once contiguous"
     },
@@ -39,20 +39,20 @@
       "id": 3,
       "question": "Which combination of evidence most strongly supported the existence of Pangaea?",
       "options": [
-        "Only the outlines of the continents",
-        "Only the distribution of deserts",
-        "Coastline fit, identical fossils, matching rock belts and paleoclimate",
-        "Only the age of oceanic crust"
+        "Scientists doubted that so much drift could happen in so short a time",
+        "The landmasses were connected so the reptile could disperse",
+        "It introduced moving continents that plate tectonics later explained",
+        "Coastline fit, matching fossils, rock belts and paleoclimate"
       ],
-      "correctAnswer": "Coastline fit, identical fossils, matching rock belts and paleoclimate"
+      "correctAnswer": "Coastline fit, matching fossils, rock belts and paleoclimate"
     },
     {
       "id": 4,
       "question": "Why did the short timescale proposed by Wegener undermine his theory?",
       "options": [
-        "The rocks were too young to measure",
-        "The fossils were too small to study",
-        "The continents were too large to move",
+        "Coastline fit, identical fossils, matching rock belts and paleoclimate",
+        "The landmasses were connected so the reptile could disperse",
+        "It introduced moving continents that plate tectonics later explained",
         "Scientists doubted that so much drift could happen in so short a time"
       ],
       "correctAnswer": "Scientists doubted that so much drift could happen in so short a time"
@@ -62,9 +62,9 @@
       "question": "What name is given to the shift from fixism to mobilism?",
       "options": [
         "A paradigm change in viewing Earth",
-        "A return to ancient geology",
-        "A rejection of all fossils",
-        "A new theory of ocean tides"
+        "Rock type and structural similarity",
+        "In the Northern Hemisphere",
+        "He was not a geologist by profession"
       ],
       "correctAnswer": "A paradigm change in viewing Earth"
     },
@@ -72,10 +72,10 @@
       "id": 6,
       "question": "How did the location of influential scientists weaken Wegener’s theory?",
       "options": [
-        "They all worked in South America",
+        "They have moved relative to each other over geologic time",
         "Most conclusive data came from the Southern Hemisphere",
-        "They rejected all field observations",
-        "They had access to no fossil data"
+        "Shelves reveal the true submerged edges of continents",
+        "The landmasses were connected so the reptile could disperse"
       ],
       "correctAnswer": "Most conclusive data came from the Southern Hemisphere"
     },
@@ -83,10 +83,10 @@
       "id": 7,
       "question": "Mesosaurus was a small reptile found on both sides of the Atlantic. What does this imply?",
       "options": [
-        "The reptile crossed the open ocean repeatedly",
-        "The reptile evolved separately on each continent",
+        "It introduced moving continents that plate tectonics later explained",
         "The landmasses were connected so the reptile could disperse",
-        "The Atlantic Ocean was once a desert"
+        "The lack of a plausible mechanism for continental movement",
+        "Most conclusive data came from the Southern Hemisphere"
       ],
       "correctAnswer": "The landmasses were connected so the reptile could disperse"
     },
@@ -94,9 +94,9 @@
       "id": 8,
       "question": "What do glacial deposits in now-tropical regions indicate?",
       "options": [
-        "Glaciers once formed at the equator only",
-        "Tropical regions have always been cold",
-        "The Earth axis never changes",
+        "The landmasses were connected so the reptile could disperse",
+        "Shelves reveal the true submerged edges of continents",
+        "Most conclusive data came from the Southern Hemisphere",
         "Continents have moved into different climatic zones"
       ],
       "correctAnswer": "Continents have moved into different climatic zones"
@@ -105,10 +105,10 @@
       "id": 9,
       "question": "How is continental drift theory related to plate tectonics?",
       "options": [
+        "Coastline fit, identical fossils, matching rock belts and paleoclimate",
         "It introduced moving continents that plate tectonics later explained",
-        "It was replaced without leaving any legacy",
-        "It proved that continents are fixed",
-        "It described only ocean currents"
+        "The landmasses were connected so the reptile could disperse",
+        "Scientists doubted that so much drift could happen in so short a time"
       ],
       "correctAnswer": "It introduced moving continents that plate tectonics later explained"
     },
@@ -116,10 +116,10 @@
       "id": 10,
       "question": "Which achievement is considered Wegener’s most important legacy?",
       "options": [
-        "Discovering the mechanism of plate motion",
         "Offering a paradigm change from fixism to mobilism",
-        "Mapping the ocean floor",
-        "Dating the age of Earth"
+        "Shelves reveal the true submerged edges of continents",
+        "Continents have moved into different climatic zones",
+        "Most conclusive data came from the Southern Hemisphere"
       ],
       "correctAnswer": "Offering a paradigm change from fixism to mobilism"
     }
